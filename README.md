@@ -17,14 +17,14 @@ Autoregressive models have shown significant progress in generating high-quality
 
 ## 📣 Update News
 
-`[2024-10-11]` We released the repository.
+`[2024-10-13]` We released the repository.
 
 ## ⚡ Contributing
 
 We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
 We will actively maintain this repository by incorporating new research as it emerges. If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue.
 
-If you want to add your work or model to this list, please do not hesitate to email tcftrees@gmail.com and jhuang90@ur.rochester.edu or [pull requests]([https://github.com/ChaofanTao/autoregressive-vision-survey/pulls](https://github.com/ChaofanTao/autoregressive-vision-survey/pulls)).
+If you want to add your work or model to this list, please do not hesitate to [pull requests]([https://github.com/ChaofanTao/autoregressive-vision-survey/pulls](https://github.com/ChaofanTao/autoregressive-vision-survey/pulls)).
 Markdown format:
 
 ```markdown
