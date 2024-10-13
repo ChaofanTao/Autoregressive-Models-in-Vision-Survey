@@ -172,13 +172,13 @@ Markdown format:
      - **[Arxiv, 2022.05]** **CogVideo**: Large-scale Pretraining for Text-to-Video Generation via Transformers [paper](https://arxiv.org/pdf/2205.15868) [Code](https://github.com/THUDM/CogVideo)
      - **[ECCV, 2022]** **NÜWA**: Visual Synthesis Pre-training for Neural visUal World creAtion [paper](https://arxiv.org/pdf/2111.12417) [Code](https://github.com/microsoft/NUWA)
      - **[NeurIPS, 2022]** **NUWA-Infinity**: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis [paper](https://arxiv.org/pdf/2207.09814) [Code](https://github.com/microsoft/NUWA)
-     - **[CVPR, 2024]** **ART-V**: Auto-Regressive Text-to-Video Generation with Diffusion Models [paper](https://arxiv.org/pdf/2311.18834) 
-     - **[arxiv, 2024.02]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [paper](https://arxiv.org/pdf/2402.03161) [code](https://github.com/jy0205/LaVIT)
+     - **[CVPR, 2024]** **ART-V**: Auto-Regressive Text-to-Video Generation with Diffusion Models [paper](https://arxiv.org/pdf/2311.18834)
      - **[Arxiv, 2024.02]** **LWM** World Model on Million-Length Video And Language With Blockwise RingAttention [Paper](https://arxiv.org/pdf/2402.08268) [Code](https://github.com/LargeWorldModel/LWM)
      - **[Arxiv, 2024.06]** **ViD-GPT**: Introducing GPT-style Autoregressive Generation in Video Diffusion Models [paper](https://arxiv.org/pdf/2406.10981) [Code](https://github.com/Dawn-LX/Causal-VideoGen)
      - **[Arxiv, 2024.06]** **iVideoGPT**: Interactive VideoGPTs are Scalable World Models [Paper](https://arxiv.org/pdf/2405.15223) [Code](https://github.com/thuml/iVideoGPT)
      - **[Arxiv, 2024.06]**  **Pandora**: Towards General World Model with Natural Language Actions and Video States [Paper](https://arxiv.org/pdf/2406.09455) [Code](https://github.com/maitrix-org/Pandora)
      - **[Arxiv, 2024.10]**  **Loong**: Generating Minute-level Long Videos with Autoregressive Language Models [Paper](https://arxiv.org/pdf/2410.02757)
+     - **[Arxiv, 2024.10]**  **Pyramid Flow**: Pyramidal Flow Matching for Efficient Video Generative Modeling [Paper](https://arxiv.org/pdf/2410.05954) [Code](https://github.com/jy0205/Pyramid-Flow)
      - **[Arxiv, 2024.10]**  Progressive Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2410.08151) [Code](https://github.com/desaixie/pa_vdm)
          
    - ##### Visual Conditional Video Generation
@@ -195,6 +195,7 @@ Markdown format:
      - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
      - **[CVPR, 2023]** **MAGVIT**: Masked Generative Video Transformer [paper](https://arxiv.org/pdf/2212.05199)
      - **[ICML, 2024]** **VideoPoet**: A Large Language Model for Zero-Shot Video Generation [paper](https://arxiv.org/pdf/2312.14125)
+     - **[ICML, 2024]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [paper](https://arxiv.org/pdf/2402.03161) [code](https://github.com/jy0205/LaVIT)
     
 ### Multi-Modal Tasks
   - **[Arxiv, 2024.10]** vACDC: Autoregressive Coherent Multimodal Generation using Diffusion Correction [paper](https://arxiv.org/pdf/2410.04721) [Code](https://acdc2025.github.io/)
