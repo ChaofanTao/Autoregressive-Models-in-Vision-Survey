@@ -254,7 +254,7 @@ Markdown format:
 | Turing Test                         | Qualitative                 | Pass/fail                            | [Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)                                         |
 | User Studies (ratings, satisfaction)| Qualitative                 | ↑                                    | Various, depending on the user study methodology     |
 
-
+<!--
 ## 👍 Acknowledgement
 To be continued
 
@@ -264,7 +264,7 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 
 ```BibTeX
 To be continued
-```
+–>
 
 ## ♥️ Contributors
 
