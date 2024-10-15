@@ -102,6 +102,7 @@ Markdown format:
     - **[Arxiv, 2024.04]** **Visual Autoregressive Modeling:** Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/pdf/2404.02905) [Code](https://github.com/FoundationVision/VAR)
     
 ### Text-to-Image Generation
+  - **[Arxiv, 2024.10]** **HART**: Efficient Visual Generation with Hybrid Autoregressive Transformer [Paper](https://arxiv.org/abs/2410.10812) [Code](https://github.com/mit-han-lab/hart)
   - **[Arxiv, 2024.10]** **DART**: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159) [Code](https://github.com/daixiangzi/VAR-CLIP)
   - **[Arxiv, 2024.08]** **VAR-CLIP**: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/pdf/2408.01181) [Code](https://github.com/daixiangzi/VAR-CLIP)
   - **[Arxiv, 2024.08]** **Lumina-mGPT**: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://arxiv.org/pdf/2408.02657) [Code](https://github.com/Alpha-VLLM/Lumina-mGPT)
