@@ -260,6 +260,10 @@ Markdown format:
 | Turing Test                         | Qualitative                 | Pass/fail                            | [Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)                                         |
 | User Studies (ratings, satisfaction)| Qualitative                 | ↑                                    | Various, depending on the user study methodology     |
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ChaofanTao/Autoregressive-Models-in-Vision-Survey&type=Date)](https://star-history.com/#ChaofanTao/Autoregressive-Models-in-Vision-Survey&Date)
+
 ## ♥️ Contributors
 
 <a href="https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey/graphs/contributors">
@@ -270,6 +274,7 @@ Markdown format:
 ## 👍 Acknowledgement
 To be continued
 
+
 ## 📑 Citation
 
 Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
@@ -277,5 +282,6 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 ```BibTeX
 To be continued
 –->
+
 
 
