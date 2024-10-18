@@ -6,7 +6,6 @@
 
 <h5 align="center">
 
-
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaofanTao%2FAutoregressive-Models-in-Vision-Survey&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
    ![GitHub Repo stars](https://img.shields.io/github/stars/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
@@ -14,6 +13,10 @@
 </h5>
 
 Autoregressive models have shown significant progress in generating high-quality content by modeling the dependencies sequentially. This repo is a curated list of papers about the latest advancements in autoregressive models in vision. **This repo is being actively updated, please stay tuned!**
+
+<div align=center>
+<img src="img/timeline.png" width="500px">
+</div>
 
 ## 📣 Update News
 
@@ -31,6 +34,7 @@ Markdown format:
 * [**Name of Conference or Journal + Year**] Paper Name. [[paper]](link) [[code]](link)
 ```
 
+
 ## 📖 Table of Contents
 - [📣 Update News](#-update-news)
 - [⚡ Contributing](#-contributing)
@@ -43,12 +47,13 @@ Markdown format:
   - [Motion Generation](#motion-generation)
   - [Video Generation](#video-generation)
   - [Multi-Modal Tasks](#multi-modal-tasks)
-  - [Other Generation](#other-generation)
-  - [Accelerating](#accelerating)
+  - [Other Generation (Motion, Robot, Scene, 3D， Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
+  - [Accelerating \& Stability](#accelerating--stability)
   - [Evaluation Metrics](#evaluation-metrics)
+- [Star History](#star-history)
+- [♥️ Contributors](#️-contributors)
 - [👍 Acknowledgement](#-acknowledgement)
 - [📑 Citation](#-citation)
-- [♥️ Contributors](#️-contributors)
 
 ### Unconditional/Class-Conditioned Image Generation
   - #### Pixel-wise Generation
