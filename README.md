@@ -224,8 +224,9 @@ Markdown format:
   - **[Arxiv, 2021.12]** **ERNIE-ViLG**: Unified Generative Pre-training for Bidirectional Vision-Language Generation [Paper](https://arxiv.org/pdf/2112.15283) 
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
   
-### Other Generation
+### Other Generation (Motion, Robot, Scene, Outpainting)
   - **[Arxiv, 2024.10]** DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control [Paper](https://carxiv.org/pdf/2410.05260)
+  - **[Arxiv, 2024.10]** Autoregressive Action Sequence Learning for Robotic Manipulation [Paper](https://arxiv.org/abs/2410.03132) [Code](https://github.com/mlzxy/arp)
   - **[Arxiv, 2024.07]** Video In-context Learning [Paper](https://arxiv.org/pdf/2407.07356)
   - **[CVPR, 2024]** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
   - **[AAAI, 2024]** Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation [Paper](https://arxiv.org/pdf/2309.03467) [Code](https://github.com/zhuqiangLu/AOG-NET-360)
