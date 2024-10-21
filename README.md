@@ -15,7 +15,7 @@
 Autoregressive models have shown significant progress in generating high-quality content by modeling the dependencies sequentially. This repo is a curated list of papers about the latest advancements in autoregressive models in vision. **This repo is being actively updated, please stay tuned!**
 
 <div align=center>
-<img src="img/Timeline_3.0.pngs" width="800px">
+<img src="img/Timeline_3.0.png" width="800px">
 </div>
 
 ## 📣 Update News
