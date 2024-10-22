@@ -248,7 +248,8 @@ Markdown format:
   - **[NeurIPS, 2021]** Multimodal Few-Shot Learning with Frozen Language Models [Paper](https://arxiv.org/pdf/2106.13884)
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [paper](https://arxiv.org/pdf/2007.08247)
 
-### Accelerating & Stability
+### Accelerating & Stability & Analysis
+  - **[Arxiv, 2024.10]** Elucidating the Design Space of Language Models for Image Generation [Paper](https://arxiv.org/pdf/2410.16257) [Code](https://github.com/Pepper-lll/LMforImageGeneration)
   - **[NeurIPS, 2024]** Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/pdf/2410.12490) [Code](https://github.com/DAMO-NLP-SG/DiGIT)
   - **[Arxiv, 2024.10]** Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding [Paper](https://arxiv.org/abs/2410.01699)
   - **[Arxiv, 2024.09]** Pre-trained Language Models Do Not Help Auto-regressive Text-to-Image Generation [Paper](https://arxiv.org/pdf/2311.16201)
