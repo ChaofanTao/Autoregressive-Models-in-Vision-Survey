@@ -67,6 +67,8 @@ Markdown format:
     - **[ICML,2016]** **PixelRNN** Pixel Recurrent Neural Networks [Paper](https://arxiv.org/pdf/1601.06759) [Code](https://github.com/j-min/PixelCNN)
     
   - #### Token-wise Generation
+    
+    - [**Arxiv, 2024.09**] **Emu3**: Next-Token Prediction is All You NeedPaper Name. [[paper]]([2409.18869 (arxiv.org)](https://arxiv.org/pdf/2409.18869)) [Code]([baaivision/Emu3: Next-Token Prediction is All You Need (github.com)](https://github.com/baaivision/Emu3)) [Project]([Emu3 (baai.ac.cn)](https://emu.baai.ac.cn/about))
     - **[Arxiv, 2024.09]** **Open-MAGVIT2**: Democratizing Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2409.04410) [Code](https://github.com/TencentARC/Open-MAGVIT2)
     - **[Arxiv, 2024.06]** **OmniTokenizer**: A Joint Image-Video Tokenizer for Visual Generation [Paper](https://arxiv.org/pdf/2406.09399) [Code](https://github.com/FoundationVision/OmniTokenizer)
     - **[Arxiv, 2024.06]** Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837) [Code](https://github.com/zh460045050/VQGAN-LC)
@@ -106,7 +108,7 @@ Markdown format:
     - **[Arxiv, 2024.10]** Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling [Paper](https://arxiv.org/abs/2410.10511) [Code](https://github.com/poppuppy/SAR)
     - **[CVPR, 2022]** **RQ-Transformer** Autoregressive Image Generation Using Residual Quantization [Paper](https://arxiv.org/pdf/2203.01941) [Code](https://github.com/kakaobrain/rq-vae-transformer)  
     - **[Arxiv, 2024.04]** **Visual Autoregressive Modeling:** Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/pdf/2404.02905) [Code](https://github.com/FoundationVision/VAR)
-    
+
 ### Text-to-Image Generation
   - **[Arxiv, 2024.10]** **Fluid**: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863)
   - **[Arxiv, 2024.10]** **HART**: Efficient Visual Generation with Hybrid Autoregressive Transformer [Paper](https://arxiv.org/abs/2410.10812) [Code](https://github.com/mit-han-lab/hart)
@@ -127,7 +129,7 @@ Markdown format:
   - **[CVPR, 2022]** **Make-A-Story:** Visual Memory Conditioned Consistent Story Generation (*storytelling*) [Paper](https://arxiv.org/pdf/2211.13319) 
   - **[NeurIPS, 2021]** **CogView**: Mastering Text-to-Image Generation via Transformers [Paper](https://arxiv.org/pdf/2105.13290) [Code](https://github.com/THUDM/CogView)
   - **[Arxiv, 2021.02]** **DALL-E 1:** Zero-Shot Text-to-Image Generation [Paper](https://arxiv.org/pdf/2102.12092)
-   
+
 ### Image-to-Image Translation
   - **[Arxiv, 2024,06]** CAR: Controllable Autoregressive Modeling for Visual Generation [Paper](https://arxiv.org/abs/2410.04671) [Code](https://github.com/MiracleDance/CAR)
   - **[Arxiv, 2024,06]** ControlAR: Controllable Image Generation with Autoregressive Models [Paper](https://arxiv.org/abs/2410.02705) [Code](https://github.com/hustvl/ControlAR)
@@ -141,17 +143,17 @@ Markdown format:
   - **[ECCV, 2022]** **Make-A-Scene:** Scene-Based Text-to-Image Generation with Human Priors [Paper](https://arxiv.org/pdf/2203.13131)
   - **[NeurIPS, 2021]** **ImageBART**: Context with Multinomial Diffusion for Autoregressive Image Synthesis [Paper](https://arxiv.org/pdf/2108.08827) [Code](https://github.com/CompVis/imagebart)
   - **[ECCV, 2022]** **QueryOTR**: Outpainting by Queries [Paper](https://arxiv.org/pdf/2207.05312) [Code](https://github.com/Kaiseem/QueryOTR)
-  
+
 ### Medical Tasks in Vision
   - **[arxiv, 2024]** Autoregressive Sequence Modeling for 3D Medical Image Representation [paper](https://arxiv.org/pdf/2409.08691v1) 
   - **[arxiv, 2024]** Medical Vision Generalist: Unifying Medical Imaging Tasks in Context [paper](https://arxiv.org/pdf/2406.05565) [code](https://arxiv.org/pdf/2406.05565)
   - **[MIDL, 2024]** Conditional Generation of 3D Brain Tumor ROIs via VQGAN and Temporal-Agnostic Masked Transformer [paper](https://openreview.net/pdf?id=LLoSHPorlM)
   - **[NMI, 2024]** Realistic morphology-preserving generative modelling of the brain [paper](https://www.nature.com/articles/s42256-024-00864-0) [code](https://github.com/AmigoLab/BrainSynth)
   - **[Arxiv, 2023]** Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks [paper](https://arxiv.org/pdf/2310.01251)
-  ```medical image-to-image translation```
+    ```medical image-to-image translation```
   - **[ICCV, 2023]** Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.pdf) [Code](https://github.com/samb-t/x2ct-vqvae)
   - **[MICCAI, 2022]** Morphology-preserving Autoregressive 3D Generative Modelling of the Brain [paper](https://arxiv.org/pdf/2209.03177) [code](https://github.com/AmigoLab/SynthAnatomy)
-  ```medical image generation```
+    ```medical image generation```
   - **[ICIP, 2021]** Generating Annotated High-Fidelity Images Containing Multiple Coherent Objects [paper](https://arxiv.org/pdf/2006.12150) [Code](https://github.com/Cynetics/MSGNet/)
 
 ### Motion Generation
@@ -159,7 +161,7 @@ Markdown format:
   - **[CVPR, 2023]**  **T2M-GPT**: Generating Human Motion from Textual Descriptions with Discrete Representations [Paper](https://arxiv.org/pdf/2301.06052)
   - **[Arxiv, 2022]** **HiT-DVAE**: Human Motion Generation via Hierarchical Transformer Dynamical VAE [Paper](https://arxiv.org/pdf/2204.01565)
   - **[ICCV, 2021 oral]** **HuMoR**: 3D Human Motion Model for Robust Pose Estimation [Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) [Code](https://github.com/davrempe/humor)
-  
+
 
 ### Video Generation
 
@@ -189,7 +191,7 @@ Markdown format:
      - **[Arxiv, 2024.10]**  **Loong**: Generating Minute-level Long Videos with Autoregressive Language Models [Paper](https://arxiv.org/pdf/2410.02757)
      - **[Arxiv, 2024.10]**  **Pyramid Flow**: Pyramidal Flow Matching for Efficient Video Generative Modeling [Paper](https://arxiv.org/pdf/2410.05954) [Code](https://github.com/jy0205/Pyramid-Flow)
      - **[Arxiv, 2024.10]**  Progressive Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2410.08151) [Code](https://github.com/desaixie/pa_vdm)
-         
+     
    - ##### Visual Conditional Video Generation
      - **[NeurIPS, 2015]** Convolutional LSTM network: A machine learning approach for precipitation nowcasting [paper](https://proceedings.neurips.cc/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf)
      - **[NeurIPS, 2017]** **Predrnn**: Recurrent neural networks for predictive learning using spatiotemporal lstms [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/e5f6ad6ce374177eef023bf5d0c018b6-Paper.pdf)
@@ -205,7 +207,7 @@ Markdown format:
      - **[CVPR, 2023]** **MAGVIT**: Masked Generative Video Transformer [paper](https://arxiv.org/pdf/2212.05199)
      - **[ICML, 2024]** **VideoPoet**: A Large Language Model for Zero-Shot Video Generation [paper](https://arxiv.org/pdf/2312.14125)
      - **[ICML, 2024]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [paper](https://arxiv.org/pdf/2402.03161) [code](https://github.com/jy0205/LaVIT)
-    
+   
 ### Multi-Modal Tasks
   - **[Arxiv, 2024.10]** **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
   - **[Arxiv, 2024.10]** **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [paper](https://arxiv.org/pdf/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
@@ -231,7 +233,7 @@ Markdown format:
   - **[NeurIPS, 2022]** **Flamingo**: a Visual Language Model for Few-Shot Learning [Paper](https://arxiv.org/pdf/2204.14198)
   - **[Arxiv, 2021.12]** **ERNIE-ViLG**: Unified Generative Pre-training for Bidirectional Vision-Language Generation [Paper](https://arxiv.org/pdf/2112.15283) 
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
-  
+
 ### Other Generation (Motion, Robot, Scene, 3D， Outpainting)
   - **[Arxiv, 2024.10]** DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control [Paper](https://carxiv.org/pdf/2410.05260)
   - **[Arxiv, 2024.10]** Autoregressive Action Sequence Learning for Robotic Manipulation [Paper](https://arxiv.org/abs/2410.03132) [Code](https://github.com/mlzxy/arp)
