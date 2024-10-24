@@ -48,7 +48,7 @@ Markdown format:
   - [Video Generation](#video-generation)
   - [Multi-Modal Tasks](#multi-modal-tasks)
   - [Other Generation (Motion, Robot, Scene, 3D， Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
-  - [Accelerating \& Stability](#accelerating--stability)
+  - [Accelerating \& Stability \& Analysis \& Scaling](#accelerating--stability--analysis--scaling)
   - [Evaluation Metrics](#evaluation-metrics)
 - [Star History](#star-history)
 - [♥️ Contributors](#️-contributors)
@@ -237,6 +237,7 @@ Markdown format:
 ### Other Generation (Motion, Robot, Scene, 3D， Outpainting)
   - **[Arxiv, 2024.10]** DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control [Paper](https://carxiv.org/pdf/2410.05260)
   - **[Arxiv, 2024.10]** Autoregressive Action Sequence Learning for Robotic Manipulation [Paper](https://arxiv.org/abs/2410.03132) [Code](https://github.com/mlzxy/arp)
+  - **[Arxiv, 2024.09]** BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation [Paper](https://www.arxiv.org/abs/2409.10847) [Code](https://github.com/RohollahHS/BAD)
   - **[Arxiv, 2024.07]** Video In-context Learning [Paper](https://arxiv.org/pdf/2407.07356)
   - **[CVPR, 2024]** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
   - **[AAAI, 2024]** Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation [Paper](https://arxiv.org/pdf/2309.03467) [Code](https://github.com/zhuqiangLu/AOG-NET-360)
@@ -248,12 +249,13 @@ Markdown format:
   - **[NeurIPS, 2021]** Multimodal Few-Shot Learning with Frozen Language Models [Paper](https://arxiv.org/pdf/2106.13884)
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [paper](https://arxiv.org/pdf/2007.08247)
 
-### Accelerating & Stability & Analysis
+### Accelerating & Stability & Analysis & Scaling
   - **[Arxiv, 2024.10]** Elucidating the Design Space of Language Models for Image Generation [Paper](https://arxiv.org/pdf/2410.16257) [Code](https://github.com/Pepper-lll/LMforImageGeneration)
   - **[NeurIPS, 2024]** Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/pdf/2410.12490) [Code](https://github.com/DAMO-NLP-SG/DiGIT)
   - **[Arxiv, 2024.10]** Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding [Paper](https://arxiv.org/abs/2410.01699)
   - **[Arxiv, 2024.09]** Pre-trained Language Models Do Not Help Auto-regressive Text-to-Image Generation [Paper](https://arxiv.org/pdf/2311.16201)
   - **[ECCV, 2024]** An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models [Paper](https://arxiv.org/pdf/2403.06764) [Code](https://github.com/pkunlp-icler/FastV)
+  - **[Arxiv, 2020]** Scaling Laws for Autoregressive Generative Modeling [Paper](https://arxiv.org/abs/2010.14701)
 
 
 ### Evaluation Metrics
