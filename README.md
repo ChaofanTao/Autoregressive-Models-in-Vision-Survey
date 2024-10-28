@@ -259,20 +259,20 @@ Markdown format:
 
 
 ### Evaluation Metrics
-| Metric Name                        | Quantitative or Qualitative | Higher is better↑ / Lower is better↓ | Paper proposing the metric                            |
-|-------------------------------------|-----------------------------|--------------------------------------|------------------------------------------------------|
-| Inception Score (IS)                | Quantitative                | ↑                                    | [Salimans et al., 2016](https://arxiv.org/pdf/1606.03498)                                |
-| Fréchet Inception Distance (FID)    | Quantitative                | ↓                                    | [Heusel et al., 2017](https://arxiv.org/pdf/1706.08500)                                  |
-| Kernel Inception Distance (KID)     | Quantitative                | ↓                                    | [Binkowski et al., 2018](https://arxiv.org/pdf/1801.01401)                               |
-| Precision and Recall                | Quantitative                | Depends on metric                    | [Powers, 2020](https://arxiv.org/pdf/2010.16061)                                 |
-| CLIP Maximum Mean Discrepancy         | Quantitative                | ↓                                    | [Jayasumana et al., 2023](https://arxiv.org/pdf/2401.09603)                           |
-| CLIP Score                          | Quantitative                | ↑                                    | [Hessel et al., 2021](https://arxiv.org/pdf/2104.08718)                                 |
-| R-precision                         | Quantitative                | ↑                                    | [Craswell et al., 2009](https://doi.org/10.1007/978-0-387-39940-9_486)                                      |
-| Perceptual Path Length              | Quantitative                | ↓                                    | [Karras et al., 2019](https://arxiv.org/pdf/1812.04948)                                  |
-| Fréchet Video Distance (FVD)        | Quantitative                | ↓                                    | [Unterthiner et al., 2019](https://arxiv.org/pdf/1812.01717)                             |
-| Aesthetic (Expert Evaluation)       | Qualitative                 | ↑                                    | Based on domain expertise                            |
-| Turing Test                         | Qualitative                 | Pass/fail                            | [Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)                                         |
-| User Studies (ratings, satisfaction)| Qualitative                 | ↑                                    | Various, depending on the user study methodology     |
+| Metric                              | Analysis Type               | Reference                                            |
+|-------------------------------------|-----------------------------|------------------------------------------------------|
+| Inception Score (IS) ↑                | Quantitative              | [Salimans et al., 2016](https://arxiv.org/pdf/1606.03498)                                |
+| Fréchet Inception Distance (FID)  ↓   | Quantitative              | [Heusel et al., 2017](https://arxiv.org/pdf/1706.08500)                                  |
+| Kernel Inception Distance (KID)  ↓    | Quantitative              | [Binkowski et al., 2018](https://arxiv.org/pdf/1801.01401)                               |
+| Precision and Recall ↑                | Quantitative              | [Powers, 2020](https://arxiv.org/pdf/2010.16061)                                         |
+| CLIP Maximum Mean Discrepancy ↓       | Quantitative              | [Jayasumana et al., 2023](https://arxiv.org/pdf/2401.09603)                              |
+| CLIP Score ↑                          | Quantitative              | [Hessel et al., 2021](https://arxiv.org/pdf/2104.08718)                                  |
+| R-precision ↑                         | Quantitative              | [Craswell et al., 2009](https://doi.org/10.1007/978-0-387-39940-9_486)                   |
+| Perceptual Path Length  ↓             | Quantitative              | [Karras et al., 2019](https://arxiv.org/pdf/1812.04948)                                  |
+| Fréchet Video Distance (FVD) ↓        | Quantitative              | [Unterthiner et al., 2019](https://arxiv.org/pdf/1812.01717)                             |
+| Aesthetic (Expert Evaluation) ↑       | Qualitative               | Based on domain expertise                                                                |
+| Turing Test                           | Qualitative               | [Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)                 |
+| User Studies (ratings, satisfaction)↑ | Qualitative               | Various, depending on the user study methodology                                         |
 
 ## Star History
 
