@@ -175,6 +175,7 @@ Markdown format:
     - **[CVPR, 2023]** **PVDM** Video Probabilistic Diffusion Models in Projected Latent Space [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_Video_Probabilistic_Diffusion_Models_in_Projected_Latent_Space_CVPR_2023_paper.html)
     - **[ECCV 2024]** **ST-LLM**: Large Language Models Are Effective Temporal Learners [Paper](https://arxiv.org/pdf/2404.00308) [Code](https://github.com/TencentARC/ST-LLM)
     - **[ICLR, 2024]**  **MAGVIT-v2** Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation [Paper](https://arxiv.org/pdf/2310.05737)
+    - **[Arxiv, 2024.10]**  **LARP**: Tokenizing Videos with a Learned Autoregressive Generative Prior [Paper](https://arxiv.org/pdf/2410.21264)
 
  - #### Conditional Video Generation
    - ##### Text-to-Video Generation
@@ -191,6 +192,7 @@ Markdown format:
      - **[Arxiv, 2024.10]**  **Loong**: Generating Minute-level Long Videos with Autoregressive Language Models [Paper](https://arxiv.org/pdf/2410.02757)
      - **[Arxiv, 2024.10]**  **Pyramid Flow**: Pyramidal Flow Matching for Efficient Video Generative Modeling [Paper](https://arxiv.org/pdf/2410.05954) [Code](https://github.com/jy0205/Pyramid-Flow)
      - **[Arxiv, 2024.10]**  Progressive Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2410.08151) [Code](https://github.com/desaixie/pa_vdm)
+     - **[Arxiv, 2024.10]**  **ARLON**: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [Paper](https://arxiv.org/pdf/2410.20502)  [Code](http://aka.ms/arlon)
      
    - ##### Visual Conditional Video Generation
      - **[NeurIPS, 2015]** Convolutional LSTM network: A machine learning approach for precipitation nowcasting [paper](https://proceedings.neurips.cc/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf)
@@ -201,6 +203,7 @@ Markdown format:
      - **[Arxiv, 2021.03]** Predicting Video with VQVAE [paper](https://arxiv.org/pdf/2103.01950)
      - **[ICIP, 2022]** **HARP**: Autoregressive Latent Video Prediction with High-Fidelity Image Generator [paper](https://arxiv.org/pdf/2209.07143)
      - **[CVPR, 2024]**  **LVM** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
+     - **[Arxiv, 2024.10]**  **MarDini**: Masked Autoregressive Diffusion for Video Generation at Scale [Paper](https://arxiv.org/pdf/2410.20502)
 
    - ##### Multimodal Conditional Video Generation
      - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
