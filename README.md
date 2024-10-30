@@ -211,7 +211,8 @@ Markdown format:
      - **[ICML, 2024]** **VideoPoet**: A Large Language Model for Zero-Shot Video Generation [paper](https://arxiv.org/pdf/2312.14125)
      - **[ICML, 2024]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [paper](https://arxiv.org/pdf/2402.03161) [code](https://github.com/jy0205/LaVIT)
    
-### Multi-Modal Tasks
+### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2024.10]** **D-JEPA**: Denoising with a Joint-Embedding Predictive Architecture [paper](https://arxiv.org/abs/2410.03755) [project](https://d-jepa.github.io/)
   - **[Arxiv, 2024.10]** **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
   - **[Arxiv, 2024.10]** **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [paper](https://arxiv.org/pdf/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
   - **[Arxiv, 2024.10]** **vACDC**: Autoregressive Coherent Multimodal Generation using Diffusion Correction [paper](https://arxiv.org/pdf/2410.04721) [Code](https://acdc2025.github.io/)
