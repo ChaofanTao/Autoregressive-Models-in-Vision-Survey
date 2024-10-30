@@ -46,7 +46,7 @@ Markdown format:
   - [Medical Tasks in Vision](#medical-tasks-in-vision)
   - [Motion Generation](#motion-generation)
   - [Video Generation](#video-generation)
-  - [Multi-Modal Tasks](#multi-modal-tasks)
+  - [Unified Understanding and Generation Multi-Modal LLMs](#multi-modal-tasks)
   - [Other Generation (Motion, Robot, Scene, 3D， Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
   - [Accelerating \& Stability \& Analysis \& Scaling](#accelerating--stability--analysis--scaling)
   - [Evaluation Metrics](#evaluation-metrics)
