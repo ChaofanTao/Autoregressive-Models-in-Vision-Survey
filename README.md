@@ -216,6 +216,7 @@ Markdown format:
   - **[Arxiv, 2024.10]** **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
   - **[Arxiv, 2024.10]** **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [paper](https://arxiv.org/pdf/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
   - **[Arxiv, 2024.10]** **vACDC**: Autoregressive Coherent Multimodal Generation using Diffusion Correction [paper](https://arxiv.org/pdf/2410.04721) [Code](https://acdc2025.github.io/)
+  - **[Arxiv, 2024.09]** **MIO**: A Foundation Model on Multimodal Tokens [paper](https://arxiv.org/pdf/2409.17692) 
   - **[Arxiv, 2024.08]** **Show-o:** One Single Transformer to Unify Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2408.12528) [Code](https://github.com/showlab/Show-o)
   - **[Arxiv, 2024.08]** **Transfusion:** Predict the Next Token and Diffuse Images with One Multi-Modal Model [paper](https://arxiv.org/pdf/2408.11039) [Code](https://github.com/lucidrains/transfusion-pytorch)
   - **[Arxiv, 2024.07]** **SEED-Story**: Multimodal Long Story Generation with Large Language Model [Paper](https://arxiv.org/pdf/2407.08683) [Code](https://github.com/TencentARC/SEED-Story)
