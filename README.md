@@ -20,7 +20,7 @@ Autoregressive models have shown significant progress in generating high-quality
 
 > *<sup>1</sup>The University of Hong Kong, <sup>2</sup>Tsinghua University, <sup>3</sup>Duke University, <sup>4</sup>University of Rochester, <sup>5</sup>The Ohio State University, <sup>6</sup>Bytedance, <sup>7</sup>The University of North Carolina at Chapel Hill, <sup>8</sup>Apple, <sup>9</sup>The Hong Kong Polytechnic University, <sup>10</sup>Princeton University*
 
-> *<sup>†</sup> Core Contributors, <sup>‡</sup> Corresponding Authors*
+> *<sup>†</sup> Core Contributors, <sup>*</sup> Corresponding Authors
 
 <div align=center>
 <img src="img/Timeline_4.0.png" width="800px">
