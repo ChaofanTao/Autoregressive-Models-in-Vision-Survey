@@ -55,7 +55,7 @@ Markdown format:
   - [Motion Generation](#motion-generation)
   - [Video Generation](#video-generation)
   - [Unified Understanding and Generation Multi-Modal LLMs](#unified-understanding-and-generation-multi-modal-llms)
-  - [Other Generation (Motion, Robot, Scene, 3D， Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
+  - [Other Generation (Motion, Robot, Scene, 3D, Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
   - [Accelerating \& Stability \& Analysis \& Scaling](#accelerating--stability--analysis--scaling)
   - [Evaluation Metrics](#evaluation-metrics)
 - [Star History](#star-history)
