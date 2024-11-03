@@ -227,7 +227,7 @@ Markdown format:
   - **[Arxiv, 2024.10]** **D-JEPA**: Denoising with a Joint-Embedding Predictive Architecture [paper](https://arxiv.org/abs/2410.03755) [project](https://d-jepa.github.io/)
   - **[Arxiv, 2024.10]** **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
   - **[Arxiv, 2024.10]** **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [paper](https://arxiv.org/pdf/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
-  - **[Arxiv, 2024.10]** **vACDC**: Autoregressive Coherent Multimodal Generation using Diffusion Correction [paper](https://arxiv.org/pdf/2410.04721) [Code](https://acdc2025.github.io/)
+  - **[Arxiv, 2024.10]** **ACDC**: Autoregressive Coherent Multimodal Generation using Diffusion Correction [paper](https://arxiv.org/pdf/2410.04721) [Code](https://acdc2025.github.io/)
   - **[Arxiv, 2024.09]** **VILA-U**: a Unified Foundation Model Integrating Visual Understanding and Generation [paper](https://arxiv.org/abs/2409.04429) [Code](https://github.com/mit-han-lab/vila-u)
   - **[Arxiv, 2024.09]** **MIO**: A Foundation Model on Multimodal Tokens [paper](https://arxiv.org/pdf/2409.17692) 
   - **[Arxiv, 2024.08]** **Show-o:** One Single Transformer to Unify Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2408.12528) [Code](https://github.com/showlab/Show-o)
