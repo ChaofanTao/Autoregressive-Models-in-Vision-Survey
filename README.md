@@ -23,7 +23,7 @@ Autoregressive models have shown significant progress in generating high-quality
 > *<sup>†</sup> Core Contributors, <sup>‡</sup> Corresponding Authors*
 
 <div align=center>
-<img src="img/Timeline_3.0.png" width="800px">
+<img src="img/Timeline_4.0.png" width="800px">
 </div>
 
 ## 📣 Update News
@@ -54,7 +54,7 @@ Markdown format:
   - [Medical Tasks in Vision](#medical-tasks-in-vision)
   - [Motion Generation](#motion-generation)
   - [Video Generation](#video-generation)
-  - [Unified Understanding and Generation Multi-Modal LLMs](#multi-modal-tasks)
+  - [Unified Understanding and Generation Multi-Modal LLMs](#unified-understanding-and-generation-multi-modal-llms)
   - [Other Generation (Motion, Robot, Scene, 3D， Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
   - [Accelerating \& Stability \& Analysis \& Scaling](#accelerating--stability--analysis--scaling)
   - [Evaluation Metrics](#evaluation-metrics)
@@ -62,6 +62,10 @@ Markdown format:
 - [♥️ Contributors](#️-contributors)
 - [👍 Acknowledgement](#-acknowledgement)
 - [📑 Citation](#-citation)
+
+<div align=center>
+<img src="img/outline.png" width="800px">
+</div>
 
 ### Unconditional/Class-Conditioned Image Generation
   - #### Pixel-wise Generation
