@@ -16,7 +16,7 @@ Autoregressive models have shown significant progress in generating high-quality
 
 > **Paper**: [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/) [Coming Soon!]
 
-> **Authors**: **Jing Xiong<sup>1,†</sup>, Gongye Liu<sup>2,†</sup>, Lun Huang<sup>3</sup>, Chengyue Wu<sup>1</sup>, Taiqiang Wu<sup>1</sup>, Yao Mu<sup>1</sup>, Yuan Yao<sup>4</sup>, Hui Shen<sup>5</sup>, Zhongwei Wan<sup>5</sup>, Jinfa Huang<sup>4</sup>, Chaofan Tao<sup>1,‡</sup>, Shen Yan<sup>6</sup>, Huaxiu Yao<sup>7</sup>, Lingpeng Kong<sup>1</sup>, Hongxia Yang<sup>9</sup>, Mi Zhang<sup>5</sup>, Guillermo Sapiro<sup>8,10</sup>, Jiebo Luo<sup>4</sup>, Ping Luo<sup>1</sup>, Ngai Wong<sup>1,*</sup>**
+> **Authors**: **Jing Xiong<sup>1,†</sup>, Gongye Liu<sup>2,†</sup>, Lun Huang<sup>3</sup>, Chengyue Wu<sup>1</sup>, Taiqiang Wu<sup>1</sup>, Yao Mu<sup>1</sup>, Yuan Yao<sup>4</sup>, Hui Shen<sup>5</sup>, Zhongwei Wan<sup>5</sup>, Jinfa Huang<sup>4</sup>, Chaofan Tao<sup>1,*</sup>, Shen Yan<sup>6</sup>, Huaxiu Yao<sup>7</sup>, Lingpeng Kong<sup>1</sup>, Hongxia Yang<sup>9</sup>, Mi Zhang<sup>5</sup>, Guillermo Sapiro<sup>8,10</sup>, Jiebo Luo<sup>4</sup>, Ping Luo<sup>1</sup>, Ngai Wong<sup>1,*</sup>**
 
 > *<sup>1</sup>The University of Hong Kong, <sup>2</sup>Tsinghua University, <sup>3</sup>Duke University, <sup>4</sup>University of Rochester, <sup>5</sup>The Ohio State University, <sup>6</sup>Bytedance, <sup>7</sup>The University of North Carolina at Chapel Hill, <sup>8</sup>Apple, <sup>9</sup>The Hong Kong Polytechnic University, <sup>10</sup>Princeton University*
 
