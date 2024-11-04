@@ -79,8 +79,7 @@ Markdown format:
     - **[ICML,2016]** **PixelRNN** Pixel Recurrent Neural Networks [Paper](https://arxiv.org/pdf/1601.06759) [Code](https://github.com/j-min/PixelCNN)
     
   - #### Token-wise Generation
-    
-    - [**Arxiv, 2024.09**] **Emu3**: Next-Token Prediction is All You NeedPaper Name. [Paper](https://arxiv.org/pdf/2409.18869) [Code](https://github.com/baaivision/Emu3) [Project](https://emu.baai.ac.cn/about)
+    - [**Arxiv, 2024.11**] Randomized Autoregressive Visual Generation. [Paper](https://arxiv.org/pdf/2411.00776) [Code](https://github.com/bytedance/1d-tokenizer) [Project](https://yucornetto.github.io/projects/rar.html)
     - **[Arxiv, 2024.09]** **Open-MAGVIT2**: Democratizing Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2409.04410) [Code](https://github.com/TencentARC/Open-MAGVIT2)
     - **[Arxiv, 2024.06]** **OmniTokenizer**: A Joint Image-Video Tokenizer for Visual Generation [Paper](https://arxiv.org/pdf/2406.09399) [Code](https://github.com/FoundationVision/OmniTokenizer)
     - **[Arxiv, 2024.06]** Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837) [Code](https://github.com/zh460045050/VQGAN-LC)
@@ -224,6 +223,8 @@ Markdown format:
      - **[ICML, 2024]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [paper](https://arxiv.org/pdf/2402.03161) [code](https://github.com/jy0205/LaVIT)
    
 ### Unified Understanding and Generation Multi-Modal LLMs
+  - [**Arxiv, 2024.11**]   Unified Generative and Discriminative Training for Multi-modal Large Language Models. [Paper](https://arxiv.org/pdf/2411.00304) [Project](https://sugar-mllm.github.io/)
+  - [**Arxiv, 2024.09**] **Emu3**: Next-Token Prediction is All You NeedPaper Name. [Paper](https://arxiv.org/pdf/2409.18869) [Code](https://github.com/baaivision/Emu3) [Project](https://emu.baai.ac.cn/about)
   - **[Arxiv, 2024.10]** **D-JEPA**: Denoising with a Joint-Embedding Predictive Architecture [paper](https://arxiv.org/abs/2410.03755) [project](https://d-jepa.github.io/)
   - **[Arxiv, 2024.10]** **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
   - **[Arxiv, 2024.10]** **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [paper](https://arxiv.org/pdf/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
