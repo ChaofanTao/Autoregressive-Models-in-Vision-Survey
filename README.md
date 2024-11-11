@@ -29,7 +29,8 @@ Autoregressive models have shown significant progress in generating high-quality
 ## 📣 Update News
 
 `[2024-11-11]` We have released the survey: [Autoregressive Models in Vision: A Survey](asset/TMLR_autoregressive.pdf).
-`[2024-10-13]` We have released the repository.
+
+`[2024-10-13]` We have inited the repository.
 
 ## ⚡ Contributing
 
