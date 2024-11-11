@@ -30,12 +30,12 @@ Autoregressive models have shown significant progress in generating high-quality
 
 `[2024-11-11]` We have released the survey: [Autoregressive Models in Vision: A Survey](asset/TMLR_autoregressive.pdf).
 
-`[2024-10-13]` We have inited the repository.
+`[2024-10-13]` We have initialed the repository.
 
 ## ⚡ Contributing
 
-We welcome feedback, suggestions, and contributions that can help improve this survey and repository so as to make them valuable resources to benefit the entire community.
-We will actively maintain this repository by incorporating new research as it emerges. If you have any suggestions regarding our taxonomy, find any missed papers, or update any preprint arXiv paper that has been accepted to some venue.
+We welcome feedback, suggestions, and contributions that can help improve this survey and repository and make them valuable resources for the entire community.
+We will actively maintain this repository by incorporating new research as it emerges. If you have any suggestions about our taxonomy, please take a look at any missed papers, or update any preprint arXiv paper that has been accepted to some venue.
 
 If you want to add your work or model to this list, please do not hesitate to [pull requests]([https://github.com/ChaofanTao/autoregressive-vision-survey/pulls](https://github.com/ChaofanTao/autoregressive-vision-survey/pulls)).
 Markdown format:
