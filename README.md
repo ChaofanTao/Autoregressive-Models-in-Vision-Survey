@@ -82,6 +82,9 @@ Markdown format:
     - **[ICML,2016]** **PixelRNN** Pixel Recurrent Neural Networks [Paper](https://arxiv.org/pdf/1601.06759) [Code](https://github.com/j-min/PixelCNN)
     
   - #### Token-wise Generation
+    
+    **Tokenizer**
+    
     - [**Arxiv, 2024.11**] Randomized Autoregressive Visual Generation. [Paper](https://arxiv.org/pdf/2411.00776) [Code](https://github.com/bytedance/1d-tokenizer) [Project](https://yucornetto.github.io/projects/rar.html)
     - **[Arxiv, 2024.09]** **Open-MAGVIT2**: Democratizing Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2409.04410) [Code](https://github.com/TencentARC/Open-MAGVIT2)
     - **[Arxiv, 2024.06]** **OmniTokenizer**: A Joint Image-Video Tokenizer for Visual Generation [Paper](https://arxiv.org/pdf/2406.09399) [Code](https://github.com/FoundationVision/OmniTokenizer)
@@ -94,32 +97,35 @@ Markdown format:
     - **[ICCV, 2023]** **Efficient-VQGAN:** Towards High-Resolution Image Generation with Efficient Vision Transformers [Paper](https://arxiv.org/abs/2310.05400)
     - **[CVPR, 2023]** Towards Accurate Image Coding: Improved Autoregressive Image Generation with Dynamic Vector Quantization [Paper](https://arxiv.org/pdf/2305.11718) [Code](https://github.com/CrossmodalGroup/DynamicVectorQuantization)
     - **[CVPR, 2023, Highlight]**  **MAGVIT:** Masked Generative Video Transformer [Paper](https://arxiv.org/pdf/2212.05199)
-    - **[AAAI, 2023]** Exploring Stochastic Autoregressive Image Modeling for Visual Representation [Paper](https://arxiv.org/pdf/2212.01610) [Code](https://github.com/qiy20/SAIM)
     - **[NeurIPS, 2023]**  **MoVQ:** Modulating Quantized Vectors for High-Fidelity Image Generation [Paper](https://arxiv.org/pdf/2209.09002)
     - **[BMVC, 2022]**  Unconditional image-text pair generation with multimodal cross quantizer  [Paper](https://arxiv.org/abs/2204.07537) [Code](https://github.com/ttumyche/MXQ-VAE)
+    - **[CVPR, 2022]** **RQ-VAE** Autoregressive Image Generation Using Residual Quantization [Paper](https://arxiv.org/pdf/2203.01941) [Code](https://github.com/kakaobrain/rq-vae-transformer)
     - **[ICLR, 2022]** **ViT-VQGAN** Vector-quantized Image Modeling with Improved VQGAN [Paper](https://arxiv.org/pdf/2110.04627) 
     - **[PMLR, 2021]** Generating images with sparse representations*[Tokenizer]* [Paper](https://arxiv.org/pdf/2103.03841)
     - **[CVPR, 2021]** **VQGAN** Taming Transformers for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2012.09841) [Code](https://github.com/CompVis/taming-transformers)
     - **[NeurIPS, 2019]** Generating Diverse High-Fidelity Images with VQ-VAE-2 [Paper](https://arxiv.org/pdf/1906.00446) [Code](https://github.com/rosinality/vq-vae-2-pytorch)
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
+
+    
+    **Autoregressive Modeling**
+    
     - **[Arxiv, 2024.10]** ImageFolder: Autoregressive Image Generation with Folded Tokens [Paper](https://arxiv.org/abs/2410.01756) [Code](https://github.com/lxa9867/ImageFolder)
-    - **[Arxiv, 2024.08]** Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/pdf/2408.12245) [Code](https://github.com/hp-l33/AiM)
-    - **[Arxiv, 2024.06]** Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM)
-    - **[Arxiv, 2024.06]** Autoregressive Image Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2406.11838) [Code](https://github.com/LTH14/mar)
+    - **[Arxiv, 2024.10]** **SAR** Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling [Paper](https://arxiv.org/abs/2410.10511) [Code](https://github.com/poppuppy/SAR)
+    - **[Arxiv, 2024.08]** **AiM** Scalable Autoregressive Image Generation with Mamba [Paper](https://arxiv.org/pdf/2408.12245) [Code](https://github.com/hp-l33/AiM)
+    - **[Arxiv, 2024.06]** **ARM** Autoregressive Pretraining with Mamba in Vision [Paper](https://arxiv.org/abs/2406.07537) [Code](https://github.com/OliverRensu/ARM)
+    - **[Arxiv, 2024.06]** **MAR** Autoregressive Image Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2406.11838) [Code](https://github.com/LTH14/mar)
     - **[Arxiv, 2024.06]** **LlamaGen** Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation [Paper](https://arxiv.org/pdf/2406.06525) [Code](https://github.com/FoundationVision/LlamaGen)
     - **[ICML, 2024]** **DARL**: Denoising Autoregressive Representation Learning [Paper](https://arxiv.org/pdf/2403.05196) 
     - **[ICML, 2024]** **DisCo-Diff**: Enhancing Continuous Diffusion Models with Discrete Latents [Paper](https://arxiv.org/pdf/2407.03300) [Code](https://github.com/gcorso/disco-diffdock)
     - **[ICML, 2024]** **DeLVM**: Data-efficient Large Vision Models through Sequential Autoregression [Paper](https://arxiv.org/pdf/2402.04841) [Code](https://github.com/ggjy/DeLVM)
-    - **[ICLR, 2024]** Finite Scalar Quantization: VQ-VAE Made Simple [Paper](https://arxiv.org/pdf/2309.15505) [Code](https://github.com/Nikolai10/FSQ)
+    - **[AAAI, 2023]** **SAIM** Exploring Stochastic Autoregressive Image Modeling for Visual Representation [Paper](https://arxiv.org/pdf/2212.01610) [Code](https://github.com/qiy20/SAIM)
     - **[NeurIPS, 2021]** **ImageBART**: Context with Multinomial Diffusion for Autoregressive Image Synthesis [Paper](https://arxiv.org/pdf/2108.08827) [Code](https://github.com/CompVis/imagebart)
     - **[CVPR, 2021]** **VQGAN** Taming Transformers for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2012.09841)  [Code](https://github.com/CompVis/taming-transformers)
     - **[ECCV, 2020]** **RAL**: Incorporating Reinforced Adversarial Learning in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2007.09923)
     - **[NeurIPS, 2019]** Generating Diverse High-Fidelity Images with VQ-VAE-2 [Paper](https://arxiv.org/pdf/1906.00446) [Code](https://github.com/rosinality/vq-vae-2-pytorch)
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
     
-  - #### Scale-wise Generation
-    - **[Arxiv, 2024.10]** Customize Your Visual Autoregressive Recipe with Set Autoregressive Modeling [Paper](https://arxiv.org/abs/2410.10511) [Code](https://github.com/poppuppy/SAR)
-    - **[CVPR, 2022]** **RQ-Transformer** Autoregressive Image Generation Using Residual Quantization [Paper](https://arxiv.org/pdf/2203.01941) [Code](https://github.com/kakaobrain/rq-vae-transformer)  
+  - #### Scale-wise Generation  
     - **[Arxiv, 2024.04]** **Visual Autoregressive Modeling:** Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/pdf/2404.02905) [Code](https://github.com/FoundationVision/VAR)
 
 ### Text-to-Image Generation
