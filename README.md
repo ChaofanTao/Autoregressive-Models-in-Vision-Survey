@@ -14,7 +14,7 @@
 
 Autoregressive models have shown significant progress in generating high-quality content by modeling the dependencies sequentially. This repo is a curated list of papers about the latest advancements in autoregressive models in vision. **This repo is being actively updated, please stay tuned!**
 
-> **Paper**: [Autoregressive Models in Vision: A Survey](asset/TMLR_autoregressive.pdf)
+> **Paper**: [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902)
 
 > **Authors**: *Jing Xiong<sup>1,†</sup>, Gongye Liu<sup>2,†</sup>, Lun Huang<sup>3</sup>, Chengyue Wu<sup>1</sup>, Taiqiang Wu<sup>1</sup>, Yao Mu<sup>1</sup>, Yuan Yao<sup>4</sup>, Hui Shen<sup>5</sup>, Zhongwei Wan<sup>5</sup>, Jinfa Huang<sup>4</sup>, Chaofan Tao<sup>1,‡</sup>, Shen Yan<sup>6</sup>, Huaxiu Yao<sup>7</sup>, Lingpeng Kong<sup>1</sup>, Hongxia Yang<sup>9</sup>, Mi Zhang<sup>5</sup>, Guillermo Sapiro<sup>8,10</sup>, Jiebo Luo<sup>4</sup>, Ping Luo<sup>1</sup>, Ngai Wong<sup>1</sup>*
 
@@ -306,9 +306,7 @@ Markdown format:
   <img src="https://contrib.rocks/image?repo=ChaofanTao/Autoregressive-Models-in-Vision-Survey" />
 </a>
 
-<!--
-## 👍 Acknowledgement
-To be continued
+
 
 
 ## 📑 Citation
@@ -316,8 +314,14 @@ To be continued
 Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
 
 ```BibTeX
-To be continued
-–->
-
+@misc{xiong2024autoregressive,
+    title={Autoregressive Models in Vision: A Survey},
+    author={Jing Xiong and Gongye Liu and Lun Huang and Chengyue Wu and Taiqiang Wu and Yao Mu and Yuan Yao and Hui Shen and Zhongwei Wan and Jinfa Huang and Chaofan Tao and Shen Yan and Huaxiu Yao and Lingpeng Kong and Hongxia Yang and Mi Zhang and Guillermo Sapiro and Jiebo Luo and Ping Luo and Ngai Wong},
+    year={2024},
+    eprint={2411.05902},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
 
 
