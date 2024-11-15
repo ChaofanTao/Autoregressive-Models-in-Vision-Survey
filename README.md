@@ -264,6 +264,7 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation (Motion, Robot, Scene, 3D， Outpainting)
+  - **[Arxiv, 2024.11]** LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models [Paper](https://arxiv.org/pdf/2411.09595) [Code](https://github.com/nv-tlabs/LLaMa-Mesh)
   - **[Arxiv, 2024.10]** DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control [Paper](https://arxiv.org/pdf/2410.05260)
   - **[Arxiv, 2024.10]** Autoregressive Action Sequence Learning for Robotic Manipulation [Paper](https://arxiv.org/abs/2410.03132) [Code](https://github.com/mlzxy/arp)
   - **[Arxiv, 2024.09]** BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation [Paper](https://www.arxiv.org/abs/2409.10847) [Code](https://github.com/RohollahHS/BAD)
