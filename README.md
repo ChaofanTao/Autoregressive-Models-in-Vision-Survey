@@ -64,7 +64,7 @@ Markdown format:
   - [Evaluation Metrics](#evaluation-metrics)
 - [Star History](#star-history)
 - [♥️ Contributors](#️-contributors)
-- [� Citation](#-citation)
+- [📑 Citation](#-citation)
 
 <div align=center>
 <img src="img/outline_new.png" width="800px">
@@ -104,7 +104,7 @@ Markdown format:
     - **[PMLR, 2021]** Generating images with sparse representations*[Tokenizer]* [Paper](https://arxiv.org/pdf/2103.03841)
     - **[CVPR, 2021]** **VQGAN** Taming Transformers for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2012.09841) [Code](https://github.com/CompVis/taming-transformers)
     - **[NeurIPS, 2019]** Generating Diverse High-Fidelity Images with VQ-VAE-2 [Paper](https://arxiv.org/pdf/1906.00446) [Code](https://github.com/rosinality/vq-vae-2-pytorch)
-    - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
+    - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning [Paper](https://arxiv.org/pdf/1711.00937)
 
     
     **Autoregressive Modeling**
@@ -255,7 +255,7 @@ Markdown format:
   - **[ICLR, 2024]** **EMU** Generative Pretraining in Multimodality [Paper](https://arxiv.org/pdf/2307.05222) [Code](https://github.com/baaivision/Emu)
   - **[Arxiv, 2023.09]** **CM3Leon:** Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [Paper](https://arxiv.org/pdf/2309.02591) [Code](https://github.com/kyegomez/CM3Leon)
   - **[Arxiv, 2023.07]** **SEED** Planting a SEED of Vision in Large Language Model [Paper](https://arxiv.org/pdf/2307.08041) [Code](https://github.com/AILab-CVC/SEED)
-  - **[NeurIPS, 2023]** **SPAE**: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs[Paper](https://arxiv.org/pdf/2306.17842)
+  - **[NeurIPS, 2023]** **SPAE**: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs [Paper](https://arxiv.org/pdf/2306.17842)
   - **[ICLR, 2023]** **Unified-IO**: A unified model for vision, language, and multi-modal tasks [Paper](https://arxiv.org/pdf/2206.08916) [Code](https://unified-io.allenai.org/)
   - **[ICML, 2023]** Grounding Language Models to Images for Multimodal Inputs and Outputs [Paper](https://arxiv.org/pdf/2301.13823) [Code](https://github.com/kohjingyu/fromage)
   - **[NeurIPS, 2022]** **Flamingo**: a Visual Language Model for Few-Shot Learning [Paper](https://arxiv.org/pdf/2204.14198)
