@@ -59,7 +59,7 @@ Markdown format:
   - [Motion Generation](#motion-generation)
   - [Video Generation](#video-generation)
   - [Unified Understanding and Generation Multi-Modal LLMs](#unified-understanding-and-generation-multi-modal-llms)
-  - [Other Generation (Motion, Robot, Scene, 3D， Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
+  - [Other Generation (Motion, Robot, Scene, 3D, Outpainting)](#other-generation-motion-robot-scene-3d-outpainting)
   - [Accelerating \& Stability \& Analysis \& Scaling](#accelerating--stability--analysis--scaling)
   - [Evaluation Metrics](#evaluation-metrics)
 - [Star History](#star-history)
@@ -262,7 +262,7 @@ Markdown format:
   - **[Arxiv, 2021.12]** **ERNIE-ViLG**: Unified Generative Pre-training for Bidirectional Vision-Language Generation [Paper](https://arxiv.org/pdf/2112.15283) 
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
-### Other Generation (Motion, Robot, Scene, 3D， Outpainting)
+### Other Generation (Motion, Robot, Scene, 3D, Outpainting)
   - **[Arxiv, 2024.11]** LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models [Paper](https://arxiv.org/pdf/2411.09595) [Code](https://github.com/nv-tlabs/LLaMa-Mesh)
   - **[Arxiv, 2024.10]** DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control [Paper](https://arxiv.org/pdf/2410.05260)
   - **[Arxiv, 2024.10]** Autoregressive Action Sequence Learning for Robotic Manipulation [Paper](https://arxiv.org/abs/2410.03132) [Code](https://github.com/mlzxy/arp)
