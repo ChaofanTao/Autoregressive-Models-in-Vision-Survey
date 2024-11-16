@@ -43,7 +43,7 @@ If you want to add your work or model to this list, please do not hesitate to [p
 Markdown format:
 
 ```markdown
-* [**Name of Conference or Journal + Year**] Paper Name. [[paper]](link) [[code]](link)
+* [**Name of Conference or Journal + Year**] Paper Name. [[Paper]](link) [[Code]](link)
 ```
 
 
@@ -64,8 +64,7 @@ Markdown format:
   - [Evaluation Metrics](#evaluation-metrics)
 - [Star History](#star-history)
 - [♥️ Contributors](#️-contributors)
-- [👍 Acknowledgement](#-acknowledgement)
-- [📑 Citation](#-citation)
+- [� Citation](#-citation)
 
 <div align=center>
 <img src="img/outline_new.png" width="800px">
@@ -75,7 +74,7 @@ Markdown format:
   - #### Pixel-wise Generation
     - **[ICML, 2020]** **ImageGPT:** Generative Pretraining from Pixels [Paper](https://proceedings.mlr.press/v119/chen20s/chen20s.pdf)
     - **[ICML, 2018]** **Image Transformer** [Paper](https://arxiv.org/pdf/1802.05751) [Code](https://github.com/neocxi/pixelsnail-public)
-    - **[ICML, 2018]** **PixelSNAIL:** An Improved Autoregressive Generative Model [paper](https://proceedings.mlr.press/v80/chen18h/chen18h.pdf) [Code](https://github.com/neocxi/pixelsnail-public)
+    - **[ICML, 2018]** **PixelSNAIL:** An Improved Autoregressive Generative Model [Paper](https://proceedings.mlr.press/v80/chen18h/chen18h.pdf) [Code](https://github.com/neocxi/pixelsnail-public)
     - **[ICML, 2017]** Parallel Multiscale Autoregressive Density Estimation [Paper](https://proceedings.mlr.press/v70/reed17a.html)
     - **[ICLR workshop, 2017]** **Gated PixelCNN**: Generating Interpretable Images with Controllable Structure [Paper](https://openreview.net/forum?id=Hyvw0L9el)
     - **[ICLR, 2017]** **PixelCNN++**: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications [Paper](https://arxiv.org/pdf/1701.05517) [Code](https://github.com/openai/pixel-cnn)
@@ -166,16 +165,16 @@ Markdown format:
   - **[ECCV, 2022]** **QueryOTR**: Outpainting by Queries [Paper](https://arxiv.org/pdf/2207.05312) [Code](https://github.com/Kaiseem/QueryOTR)
 
 ### Medical Tasks in Vision
-  - **[arxiv, 2024]** Autoregressive Sequence Modeling for 3D Medical Image Representation [paper](https://arxiv.org/pdf/2409.08691v1) 
-  - **[arxiv, 2024]** Medical Vision Generalist: Unifying Medical Imaging Tasks in Context [paper](https://arxiv.org/pdf/2406.05565) [code](https://arxiv.org/pdf/2406.05565)
-  - **[MIDL, 2024]** Conditional Generation of 3D Brain Tumor ROIs via VQGAN and Temporal-Agnostic Masked Transformer [paper](https://openreview.net/pdf?id=LLoSHPorlM)
-  - **[NMI, 2024]** Realistic morphology-preserving generative modelling of the brain [paper](https://www.nature.com/articles/s42256-024-00864-0) [code](https://github.com/AmigoLab/BrainSynth)
-  - **[Arxiv, 2023]** Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks [paper](https://arxiv.org/pdf/2310.01251)
+  - **[arxiv, 2024]** Autoregressive Sequence Modeling for 3D Medical Image Representation [Paper](https://arxiv.org/pdf/2409.08691v1) 
+  - **[arxiv, 2024]** Medical Vision Generalist: Unifying Medical Imaging Tasks in Context [Paper](https://arxiv.org/pdf/2406.05565) [Code](https://arxiv.org/pdf/2406.05565)
+  - **[MIDL, 2024]** Conditional Generation of 3D Brain Tumor ROIs via VQGAN and Temporal-Agnostic Masked Transformer [Paper](https://openreview.net/pdf?id=LLoSHPorlM)
+  - **[NMI, 2024]** Realistic morphology-preserving generative modelling of the brain [Paper](https://www.nature.com/articles/s42256-024-00864-0) [Code](https://github.com/AmigoLab/BrainSynth)
+  - **[Arxiv, 2023]** Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks [Paper](https://arxiv.org/pdf/2310.01251)
     ```medical image-to-image translation```
-  - **[ICCV, 2023]** Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.pdf) [Code](https://github.com/samb-t/x2ct-vqvae)
-  - **[MICCAI, 2022]** Morphology-preserving Autoregressive 3D Generative Modelling of the Brain [paper](https://arxiv.org/pdf/2209.03177) [code](https://github.com/AmigoLab/SynthAnatomy)
+  - **[ICCV, 2023]** Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.pdf) [Code](https://github.com/samb-t/x2ct-vqvae)
+  - **[MICCAI, 2022]** Morphology-preserving Autoregressive 3D Generative Modelling of the Brain [Paper](https://arxiv.org/pdf/2209.03177) [Code](https://github.com/AmigoLab/SynthAnatomy)
     ```medical image generation```
-  - **[ICIP, 2021]** Generating Annotated High-Fidelity Images Containing Multiple Coherent Objects [paper](https://arxiv.org/pdf/2006.12150) [Code](https://github.com/Cynetics/MSGNet/)
+  - **[ICIP, 2021]** Generating Annotated High-Fidelity Images Containing Multiple Coherent Objects [Paper](https://arxiv.org/pdf/2006.12150) [Code](https://github.com/Cynetics/MSGNet/)
 
 ### Motion Generation
   - **[AAAI, 2024]** **AMD**: Autoregressive Motion Diffusion [Paper](https://arxiv.org/pdf/2305.09381) [Code]()
@@ -188,10 +187,10 @@ Markdown format:
 
  - #### Unconditional Video Generation
     - **[ICML, 2017]** Video Pixel Networks [Paper](https://proceedings.mlr.press/v70/kalchbrenner17a.html?ref=https://githubhelp.com)
-    - **[CVPR, 2018]** **MoCoGAN**: Decomposing Motion and Content for Video Generation [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf) [Code](https://github.com/sergeytulyakov/mocogan)
-    - **[ICLR, 2020]** Scaling Autoregressive Video Models [paper](https://arxiv.org/pdf/1906.02634) 
-    - **[Arxiv, 2020.06]** Latent Video Transformer [paper](https://arxiv.org/pdf/2006.10704) [Code](https://github.com/rakhimovv/lvt)
-    - **[Arxiv, 2021.04]** **VideoGPT**: Video generation using VQ-VAE and transformers [paper](https://arxiv.org/pdf/2209.07143) 
+    - **[CVPR, 2018]** **MoCoGAN**: Decomposing Motion and Content for Video Generation [Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tulyakov_MoCoGAN_Decomposing_Motion_CVPR_2018_paper.pdf) [Code](https://github.com/sergeytulyakov/mocogan)
+    - **[ICLR, 2020]** Scaling Autoregressive Video Models [Paper](https://arxiv.org/pdf/1906.02634) 
+    - **[Arxiv, 2020.06]** Latent Video Transformer [Paper](https://arxiv.org/pdf/2006.10704) [Code](https://github.com/rakhimovv/lvt)
+    - **[Arxiv, 2021.04]** **VideoGPT**: Video generation using VQ-VAE and transformers [Paper](https://arxiv.org/pdf/2209.07143) 
     - **[ECCV, 2022]**  Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer [Paper](https://arxiv.org/pdf/2204.03638) [Code](https://github.com/SongweiGe/TATS)
     - **[CVPR, 2023]** **PVDM** Video Probabilistic Diffusion Models in Projected Latent Space [Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yu_Video_Probabilistic_Diffusion_Models_in_Projected_Latent_Space_CVPR_2023_paper.html)
     - **[ECCV 2024]** **ST-LLM**: Large Language Models Are Effective Temporal Learners [Paper](https://arxiv.org/pdf/2404.00308) [Code](https://github.com/TencentARC/ST-LLM)
@@ -200,14 +199,14 @@ Markdown format:
 
  - #### Conditional Video Generation
    - ##### Text-to-Video Generation
-     - **[IJCAI, 2021]** **IRC-GAN**: Introspective Recurrent Convolutional GAN for Text-to-video Generation. [paper](https://www.ijcai.org/Proceedings/2019/0307.pdf)
-     - **[Arxiv, 2022.05]** **GODIVA**: Generating Open-DomaIn Videos from nAtural Descriptions [paper](https://arxiv.org/pdf/2104.14806)
-     - **[Arxiv, 2022.05]** **CogVideo**: Large-scale Pretraining for Text-to-Video Generation via Transformers [paper](https://arxiv.org/pdf/2205.15868) [Code](https://github.com/THUDM/CogVideo)
-     - **[ECCV, 2022]** **NÜWA**: Visual Synthesis Pre-training for Neural visUal World creAtion [paper](https://arxiv.org/pdf/2111.12417) [Code](https://github.com/microsoft/NUWA)
-     - **[NeurIPS, 2022]** **NUWA-Infinity**: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis [paper](https://arxiv.org/pdf/2207.09814) [Code](https://github.com/microsoft/NUWA)
-     - **[CVPR, 2024]** **ART-V**: Auto-Regressive Text-to-Video Generation with Diffusion Models [paper](https://arxiv.org/pdf/2311.18834)
+     - **[IJCAI, 2021]** **IRC-GAN**: Introspective Recurrent Convolutional GAN for Text-to-video Generation. [Paper](https://www.ijcai.org/Proceedings/2019/0307.pdf)
+     - **[Arxiv, 2022.05]** **GODIVA**: Generating Open-DomaIn Videos from nAtural Descriptions [Paper](https://arxiv.org/pdf/2104.14806)
+     - **[Arxiv, 2022.05]** **CogVideo**: Large-scale Pretraining for Text-to-Video Generation via Transformers [Paper](https://arxiv.org/pdf/2205.15868) [Code](https://github.com/THUDM/CogVideo)
+     - **[ECCV, 2022]** **NÜWA**: Visual Synthesis Pre-training for Neural visUal World creAtion [Paper](https://arxiv.org/pdf/2111.12417) [Code](https://github.com/microsoft/NUWA)
+     - **[NeurIPS, 2022]** **NUWA-Infinity**: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis [Paper](https://arxiv.org/pdf/2207.09814) [Code](https://github.com/microsoft/NUWA)
+     - **[CVPR, 2024]** **ART-V**: Auto-Regressive Text-to-Video Generation with Diffusion Models [Paper](https://arxiv.org/pdf/2311.18834)
      - **[Arxiv, 2024.02]** **LWM** World Model on Million-Length Video And Language With Blockwise RingAttention [Paper](https://arxiv.org/pdf/2402.08268) [Code](https://github.com/LargeWorldModel/LWM)
-     - **[Arxiv, 2024.06]** **ViD-GPT**: Introducing GPT-style Autoregressive Generation in Video Diffusion Models [paper](https://arxiv.org/pdf/2406.10981) [Code](https://github.com/Dawn-LX/Causal-VideoGen)
+     - **[Arxiv, 2024.06]** **ViD-GPT**: Introducing GPT-style Autoregressive Generation in Video Diffusion Models [Paper](https://arxiv.org/pdf/2406.10981) [Code](https://github.com/Dawn-LX/Causal-VideoGen)
      - **[Arxiv, 2024.06]** **iVideoGPT**: Interactive VideoGPTs are Scalable World Models [Paper](https://arxiv.org/pdf/2405.15223) [Code](https://github.com/thuml/iVideoGPT)
      - **[Arxiv, 2024.06]**  **Pandora**: Towards General World Model with Natural Language Actions and Video States [Paper](https://arxiv.org/pdf/2406.09455) [Code](https://github.com/maitrix-org/Pandora)
      - **[Arxiv, 2024.10]**  **Loong**: Generating Minute-level Long Videos with Autoregressive Language Models [Paper](https://arxiv.org/pdf/2410.02757)
@@ -216,49 +215,49 @@ Markdown format:
      - **[Arxiv, 2024.10]**  **ARLON**: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [Paper](https://arxiv.org/pdf/2410.20502)  [Code](http://aka.ms/arlon)
      
    - ##### Visual Conditional Video Generation
-     - **[NeurIPS, 2015]** Convolutional LSTM network: A machine learning approach for precipitation nowcasting [paper](https://proceedings.neurips.cc/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf)
-     - **[NeurIPS, 2017]** **Predrnn**: Recurrent neural networks for predictive learning using spatiotemporal lstms [paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/e5f6ad6ce374177eef023bf5d0c018b6-Paper.pdf)
-     - **[ICLR, 2019]** Eidetic 3d lstm: A model for video prediction and beyond [paper](https://openreview.net/pdf?id=B1lKS2AqtX)
-     - **[ICLR, 2018]** Stochastic variational video prediction [paper](https://openreview.net/pdf?id=rk49Mg-CW) 
-     - **[CVPR, 2021]** Stochastic image-to-video synthesis using cinns [paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Dorkenwald_Stochastic_Image-to-Video_Synthesis_Using_cINNs_CVPR_2021_paper.pdf) [Code](https://github.com/CompVis/image2video-synthesis-using-cINNs)
-     - **[Arxiv, 2021.03]** Predicting Video with VQVAE [paper](https://arxiv.org/pdf/2103.01950)
-     - **[ICIP, 2022]** **HARP**: Autoregressive Latent Video Prediction with High-Fidelity Image Generator [paper](https://arxiv.org/pdf/2209.07143)
+     - **[NeurIPS, 2015]** Convolutional LSTM network: A machine learning approach for precipitation nowcasting [Paper](https://proceedings.neurips.cc/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf)
+     - **[NeurIPS, 2017]** **Predrnn**: Recurrent neural networks for predictive learning using spatiotemporal lstms [Paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/e5f6ad6ce374177eef023bf5d0c018b6-Paper.pdf)
+     - **[ICLR, 2019]** Eidetic 3d lstm: A model for video prediction and beyond [Paper](https://openreview.net/pdf?id=B1lKS2AqtX)
+     - **[ICLR, 2018]** Stochastic variational video prediction [Paper](https://openreview.net/pdf?id=rk49Mg-CW) 
+     - **[CVPR, 2021]** Stochastic image-to-video synthesis using cinns [Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Dorkenwald_Stochastic_Image-to-Video_Synthesis_Using_cINNs_CVPR_2021_paper.pdf) [Code](https://github.com/CompVis/image2video-synthesis-using-cINNs)
+     - **[Arxiv, 2021.03]** Predicting Video with VQVAE [Paper](https://arxiv.org/pdf/2103.01950)
+     - **[ICIP, 2022]** **HARP**: Autoregressive Latent Video Prediction with High-Fidelity Image Generator [Paper](https://arxiv.org/pdf/2209.07143)
      - **[CVPR, 2024]**  **LVM** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
      - **[Arxiv, 2024.10]**  **MarDini**: Masked Autoregressive Diffusion for Video Generation at Scale [Paper](https://arxiv.org/pdf/2410.20502)
 
    - ##### Multimodal Conditional Video Generation
-     - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
-     - **[CVPR, 2023]** **MAGVIT**: Masked Generative Video Transformer [paper](https://arxiv.org/pdf/2212.05199)
-     - **[ICML, 2024]** **VideoPoet**: A Large Language Model for Zero-Shot Video Generation [paper](https://arxiv.org/pdf/2312.14125)
-     - **[ICML, 2024]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [paper](https://arxiv.org/pdf/2402.03161) [code](https://github.com/jy0205/LaVIT)
+     - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
+     - **[CVPR, 2023]** **MAGVIT**: Masked Generative Video Transformer [Paper](https://arxiv.org/pdf/2212.05199)
+     - **[ICML, 2024]** **VideoPoet**: A Large Language Model for Zero-Shot Video Generation [Paper](https://arxiv.org/pdf/2312.14125)
+     - **[ICML, 2024]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [Paper](https://arxiv.org/pdf/2402.03161) [Code](https://github.com/jy0205/LaVIT)
    
 ### Unified Understanding and Generation Multi-Modal LLMs
   - [**Arxiv, 2024.11**]   Unified Generative and Discriminative Training for Multi-modal Large Language Models. [Paper](https://arxiv.org/pdf/2411.00304) [Project](https://sugar-mllm.github.io/)
   - [**Arxiv, 2024.09**] **Emu3**: Next-Token Prediction is All You NeedPaper Name. [Paper](https://arxiv.org/pdf/2409.18869) [Code](https://github.com/baaivision/Emu3) [Project](https://emu.baai.ac.cn/about)
-  - **[Arxiv, 2024.10]** **D-JEPA**: Denoising with a Joint-Embedding Predictive Architecture [paper](https://arxiv.org/abs/2410.03755) [project](https://d-jepa.github.io/)
-  - **[Arxiv, 2024.10]** **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
-  - **[Arxiv, 2024.10]** **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [paper](https://arxiv.org/pdf/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
-  - **[Arxiv, 2024.10]** **ACDC**: Autoregressive Coherent Multimodal Generation using Diffusion Correction [paper](https://arxiv.org/pdf/2410.04721) [Code](https://acdc2025.github.io/)
-  - **[Arxiv, 2024.09]** **VILA-U**: a Unified Foundation Model Integrating Visual Understanding and Generation [paper](https://arxiv.org/abs/2409.04429) [Code](https://github.com/mit-han-lab/vila-u)
-  - **[Arxiv, 2024.09]** **MIO**: A Foundation Model on Multimodal Tokens [paper](https://arxiv.org/pdf/2409.17692) 
-  - **[Arxiv, 2024.08]** **Show-o:** One Single Transformer to Unify Multimodal Understanding and Generation [paper](https://arxiv.org/pdf/2408.12528) [Code](https://github.com/showlab/Show-o)
-  - **[Arxiv, 2024.08]** **Transfusion:** Predict the Next Token and Diffuse Images with One Multi-Modal Model [paper](https://arxiv.org/pdf/2408.11039) [Code](https://github.com/lucidrains/transfusion-pytorch)
+  - **[Arxiv, 2024.10]** **D-JEPA**: Denoising with a Joint-Embedding Predictive Architecture [Paper](https://arxiv.org/abs/2410.03755) [project](https://d-jepa.github.io/)
+  - **[Arxiv, 2024.10]** **Janus**: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2410.13848) [Code](https://github.com/deepseek-ai/Janus)
+  - **[Arxiv, 2024.10]** **MMAR**: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling [Paper](https://arxiv.org/pdf/2410.10798) [Code](https://github.com/ydcUstc/MMAR)
+  - **[Arxiv, 2024.10]** **ACDC**: Autoregressive Coherent Multimodal Generation using Diffusion Correction [Paper](https://arxiv.org/pdf/2410.04721) [Code](https://acdc2025.github.io/)
+  - **[Arxiv, 2024.09]** **VILA-U**: a Unified Foundation Model Integrating Visual Understanding and Generation [Paper](https://arxiv.org/abs/2409.04429) [Code](https://github.com/mit-han-lab/vila-u)
+  - **[Arxiv, 2024.09]** **MIO**: A Foundation Model on Multimodal Tokens [Paper](https://arxiv.org/pdf/2409.17692) 
+  - **[Arxiv, 2024.08]** **Show-o:** One Single Transformer to Unify Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2408.12528) [Code](https://github.com/showlab/Show-o)
+  - **[Arxiv, 2024.08]** **Transfusion:** Predict the Next Token and Diffuse Images with One Multi-Modal Model [Paper](https://arxiv.org/pdf/2408.11039) [Code](https://github.com/lucidrains/transfusion-pytorch)
   - **[Arxiv, 2024.07]** **SEED-Story**: Multimodal Long Story Generation with Large Language Model [Paper](https://arxiv.org/pdf/2407.08683) [Code](https://github.com/TencentARC/SEED-Story)
-  - **[Arxiv, 2024.05]**  **Chameleon**: Mixed-Modal Early-Fusion Foundation Models [paper](https://arxiv.org/pdf/2405.09818) [Code](https://github.com/facebookresearch/chameleon)
+  - **[Arxiv, 2024.05]**  **Chameleon**: Mixed-Modal Early-Fusion Foundation Models [Paper](https://arxiv.org/pdf/2405.09818) [Code](https://github.com/facebookresearch/chameleon)
   - **[Arxiv, 2024.04]** **SEED-X** Multimodal Models with UnifiedMulti-granularity Comprehension and Generation [Paper](https://arxiv.org/pdf/2404.14396) [Code](https://github.com/AILab-CVC/SEED-X)
-  - **[ICML, 2024]** **Libra**: Building Decoupled Vision System on Large Language Models [paper](https://arxiv.org/pdf/2405.10140) [Code](https://github.com/YifanXu74/Libra)
-  - **[CVPR, 2024]** **Unified-IO 2**: Scaling Autoregressive Multimodal Models with Vision Language Audio and Action[paper](https://arxiv.org/pdf/2312.17172) [Code](https://github.com/allenai/unified-io-2)
-  - **[CVPR, 2024]** **Anole**: An Open, Autoregressive and Native Multimodal Models for Interleaved Image-Text Generation [paper](https://arxiv.org/pdf/2407.06135) [Code](https://github.com/GAIR-NLP/anole)
-  - **[Arxiv, 2023.11]** **InstructSeq**: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation [paper](https://arxiv.org/pdf/2311.18835) [Code](https://github.com/rongyaofang/InstructSeq)
+  - **[ICML, 2024]** **Libra**: Building Decoupled Vision System on Large Language Models [Paper](https://arxiv.org/pdf/2405.10140) [Code](https://github.com/YifanXu74/Libra)
+  - **[CVPR, 2024]** **Unified-IO 2**: Scaling Autoregressive Multimodal Models with Vision Language Audio and Action[Paper](https://arxiv.org/pdf/2312.17172) [Code](https://github.com/allenai/unified-io-2)
+  - **[CVPR, 2024]** **Anole**: An Open, Autoregressive and Native Multimodal Models for Interleaved Image-Text Generation [Paper](https://arxiv.org/pdf/2407.06135) [Code](https://github.com/GAIR-NLP/anole)
+  - **[Arxiv, 2023.11]** **InstructSeq**: Unifying Vision Tasks with Instruction-conditioned Multi-modal Sequence Generation [Paper](https://arxiv.org/pdf/2311.18835) [Code](https://github.com/rongyaofang/InstructSeq)
   - **[ICLR, 2024]** **Kosmos-G**: Generating Images in Context with Multimodal Large Language Models [Paper](https://arxiv.org/pdf/2310.02992) [Code](https://github.com/xichenpan/Kosmos-G)
-  - **[ICLR, 2024]** **LaVIT**: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [paper](https://arxiv.org/pdf/2309.04669) [code](https://github.com/jy0205/LaVIT)
+  - **[ICLR, 2024]** **LaVIT**: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization [Paper](https://arxiv.org/pdf/2309.04669) [Code](https://github.com/jy0205/LaVIT)
   - **[ICLR, 2024]** **SEED-LLaMA** Making LLaMA SEE and Draw with SEED Tokenizer [Paper](https://arxiv.org/pdf/2310.01218) [Code](https://github.com/AILab-CVC/SEED)
   - **[ICLR, 2024]** **EMU** Generative Pretraining in Multimodality [Paper](https://arxiv.org/pdf/2307.05222) [Code](https://github.com/baaivision/Emu)
   - **[Arxiv, 2023.09]** **CM3Leon:** Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning [Paper](https://arxiv.org/pdf/2309.02591) [Code](https://github.com/kyegomez/CM3Leon)
   - **[Arxiv, 2023.07]** **SEED** Planting a SEED of Vision in Large Language Model [Paper](https://arxiv.org/pdf/2307.08041) [Code](https://github.com/AILab-CVC/SEED)
-  - **[NeurIPS, 2023]** **SPAE**: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs[paper](https://arxiv.org/pdf/2306.17842)
-  - **[ICLR, 2023]** **Unified-IO**: A unified model for vision, language, and multi-modal tasks [paper](https://arxiv.org/pdf/2206.08916) [Code](https://unified-io.allenai.org/)
-  - **[ICML, 2023]** Grounding Language Models to Images for Multimodal Inputs and Outputs [paper](https://arxiv.org/pdf/2301.13823) [Code](https://github.com/kohjingyu/fromage)
+  - **[NeurIPS, 2023]** **SPAE**: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs[Paper](https://arxiv.org/pdf/2306.17842)
+  - **[ICLR, 2023]** **Unified-IO**: A unified model for vision, language, and multi-modal tasks [Paper](https://arxiv.org/pdf/2206.08916) [Code](https://unified-io.allenai.org/)
+  - **[ICML, 2023]** Grounding Language Models to Images for Multimodal Inputs and Outputs [Paper](https://arxiv.org/pdf/2301.13823) [Code](https://github.com/kohjingyu/fromage)
   - **[NeurIPS, 2022]** **Flamingo**: a Visual Language Model for Few-Shot Learning [Paper](https://arxiv.org/pdf/2204.14198)
   - **[Arxiv, 2021.12]** **ERNIE-ViLG**: Unified Generative Pre-training for Bidirectional Vision-Language Generation [Paper](https://arxiv.org/pdf/2112.15283) 
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
@@ -271,13 +270,13 @@ Markdown format:
   - **[Arxiv, 2024.07]** Video In-context Learning [Paper](https://arxiv.org/pdf/2407.07356)
   - **[CVPR, 2024]** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
   - **[AAAI, 2024]** Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation [Paper](https://arxiv.org/pdf/2309.03467) [Code](https://github.com/zhuqiangLu/AOG-NET-360)
-  - **[arxiv, 2024]** **LM4LV**: A Frozen Large Language Model for Low-level Vision Tasks [paper](https://arxiv.org/pdf/2405.15734) [code](https://github.com/bytetriper/LM4LV)
+  - **[arxiv, 2024]** **LM4LV**: A Frozen Large Language Model for Low-level Vision Tasks [Paper](https://arxiv.org/pdf/2405.15734) [Code](https://github.com/bytetriper/LM4LV)
   - **[CVPR, 2023]** **Visual Chain of Thought**: Bridging Logical Gaps with Multimodal Infillings [Paper](https://arxiv.org/pdf/2305.02317) 
   - **[ECCV, 2022]** Autoregressive 3D Shape Generation via Canonical Mapping [Paper](https://arxiv.org/pdf/2204.01955)
   - **[NeurIPS, 2022]** Visual Prompting via Image Inpainting [Paper](https://arxiv.org/pdf/2209.00647) [Code](https://github.com/amirbar/visual_prompting)
   - **[EMNLP, 2022]** **MAGMA** – Multimodal Augmentation of Generative Models through Adapter-based Finetuning [Paper](https://arxiv.org/pdf/2112.05253)
   - **[NeurIPS, 2021]** Multimodal Few-Shot Learning with Frozen Language Models [Paper](https://arxiv.org/pdf/2106.13884)
-  - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [paper](https://arxiv.org/pdf/2007.08247)
+  - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
