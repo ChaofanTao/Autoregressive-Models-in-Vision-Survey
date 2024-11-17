@@ -129,39 +129,49 @@ Markdown format:
     - **[Arxiv, 2024.04]** **Visual Autoregressive Modeling:** Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/pdf/2404.02905) [Code](https://github.com/FoundationVision/VAR)
 
 ### Text-to-Image Generation
-  - **[Arxiv, 2024.10]** **Fluid**: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863)
-  - **[Arxiv, 2024.10]** **HART**: Efficient Visual Generation with Hybrid Autoregressive Transformer [Paper](https://arxiv.org/abs/2410.10812) [Code](https://github.com/mit-han-lab/hart)
-  - **[Arxiv, 2024.10]** **DART**: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159) [Code](https://github.com/daixiangzi/VAR-CLIP)
-  - **[Arxiv, 2024.10]** **DnD-Transformer**: A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Fine-grained Image Generation [Paper](https://arxiv.org/abs/2410.01912) [Code](https://github.com/chenllliang/DnD-Transformer)
-  - **[Arxiv, 2024.08]** **VAR-CLIP**: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/pdf/2408.01181) [Code](https://github.com/daixiangzi/VAR-CLIP)
-  - **[Arxiv, 2024.08]** **Lumina-mGPT**: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://arxiv.org/pdf/2408.02657) [Code](https://github.com/Alpha-VLLM/Lumina-mGPT)
-  - **[Arxiv, 2024.07]** **MARS**: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis [Paper](https://arxiv.org/pdf/2407.07614) [Code](https://github.com/fusiming3/MARS)
-  - **[Arxiv, 2024.06]** **LLM4GEN**: Leveraging Semantic Representation of LLMs for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2407.00737) [Code](https://github.com/YUHANG-Ma/LLM4GEN)
-  - **[Arxiv, 2024.06]** **STAR**: Scale-wise Text-to-image generation via Auto-Regressive representations [Paper](https://arxiv.org/pdf/2406.10797) [Code](https://github.com/krennic999/STAR)
-  - **[Arxiv, 2024.05]** **Kaleido Diffusion**: Improving Conditional Diffusion Models with Autoregressive Latent Modeling [Paper](https://arxiv.org/pdf/2405.21048)
-  - **[CVPR, 2024]** **Beyond Text**: Frozen Large Language Models in Visual Signal Comprehension [Paper](https://arxiv.org/pdf/2403.07874) [Code](https://github.com/zh460045050/V2L-Tokenizer)
-  - **[TOG, 2023]** **IconShop**: Text-Guided Vector Icon Synthesis with Autoregressive Transformers (*svg image*) [Paper](https://arxiv.org/pdf/2304.14400) [Code](https://github.com/kingnobro/IconShop)
-  - **[NeurIPS, 2023]** **LQAE** Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment [Paper](https://arxiv.org/pdf/2302.00902) [Code](https://github.com/lhao499/language-quantized-autoencoders)
-  - **[TMLR, 2022.06]** **Parti**: Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [Paper](https://arxiv.org/pdf/2206.10789) [Code](https://github.com/google-research/parti)
-  - **[NeurIPS, 2022]** **CogView2**: Faster and Better Text-to-Image Generation via Hierarchical Transformers [Paper](https://arxiv.org/pdf/2204.14217) [Code](https://github.com/THUDM/CogView2)
-  - **[ECCV, 2022]** **Make-A-Scene:** Scene-Based Text-to-Image Generation with Human Priors [Paper](https://arxiv.org/pdf/2203.13131) 
-  - **[CVPR, 2022]** **VQ-Diffusion:** Vector Quantized Diffusion Model for Text-to-Image Synthesis [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html) [Code](https://github.com/cientgu/VQ-Diffusion)
-  - **[CVPR, 2022]** **Make-A-Story:** Visual Memory Conditioned Consistent Story Generation (*storytelling*) [Paper](https://arxiv.org/pdf/2211.13319) 
-  - **[NeurIPS, 2021]** **CogView**: Mastering Text-to-Image Generation via Transformers [Paper](https://arxiv.org/pdf/2105.13290) [Code](https://github.com/THUDM/CogView)
-  - **[Arxiv, 2021.02]** **DALL-E 1:** Zero-Shot Text-to-Image Generation [Paper](https://arxiv.org/pdf/2102.12092)
-
+- #### Token-wise Generation
+     - **[Arxiv, 2024.10]** **Fluid**: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863)
+     - **[Arxiv, 2024.10]** **HART**: Efficient Visual Generation with Hybrid Autoregressive Transformer [Paper](https://arxiv.org/abs/2410.10812) [Code](https://github.com/mit-han-lab/hart)
+     - **[Arxiv, 2024.10]** **DART**: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159) [Code](https://github.com/daixiangzi/VAR-CLIP)
+     - **[Arxiv, 2024.10]** **DnD-Transformer**: A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Fine-grained Image Generation [Paper](https://arxiv.org/abs/2410.01912) [Code](https://github.com/chenllliang/DnD-Transformer)
+     - **[Arxiv, 2024.08]** **Lumina-mGPT**: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://arxiv.org/pdf/2408.02657) [Code](https://github.com/Alpha-VLLM/Lumina-mGPT)
+     - **[Arxiv, 2024.07]** **MARS**: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis [Paper](https://arxiv.org/pdf/2407.07614) [Code](https://github.com/fusiming3/MARS)
+     - **[Arxiv, 2024.06]** **LLM4GEN**: Leveraging Semantic Representation of LLMs for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2407.00737) [Code](https://github.com/YUHANG-Ma/LLM4GEN)
+     - **[Arxiv, 2024.06]** **STAR**: Scale-wise Text-to-image generation via Auto-Regressive representations [Paper](https://arxiv.org/pdf/2406.10797) [Code](https://github.com/krennic999/STAR)
+     - **[Arxiv, 2024.05]** **Kaleido Diffusion**: Improving Conditional Diffusion Models with Autoregressive Latent Modeling [Paper](https://arxiv.org/pdf/2405.21048)
+     - **[CVPR, 2024]** **Beyond Text**: Frozen Large Language Models in Visual Signal Comprehension [Paper](https://arxiv.org/pdf/2403.07874) [Code](https://github.com/zh460045050/V2L-Tokenizer)
+     - **[TOG, 2023]** **IconShop**: Text-Guided Vector Icon Synthesis with Autoregressive Transformers (*svg image*) [Paper](https://arxiv.org/pdf/2304.14400) [Code](https://github.com/kingnobro/IconShop)
+     - **[NeurIPS, 2023]** **LQAE** Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment [Paper](https://arxiv.org/pdf/2302.00902) [Code](https://github.com/lhao499/language-quantized-autoencoders)
+     - **[TMLR, 2022.06]** **Parti**: Scaling Autoregressive Models for Content-Rich Text-to-Image Generation [Paper](https://arxiv.org/pdf/2206.10789) [Code](https://github.com/google-research/parti)
+     - **[NeurIPS, 2022]** **CogView2**: Faster and Better Text-to-Image Generation via Hierarchical Transformers [Paper](https://arxiv.org/pdf/2204.14217) [Code](https://github.com/THUDM/CogView2)
+     - **[ECCV, 2022]** **Make-A-Scene:** Scene-Based Text-to-Image Generation with Human Priors [Paper](https://arxiv.org/pdf/2203.13131) 
+     - **[CVPR, 2022]** **VQ-Diffusion:** Vector Quantized Diffusion Model for Text-to-Image Synthesis [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.html) [Code](https://github.com/cientgu/VQ-Diffusion)
+     - **[CVPR, 2022]** **Make-A-Story:** Visual Memory Conditioned Consistent Story Generation (*storytelling*) [Paper](https://arxiv.org/pdf/2211.13319) 
+     - **[NeurIPS, 2021]** **CogView**: Mastering Text-to-Image Generation via Transformers [Paper](https://arxiv.org/pdf/2105.13290) [Code](https://github.com/THUDM/CogView)
+     - **[Arxiv, 2021.02]** **DALL-E 1:** Zero-Shot Text-to-Image Generation [Paper](https://arxiv.org/pdf/2102.12092)
+ 
+- #### Scale-wise Generation
+     - **[Arxiv, 2024.08]** **VAR-CLIP**: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/pdf/2408.01181) [Code](https://github.com/daixiangzi/VAR-CLIP)
+     - **[Arxiv, 2024.06]** **STAR**: Scale-wise Text-to-image generation via Auto-Regressive representations [Paper](https://arxiv.org/pdf/2406.10797) [Code](https://github.com/krennic999/STAR)
+  
 ### Image-to-Image Translation
   - **[ICML Workshop, 2024]** **MIS** Many-to-many Image Generation with Auto-regressive Diffusion Models [Paper](https://arxiv.org/pdf/2404.03109) 
   - **[Arxiv, 2024.03]** **SceneScript**: Reconstructing Scenes With An Autoregressive Structured Language Model [Paper](https://arxiv.org/pdf/2403.13064) [Project](https://www.projectaria.com/scenescript/)
+  - **[CVPR, 2024]** Sequential modeling enables scalable learning for large vision models [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Bai_Sequential_Modeling_Enables_Scalable_Learning_for_Large_Vision_Models_CVPR_2024_paper.html)
   - **[ECCV, 2022]** **QueryOTR**: Outpainting by Queries [Paper](https://arxiv.org/pdf/2207.05312) [Code](https://github.com/Kaiseem/QueryOTR)
+  - **[NeurIPS, 2022]** Visual prompting via image inpainting [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f09f316a3eaf59d9ced5ffaefe97e0f-Abstract-Conference.html)
+  - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
 
 ### Image Editing 
   - **[Arxiv, 2024,06]** CAR: Controllable Autoregressive Modeling for Visual Generation [Paper](https://arxiv.org/abs/2410.04671) [Code](https://github.com/MiracleDance/CAR)
-  - **[Arxiv, 2024,06]** ControlAR: Controllable Image Generation with Autoregressive Models [Paper](https://arxiv.org/abs/2410.02705) [Code](https://github.com/hustvl/ControlAR)
+  - **[Arxiv, 2024,06]** **ControlAR**: Controllable Image Generation with Autoregressive Models [Paper](https://arxiv.org/abs/2410.02705) [Code](https://github.com/hustvl/ControlAR)
   - **[Arxiv, 2024,06]** **ControlVAR**: Exploring Controllable Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2406.09750) [Code](https://github.com/lxa9867/ControlVAR)
+  - **[Arxiv, 2024,06]** Medical Vision Generalist: Unifying Medical Imaging Tasks in Context [Paper](https://arxiv.org/pdf/2406.05565)
+  - **[Arxiv, 2024,04]** **M2M** Many-to-many Image Generation with Auto-regressive Diffusion Models [Paper](https://arxiv.org/pdf/2404.03109)
   - **[ECCV, 2022]** **VQGAN-CLIP:** Open Domain Image Generation and Editing with Natural Language Guidance [Paper](https://arxiv.org/pdf/2204.08583)
   - **[ECCV, 2022]** **Make-A-Scene:** Scene-Based Text-to-Image Generation with Human Priors [Paper](https://arxiv.org/pdf/2203.13131)
+  - **[ICIP, 2021]** **MSGNet:** Generating annotated high-fidelity images containing multiple coherent objects [Paper](https://arxiv.org/pdf/2006.12150)
   
 
 ### Medical Tasks in Vision
