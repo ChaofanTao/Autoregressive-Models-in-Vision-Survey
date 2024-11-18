@@ -309,6 +309,8 @@ Markdown format:
   - **[CVPR, 2024]** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
   - **[AAAI, 2024]** Autoregressive Omni-Aware Outpainting for Open-Vocabulary 360-Degree Image Generation [Paper](https://arxiv.org/pdf/2309.03467) [Code](https://github.com/zhuqiangLu/AOG-NET-360)
   - **[arxiv, 2024]** **LM4LV**: A Frozen Large Language Model for Low-level Vision Tasks [Paper](https://arxiv.org/pdf/2405.15734) [Code](https://github.com/bytetriper/LM4LV)
+  - **[CVPR, 2024]** **ARTrackV2**: Prompting Autoregressive Tracker Where to Look and How to Describe [Paper](https://arxiv.org/pdf/2312.17133) [Code](https://github.com/MIV-XJTU/ARTrack)
+  - **[CVPR, 2023 Highlight]** Autoregressive Visual Tracking [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.pdf) [Code](https://github.com/MIV-XJTU/ARTrack)
   - **[CVPR, 2023]** **Visual Chain of Thought**: Bridging Logical Gaps with Multimodal Infillings [Paper](https://arxiv.org/pdf/2305.02317) 
   - **[NeurIPS, 2022]** Visual Prompting via Image Inpainting [Paper](https://arxiv.org/pdf/2209.00647) [Code](https://github.com/amirbar/visual_prompting)
   - **[EMNLP, 2022]** **MAGMA** – Multimodal Augmentation of Generative Models through Adapter-based Finetuning [Paper](https://arxiv.org/pdf/2112.05253)
