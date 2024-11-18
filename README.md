@@ -326,6 +326,10 @@ Markdown format:
   - **[ECCV, 2024]** An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models [Paper](https://arxiv.org/pdf/2403.06764) [Code](https://github.com/pkunlp-icler/FastV)
   - **[Arxiv, 2020]** Scaling Laws for Autoregressive Generative Modeling [Paper](https://arxiv.org/abs/2010.14701)
 
+### Tutorial
+-  [UvA DL Notebooks](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial12/Autoregressive_Image_Modeling.html)
+-  [MSC Deep Learning](https://hal.cse.msu.edu/teaching/2022-fall-deep-learning/18-autoregressive-models/#/2)
+
 
 ### Evaluation Metrics
 | Metric                              | Analysis Type               | Reference                                            |
@@ -352,9 +356,6 @@ Markdown format:
 <a href="https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ChaofanTao/Autoregressive-Models-in-Vision-Survey" />
 </a>
-
-
-
 
 ## 📑 Citation
 
