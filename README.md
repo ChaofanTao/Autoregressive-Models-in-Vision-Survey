@@ -1,5 +1,5 @@
 <div align=center>
-<img src="img/ARV_logo.png" width="180px">
+<img src="img/logo.png" width="180px">
 </div>
 <h2 align="center"> Awesome Autoregressive Models in Vision <div align=center> </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
@@ -53,21 +53,23 @@ Markdown format:
 - [⚡ Contributing](#-contributing)
 - [📖 Table of Contents](#-table-of-contents)
   - [Image Generation](#image-generation)
-     - [Unconditional/Class-Conditioned Image Generation](#unconditionalclass-conditioned-image-generation)
-     - [Text-to-Image Generation](#text-to-image-generation)
-     - [Image-to-Image Translation](#image-to-image-translation)
-     - [Image Editing](#image-editing)
+    - [Unconditional/Class-Conditioned Image Generation](#unconditionalclass-conditioned-image-generation)
+    - [Text-to-Image Generation](#text-to-image-generation)
+    - [Image-to-Image Translation](#image-to-image-translation)
+    - [Image Editing](#image-editing)
   - [Video Generation](#video-generation)
-     - [Unconditional Generation](#unconditional-video-generation)
-     - [Conditional Video Generation](#conditional-video-generation)
-     - [Embodied AI](#embodied-ai)
-  - [3D Generation](3d-generation)
-     - [Motion Generation](#motion-generation)
-     - [Point Cloud Generation](#point-cloud-generation)
-     - [3D Medical Generation](#3d-medical-generation)
-  - [Multimodal Generation](#unified-understanding-and-generation-multi-modal-llms)
+    - [Unconditional Video Generation](#unconditional-video-generation)
+    - [Conditional Video Generation](#conditional-video-generation)
+    - [Embodied AI](#embodied-ai)
+  - [3D Generation](#3d-generation)
+    - [Motion Generation](#motion-generation)
+    - [Point Cloud Generation](#point-cloud-generation)
+    - [3D Medical Generation](#3d-medical-generation)
+  - [Multimodal Generation](#multimodal-generation)
+    - [Unified Understanding and Generation Multi-Modal LLMs](#unified-understanding-and-generation-multi-modal-llms)
   - [Other Generation](#other-generation)
   - [Accelerating \& Stability \& Analysis \& Scaling](#accelerating--stability--analysis--scaling)
+  - [Tutorial](#tutorial)
   - [Evaluation Metrics](#evaluation-metrics)
 - [Star History](#star-history)
 - [♥️ Contributors](#️-contributors)
