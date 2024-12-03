@@ -1,5 +1,5 @@
 <div align=center>
-<img src="img/logo.png" width="180px">
+<img src="img/logo_new.png" width="180px">
 </div>
 <h2 align="center"> Awesome Autoregressive Models in Vision <div align=center> </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
