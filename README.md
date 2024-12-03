@@ -79,6 +79,8 @@ Markdown format:
 <img src="img/outline_new.png" width="800px">
 </div>
 
+-----
+
 ### Image Generation
 #### Unconditional/Class-Conditioned Image Generation
   - ##### Pixel-wise Generation
