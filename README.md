@@ -92,7 +92,7 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
-    
+    - [**Arxiv, 2024.12**] RandAR: Decoder-only Autoregressive Visual Generation in Random Orders. [Paper](https://arxiv.org/pdf/2412.01827) [Code](https://github.com/ziqipang/RandAR) [Project](https://rand-ar.github.io/)
     - [**Arxiv, 2024.11**] Randomized Autoregressive Visual Generation. [Paper](https://arxiv.org/pdf/2411.00776) [Code](https://github.com/bytedance/1d-tokenizer) [Project](https://yucornetto.github.io/projects/rar.html)
     - **[Arxiv, 2024.09]** **Open-MAGVIT2**: Democratizing Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2409.04410) [Code](https://github.com/TencentARC/Open-MAGVIT2)
     - **[Arxiv, 2024.06]** **OmniTokenizer**: A Joint Image-Video Tokenizer for Visual Generation [Paper](https://arxiv.org/pdf/2406.09399) [Code](https://github.com/FoundationVision/OmniTokenizer)
