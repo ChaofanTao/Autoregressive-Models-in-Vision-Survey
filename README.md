@@ -135,6 +135,7 @@ Markdown format:
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
     
   - ##### Scale-wise Generation
+    - **[Arxiv, 2024.12]** **SWITTI**: Designing Scale-Wise Transformers for Text-to-Image Synthesis [Paper](https://arxiv.org/pdf/2412.01819) [Code](https://github.com/yandex-research/switti) [Page](https://yandex-research.github.io/switti/)
     - **[Arxiv, 2024.11]** **M-VAR**: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation [Paper](https://arxiv.org/pdf/2411.10433) [Code](https://github.com/OliverRensu/MVAR)
     - **[Arxiv, 2024.04]** **Visual Autoregressive Modeling:** Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/pdf/2404.02905) [Code](https://github.com/FoundationVision/VAR)
 
@@ -302,6 +303,7 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2024.12]** **X-Prompt**: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824) [Code](https://github.com/SunzeY/X-Prompt)
   - **[Arxiv, 2024.12]** **3D-WAG**: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes [Paper](https://arxiv.org/pdf/2411.19037) [Code](https://github.com/TejaswiniMedi/3DWAG-AR)
   - **[Arxiv, 2024.11]** **SAR3D**: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE [Paper](https://arxiv.org/abs/2411.16856) [Code](https://github.com/cyw-3d/SAR3D)
   - **[Arxiv, 2024.11]** Scalable Autoregressive Monocular Depth Estimation [Paper](https://arxiv.org/pdf/2411.11361) 
