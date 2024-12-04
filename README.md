@@ -91,13 +91,14 @@ Markdown format:
     - **[ICLR workshop, 2017]** **Gated PixelCNN**: Generating Interpretable Images with Controllable Structure [Paper](https://openreview.net/forum?id=Hyvw0L9el)
     - **[ICLR, 2017]** **PixelCNN++**: Improving the PixelCNN with Discretized Logistic Mixture Likelihood and Other Modifications [Paper](https://arxiv.org/pdf/1701.05517) [Code](https://github.com/openai/pixel-cnn)
     - **[NeurIPS, 2016]** **PixelCNN** Conditional Image Generation with PixelCNN Decoders [Paper](https://arxiv.org/pdf/1606.05328) [Code](https://github.com/anantzoid/Conditional-PixelCNN-decoder)
-    - **[ICML,2016]** **PixelRNN** Pixel Recurrent Neural Networks [Paper](https://arxiv.org/pdf/1601.06759) [Code](https://github.com/j-min/PixelCNN)
+    - **[ICML, 2016]** **PixelRNN** Pixel Recurrent Neural Networks [Paper](https://arxiv.org/pdf/1601.06759) [Code](https://github.com/j-min/PixelCNN)
     
   - ##### Token-wise Generation
     
     ##### Tokenizer
-    - [**Arxiv, 2024.12**] RandAR: Decoder-only Autoregressive Visual Generation in Random Orders. [Paper](https://arxiv.org/pdf/2412.01827) [Code](https://github.com/ziqipang/RandAR) [Project](https://rand-ar.github.io/)
-    - [**Arxiv, 2024.11**] Randomized Autoregressive Visual Generation. [Paper](https://arxiv.org/pdf/2411.00776) [Code](https://github.com/bytedance/1d-tokenizer) [Project](https://yucornetto.github.io/projects/rar.html)
+    - **[Arxiv, 2024.12]** XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/pdf/2412.01762) [Code](https://github.com/lxa9867/ImageFolder)
+    - **[Arxiv, 2024.12]** RandAR: Decoder-only Autoregressive Visual Generation in Random Orders. [Paper](https://arxiv.org/pdf/2412.01827) [Code](https://github.com/ziqipang/RandAR) [Project](https://rand-ar.github.io/)
+    - **[Arxiv, 2024.11]** Randomized Autoregressive Visual Generation. [Paper](https://arxiv.org/pdf/2411.00776) [Code](https://github.com/bytedance/1d-tokenizer) [Project](https://yucornetto.github.io/projects/rar.html)
     - **[Arxiv, 2024.09]** **Open-MAGVIT2**: Democratizing Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2409.04410) [Code](https://github.com/TencentARC/Open-MAGVIT2)
     - **[Arxiv, 2024.06]** **OmniTokenizer**: A Joint Image-Video Tokenizer for Visual Generation [Paper](https://arxiv.org/pdf/2406.09399) [Code](https://github.com/FoundationVision/OmniTokenizer)
     - **[Arxiv, 2024.06]** Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99% [Paper](https://arxiv.org/pdf/2406.11837) [Code](https://github.com/zh460045050/VQGAN-LC)
@@ -120,6 +121,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2024.12]** Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692) [Code](https://github.com/TencentARC/SEED-Voken)
     - **[Arxiv, 2024.11]** Sample- and Parameter-Efficient Auto-Regressive Image Models [Paper](https://arxiv.org/pdf/2411.15648) [Code](https://github.com/elad-amrani/xtra)
     - **[Arxiv, 2024.01]** Scalable Pre-training of Large Autoregressive Image Models [Paper](https://arxiv.org/abs/2401.08541) [Code](https://github.com/apple/ml-aim)
     - **[Arxiv, 2024.10]** ImageFolder: Autoregressive Image Generation with Folded Tokens [Paper](https://arxiv.org/abs/2410.01756) [Code](https://github.com/lxa9867/ImageFolder)
@@ -307,6 +309,7 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2024.12]** It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model [Paper](https://arxiv.org/pdf/2412.02419)
   - **[Arxiv, 2024.12]** **X-Prompt**: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824) [Code](https://github.com/SunzeY/X-Prompt)
   - **[Arxiv, 2024.12]** **3D-WAG**: Hierarchical Wavelet-Guided Autoregressive Generation for High-Fidelity 3D Shapes [Paper](https://arxiv.org/pdf/2411.19037) [Code](https://github.com/TejaswiniMedi/3DWAG-AR)
   - **[Arxiv, 2024.11]** **SAR3D**: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE [Paper](https://arxiv.org/abs/2411.16856) [Code](https://github.com/cyw-3d/SAR3D)
@@ -328,6 +331,7 @@ Markdown format:
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling
+  - **[Arxiv, 2024.12]** 3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation [Paper](https://arxiv.org/pdf/2412.02202) [Page](https://sparse-mvs-2.github.io/VAT.IO/)
   - **[Arxiv, 2024.12]** JetFormer: An autoregressive generative model of raw images and text [Paper](https://arxiv.org/pdf/2411.19722) 
   - **[Arxiv, 2024.11]** Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/pdf/2411.17787) [Code](https://github.com/czg1225/CoDe)
   - **[Arxiv, 2024.11]** Continuous Speculative Decoding for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2411.11925) [Code](https://github.com/MarkXCloud/CSpD)
