@@ -280,6 +280,7 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2024.12]** **Orthus**: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads [Paper](https://arxiv.org/pdf/2412.00127)
   - **[Arxiv, 2024.12]** Multimodal Latent Language Modeling with Next-Token Diffusion. [Paper](https://arxiv.org/pdf/2412.08635) 
   - **[Arxiv, 2024.12]** **ILLUME**: Illuminating Your LLMs to See, Draw, and Self-Enhance. [Paper](https://arxiv.org/pdf/2412.06673) 
   - **[Arxiv, 2024.11]** **JanusFlow**: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation. [Paper](https://arxiv.org/pdf/2411.07975) [Project](https://github.com/deepseek-ai/Janus)
