@@ -96,7 +96,7 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
-    - **[Arxiv, 2024.12]** Next Patch Prediction for Autoregressive Visual Generation [Paper](TDL) [Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
+    - **[Arxiv, 2024.12]** Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15321) [Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
     - **[Arxiv, 2024.12]** XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/pdf/2412.01762) [Code](https://github.com/lxa9867/ImageFolder)
     - **[Arxiv, 2024.12]** RandAR: Decoder-only Autoregressive Visual Generation in Random Orders. [Paper](https://arxiv.org/pdf/2412.01827) [Code](https://github.com/ziqipang/RandAR) [Project](https://rand-ar.github.io/)
     - **[Arxiv, 2024.11]** Randomized Autoregressive Visual Generation. [Paper](https://arxiv.org/pdf/2411.00776) [Code](https://github.com/bytedance/1d-tokenizer) [Project](https://yucornetto.github.io/projects/rar.html)
@@ -258,7 +258,8 @@ Markdown format:
      
 ### 3D Generation
 #### Motion Generation
-  - **[AAAI, 2024]** **AMD**: Autoregressive Motion Diffusion [Paper](https://arxiv.org/pdf/2305.09381) [Code]()
+  - **[Arxiv, 2024]** **ScaMo**: Exploring the Scaling Law in Autoregressive Motion Generation Model [Paper](https://arxiv.org/abs/2412.14559) [Code](https://github.com/shunlinlu/ScaMo_code)
+  - **[AAAI, 2024]** **AMD**: Autoregressive Motion Diffusion [Paper](https://arxiv.org/pdf/2305.09381) [Code](https://github.com/fluide1022/AMD)
   - **[ECCV, 2024]** **BAMM**: Bidirectional Autoregressive Motion Model [Paper](https://arxiv.org/abs/2403.19435) [Code](https://github.com/exitudio/BAMM/?tab=readme-ov-file)
   - **[CVPR, 2023]**  **T2M-GPT**: Generating Human Motion from Textual Descriptions with Discrete Representations [Paper](https://arxiv.org/pdf/2301.06052)
   - **[Arxiv, 2022]** **HiT-DVAE**: Human Motion Generation via Hierarchical Transformer Dynamical VAE [Paper](https://arxiv.org/pdf/2204.01565)
@@ -282,6 +283,7 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2024.12]** **LlamaFusion**: Adapting Pretrained Language Models for Multimodal Generation [Paper](https://arxiv.org/pdf/2412.15188) 
   - **[Arxiv, 2024.12]** **MetaMorph**: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164) [Page](https://tsb0601.github.io/metamorph/)
   - **[Arxiv, 2024.12]** **Orthus**: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads [Paper](https://arxiv.org/pdf/2412.00127)
   - **[Arxiv, 2024.12]** Multimodal Latent Language Modeling with Next-Token Diffusion. [Paper](https://arxiv.org/pdf/2412.08635) 
@@ -318,6 +320,9 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2024.12]** DriveGPT: Scaling Autoregressive Behavior Models for Driving [Paper](https://arxiv.org/abs/2412.14415) 
+  - **[TII, 2025]** VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [Paper](https://arxiv.org/abs/2412.17263) [Code](https://github.com/caoyunkang/VarAD)
+  - **[Arxiv, 2024.12]** **DrivingGPT**: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers [Paper](https://arxiv.org/abs/2412.18607) [Page](https://rogerchern.github.io/DrivingGPT/)
   - **[Arxiv, 2024.12]** Advancing Auto-Regressive Continuation for Video Frames [Paper](https://arxiv.org/pdf/2412.03758)
   - **[Arxiv, 2024.12]** It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model [Paper](https://arxiv.org/pdf/2412.02419)
   - **[Arxiv, 2024.12]** **X-Prompt**: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models [Paper](https://arxiv.org/pdf/2412.01824) [Code](https://github.com/SunzeY/X-Prompt)
@@ -341,6 +346,8 @@ Markdown format:
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling
+  - **[Arxiv, 2024.12]** Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15119) [Code](https://github.com/Epiphqny/PAR)
+  - **[Arxiv, 2024.12]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://arxiv.org/pdf/2412.17153) [Code](https://github.com/imagination-research/distilled-decoding)
   - **[Arxiv, 2024.12]** 3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation [Paper](https://arxiv.org/pdf/2412.02202) [Page](https://sparse-mvs-2.github.io/VAT.IO/)
   - **[Arxiv, 2024.12]** JetFormer: An autoregressive generative model of raw images and text [Paper](https://arxiv.org/pdf/2411.19722) 
   - **[Arxiv, 2024.11]** Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/pdf/2411.17787) [Code](https://github.com/czg1225/CoDe)
