@@ -96,6 +96,7 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2024.12]** TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
     - **[Arxiv, 2024.12]** Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15321) [Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
     - **[Arxiv, 2024.12]** XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/pdf/2412.01762) [Code](https://github.com/lxa9867/ImageFolder)
     - **[Arxiv, 2024.12]** RandAR: Decoder-only Autoregressive Visual Generation in Random Orders. [Paper](https://arxiv.org/pdf/2412.01827) [Code](https://github.com/ziqipang/RandAR) [Project](https://rand-ar.github.io/)
@@ -122,8 +123,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
-    - **[Arxiv, 2024.12]** E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling [Paper](https://arxiv.org/pdf/2412.14170) 
-    - **[Arxiv, 2024.12]** Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2412.04431) [Code](https://github.com/FoundationVision/Infinity)
+    - **[Arxiv, 2024.12]** E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling [Paper](https://arxiv.org/pdf/2412.14170)
     - **[Arxiv, 2024.12]** Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692) [Code](https://github.com/TencentARC/SEED-Voken)
     - **[Arxiv, 2024.11]** Sample- and Parameter-Efficient Auto-Regressive Image Models [Paper](https://arxiv.org/pdf/2411.15648) [Code](https://github.com/elad-amrani/xtra)
     - **[Arxiv, 2024.01]** Scalable Pre-training of Large Autoregressive Image Models [Paper](https://arxiv.org/abs/2401.08541) [Code](https://github.com/apple/ml-aim)
@@ -143,16 +143,18 @@ Markdown format:
     - **[NeurIPS, 2019]** Generating Diverse High-Fidelity Images with VQ-VAE-2 [Paper](https://arxiv.org/pdf/1906.00446) [Code](https://github.com/rosinality/vq-vae-2-pytorch)
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
     
-  - ##### Scale-wise Generation
-    - **[Arxiv, 2024.12]** **SWITTI**: Designing Scale-Wise Transformers for Text-to-Image Synthesis [Paper](https://arxiv.org/pdf/2412.01819) [Code](https://github.com/yandex-research/switti) [Page](https://yandex-research.github.io/switti/)
+  - ##### Scale-wise AutoRegressive Generation
+    - **[Arxiv, 2024.12]** **FlowAR**: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/abs/2412.15205) [Code](https://github.com/OliverRensu/FlowAR)
     - **[Arxiv, 2024.11]** **M-VAR**: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation [Paper](https://arxiv.org/pdf/2411.10433) [Code](https://github.com/OliverRensu/MVAR)
-    - **[Arxiv, 2024.04]** **Visual Autoregressive Modeling:** Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/pdf/2404.02905) [Code](https://github.com/FoundationVision/VAR)
+    - **[NeurIPS 2024 Best Paper]** **Visual Autoregressive Modeling:** Scalable Image Generation via Next-Scale Prediction [Paper](https://arxiv.org/pdf/2404.02905) [Code](https://github.com/FoundationVision/VAR)
 
 #### Text-to-Image Generation
 - ##### Token-wise Generation
+     - **[Arxiv, 2024.12]** Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/abs/2412.04332) [Code](https://github.com/FoundationVision/Liquid)
+     - **[Arxiv, 2024.12]** Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2412.04431) [Code](https://github.com/FoundationVision/Infinity)
+     - **[Arxiv, 2024.12]** TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
      - **[Arxiv, 2024.11]** High-Resolution Image Synthesis via Next-Token Prediction [Paper](https://arxiv.org/pdf/2411.14808) [Code](https://d-jepa.github.io/t2i/)
      - **[Arxiv, 2024.10]** **Fluid**: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens [Paper](https://arxiv.org/abs/2410.13863)
-     - **[Arxiv, 2024.10]** **HART**: Efficient Visual Generation with Hybrid Autoregressive Transformer [Paper](https://arxiv.org/abs/2410.10812) [Code](https://github.com/mit-han-lab/hart)
      - **[Arxiv, 2024.10]** **DART**: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation [Paper](https://arxiv.org/abs/2410.08159) [Code](https://github.com/daixiangzi/VAR-CLIP)
      - **[Arxiv, 2024.10]** **DnD-Transformer**: A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Fine-grained Image Generation [Paper](https://arxiv.org/abs/2410.01912) [Code](https://github.com/chenllliang/DnD-Transformer)
      - **[Arxiv, 2024.08]** **Lumina-mGPT**: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining [Paper](https://arxiv.org/pdf/2408.02657) [Code](https://github.com/Alpha-VLLM/Lumina-mGPT)
@@ -172,6 +174,9 @@ Markdown format:
      - **[Arxiv, 2021.02]** **DALL-E 1:** Zero-Shot Text-to-Image Generation [Paper](https://arxiv.org/pdf/2102.12092)
  
 - ##### Scale-wise Generation
+     - **[Arxiv, 2024.12]** Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2412.04431) [Code](https://github.com/FoundationVision/Infinity)
+     - **[Arxiv, 2024.12]** **SWITTI**: Designing Scale-Wise Transformers for Text-to-Image Synthesis [Paper](https://arxiv.org/pdf/2412.01819) [Code](https://github.com/yandex-research/switti) [Page](https://yandex-research.github.io/switti/)
+     - **[Arxiv, 2024.10]** **HART**: Efficient Visual Generation with Hybrid Autoregressive Transformer [Paper](https://arxiv.org/abs/2410.10812) [Code](https://github.com/mit-han-lab/hart)
      - **[Arxiv, 2024.08]** **VAR-CLIP**: Text-to-Image Generator with Visual Auto-Regressive Modeling [Paper](https://arxiv.org/pdf/2408.01181) [Code](https://github.com/daixiangzi/VAR-CLIP)
      - **[Arxiv, 2024.06]** **STAR**: Scale-wise Text-to-image generation via Auto-Regressive representations [Paper](https://arxiv.org/pdf/2406.10797) [Code](https://github.com/krennic999/STAR)
   
