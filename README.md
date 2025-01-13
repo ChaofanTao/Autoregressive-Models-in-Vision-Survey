@@ -248,6 +248,7 @@ Markdown format:
      - **[NeurIPS, 2015]** Convolutional LSTM network: A machine learning approach for precipitation nowcasting [Paper](https://proceedings.neurips.cc/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf)
 
    - ##### Multimodal Conditional Video Generation
+      - **[Arxiv, 2025.01]** VideoAuteur: Towards Long Narrative Video Generation  [Paper](https://arxiv.org/abs/2501.06173) [Code](https://github.com/lambert-x/VideoAuteur)
       - **[Arxiv, 2024.12]** Autoregressive Video Generation without Vector Quantization [Paper](https://arxiv.org/pdf/2412.14169) [Code](https://github.com/baaivision/NOVA)
       - **[ICML, 2024]** **Video-LaVIT**:  Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization [Paper](https://arxiv.org/pdf/2402.03161) [Code](https://github.com/jy0205/LaVIT)
       - **[ICML, 2024]** **VideoPoet**: A Large Language Model for Zero-Shot Video Generation [Paper](https://arxiv.org/pdf/2312.14125)
