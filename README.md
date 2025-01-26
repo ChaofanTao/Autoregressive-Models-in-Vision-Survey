@@ -206,6 +206,7 @@ Markdown format:
 
 ### Video Generation
 #### Unconditional Video Generation
+   - **[Arxiv, 2025.01]** Taming Teacher Forcing for Masked Autoregressive Video Generation [Paper](https://arxiv.org/pdf/2501.12389) [Code](https://magivideogen.github.io/)
    - **[Arxiv, 2024.10]**  **LARP**: Tokenizing Videos with a Learned Autoregressive Generative Prior [Paper](https://arxiv.org/pdf/2410.21264)
    - **[ECCV 2024]** **ST-LLM**: Large Language Models Are Effective Temporal Learners [Paper](https://arxiv.org/pdf/2404.00308) [Code](https://github.com/TencentARC/ST-LLM)
    - **[ICLR, 2024]**  **MAGVIT-v2** Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation [Paper](https://arxiv.org/pdf/2310.05737)
@@ -354,6 +355,7 @@ Markdown format:
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling
+  - **[Arxiv, 2025.01]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/abs/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   - **[Arxiv, 2024.12]** Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15119) [Code](https://github.com/Epiphqny/PAR)
   - **[Arxiv, 2024.12]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://arxiv.org/pdf/2412.17153) [Code](https://github.com/imagination-research/distilled-decoding)
   - **[Arxiv, 2024.12]** 3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation [Paper](https://arxiv.org/pdf/2412.02202) [Page](https://sparse-mvs-2.github.io/VAT.IO/)
