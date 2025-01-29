@@ -96,6 +96,7 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.01]** ARFlow: Autogressive Flow with Hybrid Linear Attention [Paper](https://arxiv.org/pdf/2501.16085) 
     - **[Arxiv, 2024.12]** TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
     - **[Arxiv, 2024.12]** Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15321) [Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
     - **[Arxiv, 2024.12]** XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/pdf/2412.01762) [Code](https://github.com/lxa9867/ImageFolder)
@@ -292,6 +293,8 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.1]** **Janus-Pro**: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf) [Code](https://github.com/deepseek-ai/Janus)
+  - **[Arxiv, 2025.1]** **VARGPT**: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://pdf.arxiv.org/abs/2501.12327) [Code](https://github.com/VARGPT-family/VARGPT)
   - **[Arxiv, 2024.12]** **LlamaFusion**: Adapting Pretrained Language Models for Multimodal Generation [Paper](https://arxiv.org/pdf/2412.15188) 
   - **[Arxiv, 2024.12]** **MetaMorph**: Multimodal Understanding and Generation via Instruction Tuning [Paper](https://arxiv.org/pdf/2412.14164) [Page](https://tsb0601.github.io/metamorph/)
   - **[Arxiv, 2024.12]** **Orthus**: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads [Paper](https://arxiv.org/pdf/2412.00127)
