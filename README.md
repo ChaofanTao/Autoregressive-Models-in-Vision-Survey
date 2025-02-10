@@ -293,6 +293,7 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.2]** **QLIP**: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2502.05178) [Code](https://github.com/NVlabs/QLIP)
   - **[Arxiv, 2025.1]** **Janus-Pro**: Unified Multimodal Understanding and Generation with Data and Model Scaling [Paper](https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf) [Code](https://github.com/deepseek-ai/Janus)
   - **[Arxiv, 2025.1]** **VARGPT**: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model [Paper](https://pdf.arxiv.org/abs/2501.12327) [Code](https://github.com/VARGPT-family/VARGPT)
   - **[Arxiv, 2024.12]** **LlamaFusion**: Adapting Pretrained Language Models for Multimodal Generation [Paper](https://arxiv.org/pdf/2412.15188) 
