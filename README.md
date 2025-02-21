@@ -336,6 +336,8 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2025.02]** Poly-Autoregressive Prediction for Modeling Interactions [Paper](https://arxiv.org/pdf/2502.08646) 
+  - **[Arxiv, 2025.02]** SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation [Paper](https://arxiv.org/abs/2502.13128) [Code](https://github.com/LiuZH-19/SongGen)
   - **[Arxiv, 2024.12]** DriveGPT: Scaling Autoregressive Behavior Models for Driving [Paper](https://arxiv.org/abs/2412.14415) 
   - **[TII, 2025]** VarAD: Lightweight High-Resolution Image Anomaly Detection via Visual Autoregressive Modeling [Paper](https://arxiv.org/abs/2412.17263) [Code](https://github.com/caoyunkang/VarAD)
   - **[Arxiv, 2024.12]** **DrivingGPT**: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers [Paper](https://arxiv.org/abs/2412.18607) [Page](https://rogerchern.github.io/DrivingGPT/)
@@ -362,7 +364,6 @@ Markdown format:
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling & Safety
-  - **[Arxiv, 2025.02]** Poly-Autoregressive Prediction for Modeling Interactions [Paper](https://arxiv.org/pdf/2502.08646) 
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
   - **[Arxiv, 2025.01]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/abs/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   - **[Arxiv, 2024.12]** Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15119) [Code](https://github.com/Epiphqny/PAR)
