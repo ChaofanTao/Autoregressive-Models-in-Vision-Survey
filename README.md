@@ -96,8 +96,9 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
-    - **[Arxiv, 2025.01]** ARFlow: Autogressive Flow with Hybrid Linear Attention [Paper](https://arxiv.org/pdf/2501.16085) 
-    - **[Arxiv, 2024.12]** TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
+    - **[Arxiv, 2025.02]** **FlexTok**: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/pdf/2502.13967) 
+    - **[Arxiv, 2025.01]** **ARFlow**: Autogressive Flow with Hybrid Linear Attention [Paper](https://arxiv.org/pdf/2501.16085) 
+    - **[Arxiv, 2024.12]** **TokenFlow**: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
     - **[Arxiv, 2024.12]** Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15321) [Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
     - **[Arxiv, 2024.12]** XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/pdf/2412.01762) [Code](https://github.com/lxa9867/ImageFolder)
     - **[Arxiv, 2024.12]** RandAR: Decoder-only Autoregressive Visual Generation in Random Orders. [Paper](https://arxiv.org/pdf/2412.01827) [Code](https://github.com/ziqipang/RandAR) [Project](https://rand-ar.github.io/)
