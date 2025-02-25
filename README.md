@@ -125,6 +125,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.02]** Fractal Generative Models [Paper](https://arxiv.org/pdf/2502.17437) [Code](https://github.com/LTH14/fractalgen)
     - **[Arxiv, 2025.01]** An Empirical Study of Autoregressive Pre-training from Videos [Paper](https://arxiv.org/pdf/2501.05453) 
     - **[Arxiv, 2024.12]** E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling [Paper](https://arxiv.org/pdf/2412.14170)
     - **[Arxiv, 2024.12]** Taming Scalable Visual Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2412.02692) [Code](https://github.com/TencentARC/SEED-Voken)
@@ -364,6 +365,7 @@ Markdown format:
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling & Safety
+  - **[Arxiv, 2025.02]** Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965) [Code](https://github.com/LTH14/fractalgen)
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
   - **[Arxiv, 2025.01]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/abs/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   - **[Arxiv, 2024.12]** Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15119) [Code](https://github.com/Epiphqny/PAR)
