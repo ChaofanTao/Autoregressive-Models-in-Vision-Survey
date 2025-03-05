@@ -125,6 +125,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.03]** ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models [Paper](https://arxiv.org/pdf/2503.02883) [Code](https://github.com/Qinyu-Allen-Zhao/Arinar)
     - **[Arxiv, 2025.02]** Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2502.20388) [Code](https://github.com/OliverRensu/xAR) [Project](https://arxiv.org/pdf/2502.20388)
     - **[Arxiv, 2025.02]** Fractal Generative Models [Paper](https://arxiv.org/pdf/2502.17437) [Code](https://github.com/LTH14/fractalgen)
     - **[Arxiv, 2025.01]** An Empirical Study of Autoregressive Pre-training from Videos [Paper](https://arxiv.org/pdf/2501.05453) 
