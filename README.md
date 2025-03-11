@@ -1,7 +1,7 @@
 <div align=center>
 <img src="img/logo_new.png" width="160px">
 </div>
-<h2 align="center"> <a href="https://arxiv.org/abs/2411.05902"> Awesome Autoregressive Models in Vision <div align=center> </a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2411.05902">Awesome Autoregressive Models in Vision <div align=center> </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <h5 align="center">
@@ -16,7 +16,7 @@
 
 Autoregressive models have shown significant progress in generating high-quality content by modeling the dependencies sequentially. This repo is a curated list of papers about the latest advancements in autoregressive models in vision. **This repo is being actively updated, please stay tuned!**
 
-> **Paper**: [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902) | [[中文解读]](https://mp.weixin.qq.com/s/_O8W1qgvMZu37IKwgtskMA)
+> **Paper**: **[TMLR 2025🔥]** [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902) | [[中文解读]](https://mp.weixin.qq.com/s/_O8W1qgvMZu37IKwgtskMA)
 
 > **Authors**: *Jing Xiong<sup>1,†</sup>, Gongye Liu<sup>2,†</sup>, Lun Huang<sup>3</sup>, Chengyue Wu<sup>1</sup>, Taiqiang Wu<sup>1</sup>, Yao Mu<sup>1</sup>, Yuan Yao<sup>4</sup>, Hui Shen<sup>5</sup>, Zhongwei Wan<sup>5</sup>, Jinfa Huang<sup>4</sup>, Chaofan Tao<sup>1,‡</sup>, Shen Yan<sup>6</sup>, Huaxiu Yao<sup>7</sup>, Lingpeng Kong<sup>1</sup>, Hongxia Yang<sup>9</sup>, Mi Zhang<sup>5</sup>, Guillermo Sapiro<sup>8,10</sup>, Jiebo Luo<sup>4</sup>, Ping Luo<sup>1</sup>, Ngai Wong<sup>1</sup>*
 
@@ -25,6 +25,8 @@ Autoregressive models have shown significant progress in generating high-quality
 > *<sup>†</sup> Core Contributors, <sup>‡</sup> Corresponding Authors*
 
 ## 📣 Update News
+
+`[2025-03-11]` 🔥 Our [survey](https://arxiv.org/abs/2411.05902) has been accepted by TMLR 2025, and we will update arXiv with more details soon, keep tuned!
 
 `[2024-11-11]` We have released the survey: [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902).
 
