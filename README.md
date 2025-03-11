@@ -68,7 +68,7 @@ Markdown format:
   - [Multimodal Generation](#multimodal-generation)
     - [Unified Understanding and Generation Multi-Modal LLMs](#unified-understanding-and-generation-multi-modal-llms)
   - [Other Generation](#other-generation)
-  - [Accelerating \& Stability \& Analysis \& Scaling \& Safety](#accelerating--stability--analysis--scaling--safety)
+  - [Accelerating \& Stability \& Analysis \& Scaling \& Safety \& Benchmark](#accelerating--stability--analysis--scaling--safety--benchmark)
   - [Tutorial](#tutorial)
   - [Evaluation Metrics](#evaluation-metrics)
 - [Star History](#star-history)
@@ -96,6 +96,7 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.03]** V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.07493) [Code](https://github.com/zhangguiwei610/V2Flow)
     - **[Arxiv, 2025.02]** **FlexTok**: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/pdf/2502.13967) 
     - **[Arxiv, 2025.01]** **ARFlow**: Autogressive Flow with Hybrid Linear Attention [Paper](https://arxiv.org/pdf/2501.16085) 
     - **[Arxiv, 2024.12]** **TokenFlow**: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
@@ -125,6 +126,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.03]** NFIG: Autoregressive Image Generation with Next-Frequency Prediction [Paper](https://arxiv.org/abs/2503.07076) 
     - **[Arxiv, 2025.03]** Frequency Autoregressive Image Generation with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.05305) [Code](https://github.com/yuhuUSTC/FAR)
     - **[Arxiv, 2025.03]** ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models [Paper](https://arxiv.org/pdf/2503.02883) [Code](https://github.com/Qinyu-Allen-Zhao/Arinar)
     - **[Arxiv, 2025.02]** Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2502.20388) [Code](https://github.com/OliverRensu/xAR) [Project](https://arxiv.org/pdf/2502.20388)
@@ -213,6 +215,7 @@ Markdown format:
 
 ### Video Generation
 #### Unconditional Video Generation
+   - **[Arxiv, 2025.03]** AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion [Paper](https://arxiv.org/pdf/2503.07418) [Code](https://github.com/iva-mzsun/AR-Diffusion)
    - **[Arxiv, 2025.02]** Next Block Prediction: Video Generation via Semi-Autoregressive Modeling [Paper](https://arxiv.org/abs/2502.07737) [Code](https://github.com/RenShuhuai-Andy/NBP)
    - **[Arxiv, 2025.01]** Taming Teacher Forcing for Masked Autoregressive Video Generation [Paper](https://arxiv.org/pdf/2501.12389) [Code](https://magivideogen.github.io/)
    - **[Arxiv, 2024.10]**  **LARP**: Tokenizing Videos with a Learned Autoregressive Generative Prior [Paper](https://arxiv.org/pdf/2410.21264)
@@ -370,7 +373,8 @@ Markdown format:
   - **[NeurIPS, 2021]** Multimodal Few-Shot Learning with Frozen Language Models [Paper](https://arxiv.org/pdf/2106.13884)
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
-### Accelerating & Stability & Analysis & Scaling & Safety
+### Accelerating & Stability & Analysis & Scaling & Safety & Benchmark
+  - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
   - **[Arxiv, 2025.03]** Teaching Metric Distance to Autoregressive Multimodal Foundational Models [Paper](https://arxiv.org/pdf/2503.02379) 
   - **[Arxiv, 2025.02]** Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965) [Code](https://github.com/LTH14/fractalgen)
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
