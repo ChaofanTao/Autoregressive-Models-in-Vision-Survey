@@ -282,6 +282,7 @@ Markdown format:
      
 ### 3D Generation
 #### Motion Generation
+  - **[Arxiv, 2025]** 3D Point Cloud Generation via Autoregressive Up-sampling [Paper](https://arxiv.org/pdf/2503.08594)
   - **[CVPR, 2025]** **ScaMo**: Exploring the Scaling Law in Autoregressive Motion Generation Model [Paper](https://arxiv.org/abs/2412.14559) [Code](https://github.com/shunlinlu/ScaMo_code)
   - **[AAAI, 2024]** **AMD**: Autoregressive Motion Diffusion [Paper](https://arxiv.org/pdf/2305.09381) [Code](https://github.com/fluide1022/AMD)
   - **[ECCV, 2024]** **BAMM**: Bidirectional Autoregressive Motion Model [Paper](https://arxiv.org/abs/2403.19435) [Code](https://github.com/exitudio/BAMM/?tab=readme-ov-file)
@@ -307,6 +308,7 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.3]** OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models [Paper](https://arxiv.org/pdf/2503.08686) [Code](https://github.com/hustvl/OmniMamba)
   - **[Arxiv, 2025.2]** UniTok: A Unified Tokenizer for Visual Generation and Understanding [Paper](https://arxiv.org/abs/2502.20321) [Code](https://github.com/FoundationVision/UniTok)
   - **[Arxiv, 2025.2]** **HermesFlow**: Seamlessly Closing the Gap in Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2502.12148) [Code](https://github.com/Gen-Verse/HermesFlow)
   - **[Arxiv, 2025.2]** **QLIP**: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2502.05178) [Code](https://github.com/NVlabs/QLIP)
