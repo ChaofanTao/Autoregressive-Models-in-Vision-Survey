@@ -130,6 +130,8 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.03]** Direction-Aware Diagonal Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.11129)
+    - **[Arxiv, 2025.03]** Neighboring Autoregressive Modeling for Efficient Visual Generation [Paper](https://arxiv.org/pdf/2503.10696) [Code](https://github.com/ThisisBillhe/NAR)
     - **[Arxiv, 2025.03]** NFIG: Autoregressive Image Generation with Next-Frequency Prediction [Paper](https://arxiv.org/abs/2503.07076) 
     - **[Arxiv, 2025.03]** Frequency Autoregressive Image Generation with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.05305) [Code](https://github.com/yuhuUSTC/FAR)
     - **[Arxiv, 2025.03]** ARINAR: Bi-Level Autoregressive Feature-by-Feature Generative Models [Paper](https://arxiv.org/pdf/2503.02883) [Code](https://github.com/Qinyu-Allen-Zhao/Arinar)
@@ -219,6 +221,7 @@ Markdown format:
 
 ### Video Generation
 #### Unconditional Video Generation
+   - **[Arxiv, 2025.03]** HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models [Paper](https://arxiv.org/pdf/2503.11513) 
    - **[Arxiv, 2025.03]** AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion [Paper](https://arxiv.org/pdf/2503.07418) [Code](https://github.com/iva-mzsun/AR-Diffusion)
    - **[Arxiv, 2025.02]** Next Block Prediction: Video Generation via Semi-Autoregressive Modeling [Paper](https://arxiv.org/abs/2502.07737) [Code](https://github.com/RenShuhuai-Andy/NBP)
    - **[Arxiv, 2025.01]** Taming Teacher Forcing for Masked Autoregressive Video Generation [Paper](https://arxiv.org/pdf/2501.12389) [Code](https://magivideogen.github.io/)
@@ -282,7 +285,6 @@ Markdown format:
      
 ### 3D Generation
 #### Motion Generation
-  - **[Arxiv, 2025]** 3D Point Cloud Generation via Autoregressive Up-sampling [Paper](https://arxiv.org/pdf/2503.08594)
   - **[CVPR, 2025]** **ScaMo**: Exploring the Scaling Law in Autoregressive Motion Generation Model [Paper](https://arxiv.org/abs/2412.14559) [Code](https://github.com/shunlinlu/ScaMo_code)
   - **[AAAI, 2024]** **AMD**: Autoregressive Motion Diffusion [Paper](https://arxiv.org/pdf/2305.09381) [Code](https://github.com/fluide1022/AMD)
   - **[ECCV, 2024]** **BAMM**: Bidirectional Autoregressive Motion Model [Paper](https://arxiv.org/abs/2403.19435) [Code](https://github.com/exitudio/BAMM/?tab=readme-ov-file)
@@ -291,6 +293,8 @@ Markdown format:
   - **[ICCV, 2021 oral]** **HuMoR**: 3D Human Motion Model for Robust Pose Estimation [Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) [Code](https://github.com/davrempe/humor)
 
 #### Point Cloud Generation
+  - **[CVPR, 2025]** TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing [Paper](https://arxiv.org/pdf/2503.11629) [Code](https://github.com/sail-sg/TreeMeshGPT)
+  - **[Arxiv, 2025]** 3D Point Cloud Generation via Autoregressive Up-sampling [Paper](https://arxiv.org/pdf/2503.08594)
    - **[Arxiv, 2024.02]** Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability [Paper](https://arxiv.org/pdf/2402.12225)
    - **[ECCV, 2022]** Autoregressive 3D Shape Generation via Canonical Mapping [Paper](https://arxiv.org/pdf/2204.01955)
    - **[CVPR workshop, 2023]** Octree transformer: Autoregressive 3d shape generation on hierarchically structured sequences [Paper](https://arxiv.org/pdf/2111.12480)
@@ -351,6 +355,7 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2025.03]** Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models [Paper](https://arxiv.org/pdf/2503.11073) [Code](https://github.com/nonwhy/PURE)
   - **[Arxiv, 2025.02]** ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model [Paper](https://arxiv.org/abs/2502.20323) [Code](https://xg-chu.site/project_artalk/)
   - **[Arxiv, 2025.02]** Poly-Autoregressive Prediction for Modeling Interactions [Paper](https://arxiv.org/pdf/2502.08646) 
   - **[Arxiv, 2025.02]** SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song Generation [Paper](https://arxiv.org/abs/2502.13128) [Code](https://github.com/LiuZH-19/SongGen)
@@ -379,7 +384,9 @@ Markdown format:
   - **[NeurIPS, 2021]** Multimodal Few-Shot Learning with Frozen Language Models [Paper](https://arxiv.org/pdf/2106.13884)
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
-### Accelerating & Stability & Analysis & Scaling & Safety & Benchmark
+### Accelerating & Stability & Analysis & Scaling & Safety & Benchmark 
+  - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models:
+A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
   - **[Arxiv, 2025.03]** Teaching Metric Distance to Autoregressive Multimodal Foundational Models [Paper](https://arxiv.org/pdf/2503.02379) 
   - **[Arxiv, 2025.02]** Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965) [Code](https://github.com/LTH14/fractalgen)
