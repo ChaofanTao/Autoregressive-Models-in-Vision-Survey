@@ -312,6 +312,9 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.3]** Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.13436) 
+  - **[Arxiv, 2025.3]** DualToken: Towards Unifying Visual Understanding and Generation
+with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324) 
   - **[Arxiv, 2025.3]** OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models [Paper](https://arxiv.org/pdf/2503.08686) [Code](https://github.com/hustvl/OmniMamba)
   - **[Arxiv, 2025.2]** UniTok: A Unified Tokenizer for Visual Generation and Understanding [Paper](https://arxiv.org/abs/2502.20321) [Code](https://github.com/FoundationVision/UniTok)
   - **[Arxiv, 2025.2]** **HermesFlow**: Seamlessly Closing the Gap in Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2502.12148) [Code](https://github.com/Gen-Verse/HermesFlow)
@@ -355,6 +358,7 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2025.03]** Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers [Paper](https://arxiv.org/pdf/2503.13588) [Code](https://github.com/Shiran-Yuan/ArchonView)
   - **[Arxiv, 2025.03]** Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models [Paper](https://arxiv.org/pdf/2503.11073) [Code](https://github.com/nonwhy/PURE)
   - **[Arxiv, 2025.02]** ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model [Paper](https://arxiv.org/abs/2502.20323) [Code](https://xg-chu.site/project_artalk/)
   - **[Arxiv, 2025.02]** Poly-Autoregressive Prediction for Modeling Interactions [Paper](https://arxiv.org/pdf/2502.08646) 
@@ -385,6 +389,8 @@ Markdown format:
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling & Safety & Benchmark 
+  - **[Arxiv, 2025.03]** Fast Autoregressive Video Generation with Diagonal Decoding [Paper](https://arxiv.org/pdf/2503.14070) 
+  - **[Arxiv, 2025.03]** **LightGen**: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization [Paper](https://arxiv.org/abs/2503.08619) [Code](https://github.com/XianfengWu01/LightGen)
   - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models:
 A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
