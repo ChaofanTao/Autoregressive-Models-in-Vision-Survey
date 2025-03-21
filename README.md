@@ -130,6 +130,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    * [**Arxiv, 2025.03**] Autoregressive Image Generation with Randomized Parallel Decoding [[Paper]](https://arxiv.org/abs/2503.10568) [[Code]](https://github.com/hp-l33/ARPG)
     - **[Arxiv, 2025.03]** Direction-Aware Diagonal Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.11129)
     - **[Arxiv, 2025.03]** Neighboring Autoregressive Modeling for Efficient Visual Generation [Paper](https://arxiv.org/pdf/2503.10696) [Code](https://github.com/ThisisBillhe/NAR)
     - **[Arxiv, 2025.03]** NFIG: Autoregressive Image Generation with Next-Frequency Prediction [Paper](https://arxiv.org/abs/2503.07076) 
