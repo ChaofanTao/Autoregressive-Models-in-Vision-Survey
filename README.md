@@ -130,6 +130,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.03]** Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2503.16430) [Code](https://github.com/yuqingwang1029/TokenBridge)
     - **[Arxiv, 2025.03]** Autoregressive Image Generation with Randomized Parallel Decoding [Paper](https://arxiv.org/abs/2503.10568) [Code](https://github.com/hp-l33/ARPG)
     - **[Arxiv, 2025.03]** Direction-Aware Diagonal Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.11129)
     - **[Arxiv, 2025.03]** Neighboring Autoregressive Modeling for Efficient Visual Generation [Paper](https://arxiv.org/pdf/2503.10696) [Code](https://github.com/ThisisBillhe/NAR)
@@ -390,6 +391,7 @@ with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324)
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling & Safety & Benchmark 
+  - **[Arxiv, 2025.03]** Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [Paper](https://arxiv.org/pdf/2503.16194) [Code](https://github.com/GzyAftermath/CTF)
   - **[CVPR, 2025]** From Slow Bidirectional to Fast Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2412.07772) [Code](https://github.com/tianweiy/CausVid)
   - **[Arxiv, 2025.03]** Fast Autoregressive Video Generation with Diagonal Decoding [Paper](https://arxiv.org/pdf/2503.14070) 
   - **[Arxiv, 2025.03]** **LightGen**: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization [Paper](https://arxiv.org/abs/2503.08619) [Code](https://github.com/XianfengWu01/LightGen)
