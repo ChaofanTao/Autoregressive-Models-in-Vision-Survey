@@ -360,6 +360,7 @@ with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324)
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2025.03]** VARSR: Visual Autogressive Modeling for Image Super Resolution [Paper](https://arxiv.org/abs/2501.18993) [Code](https://github.com/quyp2000/VARSR)
   - **[Arxiv, 2025.03]** Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers [Paper](https://arxiv.org/pdf/2503.13588) [Code](https://github.com/Shiran-Yuan/ArchonView)
   - **[Arxiv, 2025.03]** Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models [Paper](https://arxiv.org/pdf/2503.11073) [Code](https://github.com/nonwhy/PURE)
   - **[Arxiv, 2025.02]** ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model [Paper](https://arxiv.org/abs/2502.20323) [Code](https://xg-chu.site/project_artalk/)
