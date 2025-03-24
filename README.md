@@ -130,6 +130,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.03]** D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens [Paper](https://arxiv.org/pdf/2503.17155) 
     - **[Arxiv, 2025.03]** Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2503.16430) [Code](https://github.com/yuqingwang1029/TokenBridge)
     - **[Arxiv, 2025.03]** Autoregressive Image Generation with Randomized Parallel Decoding [Paper](https://arxiv.org/abs/2503.10568) [Code](https://github.com/hp-l33/ARPG)
     - **[Arxiv, 2025.03]** Direction-Aware Diagonal Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.11129)
@@ -360,6 +361,7 @@ with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324)
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[CVPR, 2025]** Zero-Shot Styled Text Image Generation, but Make It Autoregressive [Paper](https://arxiv.org/pdf/2503.17074) 
   - **[Arxiv, 2025.03]** VARSR: Visual Autogressive Modeling for Image Super Resolution [Paper](https://arxiv.org/abs/2501.18993) [Code](https://github.com/quyp2000/VARSR)
   - **[Arxiv, 2025.03]** Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers [Paper](https://arxiv.org/pdf/2503.13588) [Code](https://github.com/Shiran-Yuan/ArchonView)
   - **[Arxiv, 2025.03]** Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models [Paper](https://arxiv.org/pdf/2503.11073) [Code](https://github.com/nonwhy/PURE)
