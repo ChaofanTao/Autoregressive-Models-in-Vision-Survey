@@ -100,6 +100,7 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.03]** Equivariant Image Modeling [Paper](https://arxiv.org/pdf/2503.18948) [Code](https://github.com/drx-code/EquivariantModeling)
     - **[Arxiv, 2025.03]** V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.07493) [Code](https://github.com/zhangguiwei610/V2Flow)
     - **[Arxiv, 2025.02]** **FlexTok**: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/pdf/2502.13967) 
     - **[Arxiv, 2025.01]** **ARFlow**: Autogressive Flow with Hybrid Linear Attention [Paper](https://arxiv.org/pdf/2501.16085) 
