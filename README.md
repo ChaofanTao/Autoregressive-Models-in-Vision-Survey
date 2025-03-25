@@ -288,6 +288,7 @@ Markdown format:
      
 ### 3D Generation
 #### Motion Generation
+  - **[CVPR, 2025]** **Teller**: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation [Paper](https://arxiv.org/pdf/2503.18429) [Page](https://teller-avatar.github.io/)
   - **[CVPR, 2025]** **ScaMo**: Exploring the Scaling Law in Autoregressive Motion Generation Model [Paper](https://arxiv.org/abs/2412.14559) [Code](https://github.com/shunlinlu/ScaMo_code)
   - **[AAAI, 2024]** **AMD**: Autoregressive Motion Diffusion [Paper](https://arxiv.org/pdf/2305.09381) [Code](https://github.com/fluide1022/AMD)
   - **[ECCV, 2024]** **BAMM**: Bidirectional Autoregressive Motion Model [Paper](https://arxiv.org/abs/2403.19435) [Code](https://github.com/exitudio/BAMM/?tab=readme-ov-file)
