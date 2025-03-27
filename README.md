@@ -225,6 +225,7 @@ Markdown format:
 
 ### Video Generation
 #### Unconditional Video Generation
+   - **[Arxiv, 2025.03]** FAR: Frame Autoregressive Model for Both Short- and Long-Context Video Modeling [Paper](https://arxiv.org/pdf/2503.19325) [Code](https://github.com/showlab/FAR)
    - **[Arxiv, 2025.03]** HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models [Paper](https://arxiv.org/pdf/2503.11513) 
    - **[Arxiv, 2025.03]** AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion [Paper](https://arxiv.org/pdf/2503.07418) [Code](https://github.com/iva-mzsun/AR-Diffusion)
    - **[Arxiv, 2025.02]** Next Block Prediction: Video Generation via Semi-Autoregressive Modeling [Paper](https://arxiv.org/abs/2502.07737) [Code](https://github.com/RenShuhuai-Andy/NBP)
