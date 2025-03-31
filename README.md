@@ -9,7 +9,6 @@
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
    [![arxiv](https://img.shields.io/badge/Arxiv-2411.05902-red)](https://arxiv.org/pdf/2411.05902.pdf)
    [![TechBeat](https://img.shields.io/badge/机器之心%20-black)](https://mp.weixin.qq.com/s/_O8W1qgvMZu37IKwgtskMA)
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaofanTao%2FAutoregressive-Models-in-Vision-Survey&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
    ![GitHub Repo stars](https://img.shields.io/github/stars/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
 
 </h5>
@@ -318,9 +317,9 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.3]** Harmonizing Visual Representations for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2503.21979) [Code](https://github.com/wusize/Harmon)
   - **[Arxiv, 2025.3]** Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.13436) 
-  - **[Arxiv, 2025.3]** DualToken: Towards Unifying Visual Understanding and Generation
-with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324) 
+  - **[Arxiv, 2025.3]** DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324) 
   - **[Arxiv, 2025.3]** OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models [Paper](https://arxiv.org/pdf/2503.08686) [Code](https://github.com/hustvl/OmniMamba)
   - **[Arxiv, 2025.2]** UniTok: A Unified Tokenizer for Visual Generation and Understanding [Paper](https://arxiv.org/abs/2502.20321) [Code](https://github.com/FoundationVision/UniTok)
   - **[Arxiv, 2025.2]** **HermesFlow**: Seamlessly Closing the Gap in Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2502.12148) [Code](https://github.com/Gen-Verse/HermesFlow)
