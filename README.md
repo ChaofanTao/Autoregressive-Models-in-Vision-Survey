@@ -442,9 +442,6 @@ A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://git
 | Turing Test                           | Qualitative               | [Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)                 |
 | User Studies (ratings, satisfaction)↑ | Qualitative               | Various, depending on the user study methodology                                         |
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ChaofanTao/Autoregressive-Models-in-Vision-Survey&type=Date)](https://star-history.com/#ChaofanTao/Autoregressive-Models-in-Vision-Survey&Date)
 
 ## ♥️ Contributors
 
