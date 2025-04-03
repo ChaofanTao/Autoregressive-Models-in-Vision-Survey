@@ -208,7 +208,8 @@ Markdown format:
   - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
 
-#### Image Editing 
+#### Image Editing
+  - **[Arxiv, 2025.04]** Training-Free Text-Guided Image Editing with Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2503.23897) [Code](https://github.com/wyf0912/AREdit)
   - **[Arxiv, 2025.01]** EditAR: Unified Conditional Generation with Autoregressive Models [Paper](https://arxiv.org/pdf/2501.04699) [Code](https://github.com/JitengMu/EditAR)
   - **[Arxiv, 2024,06]** CAR: Controllable Autoregressive Modeling for Visual Generation [Paper](https://arxiv.org/abs/2410.04671) [Code](https://github.com/MiracleDance/CAR)
   - **[Arxiv, 2024,06]** **ControlAR**: Controllable Image Generation with Autoregressive Models [Paper](https://arxiv.org/abs/2410.02705) [Code](https://github.com/hustvl/ControlAR)
