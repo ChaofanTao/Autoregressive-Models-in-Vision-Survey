@@ -280,6 +280,7 @@ Markdown format:
       - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
 
 #### Embodied AI
+   - **[Arxiv, 2025.03]** HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [Paper](https://arxiv.org/pdf/2503.10631) [Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)
    - **[Arxiv, 2024.12]** **Diffusion-VLA**: Scaling Robot Foundation Models via Unified Diffusion and Autoregression [Paper](https://arxiv.org/abs/2412.03293) [Page](https://diffusion-vla.github.io/)
    - **[Arxiv, 2024.10]** **Gr-2**: A generative video-language-action model with web-scale knowledge for robot manipulation [Paper](https://arxiv.org/pdf/2410.06158)
    - **[Arxiv, 2024.05]** **iVideoGPT**: Interactive VideoGPTs are Scalable World Models [Paper](https://arxiv.org/pdf/2405.15223)
@@ -298,8 +299,8 @@ Markdown format:
   - **[ICCV, 2021 oral]** **HuMoR**: 3D Human Motion Model for Robust Pose Estimation [Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) [Code](https://github.com/davrempe/humor)
 
 #### Point Cloud Generation
-  - **[CVPR, 2025]** TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing [Paper](https://arxiv.org/pdf/2503.11629) [Code](https://github.com/sail-sg/TreeMeshGPT)
-  - **[Arxiv, 2025]** 3D Point Cloud Generation via Autoregressive Up-sampling [Paper](https://arxiv.org/pdf/2503.08594)
+   - **[CVPR, 2025]** TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing [Paper](https://arxiv.org/pdf/2503.11629) [Code](https://github.com/sail-sg/TreeMeshGPT)
+   - **[Arxiv, 2025]** 3D Point Cloud Generation via Autoregressive Up-sampling [Paper](https://arxiv.org/pdf/2503.08594)
    - **[Arxiv, 2024.02]** Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability [Paper](https://arxiv.org/pdf/2402.12225)
    - **[ECCV, 2022]** Autoregressive 3D Shape Generation via Canonical Mapping [Paper](https://arxiv.org/pdf/2204.01955)
    - **[CVPR workshop, 2023]** Octree transformer: Autoregressive 3d shape generation on hierarchically structured sequences [Paper](https://arxiv.org/pdf/2111.12480)
@@ -317,6 +318,7 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.4]** ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement [Paper](https://arxiv.org/pdf/2504.01934) [Code](https://github.com/illume-unified-mllm/ILLUME_plus)
   - **[Arxiv, 2025.3]** Harmonizing Visual Representations for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2503.21979) [Code](https://github.com/wusize/Harmon)
   - **[Arxiv, 2025.3]** Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.13436) 
   - **[Arxiv, 2025.3]** DualToken: Towards Unifying Visual Understanding and Generation with Dual Visual Vocabularies [Paper](https://arxiv.org/pdf/2503.14324) 
