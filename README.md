@@ -15,7 +15,7 @@
 
 Autoregressive models have shown significant progress in generating high-quality content by modeling the dependencies sequentially. This repo is a curated list of papers about the latest advancements in autoregressive models in vision.
 
- **This repo is being actively updated, please stay tuned!**
+ **This repo is being actively updated. Please stay tuned!**
 
 > **Paper**: [[TMLR 2025🔥]](https://openreview.net/forum?id=1BqXkjNEGP) [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902) | [[中文解读]](https://mp.weixin.qq.com/s/_O8W1qgvMZu37IKwgtskMA)
 
@@ -300,6 +300,7 @@ Markdown format:
   - **[ICCV, 2021 oral]** **HuMoR**: 3D Human Motion Model for Robust Pose Estimation [Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) [Code](https://github.com/davrempe/humor)
 
 #### Point Cloud Generation
+   - **[Arxiv, 2025.04]** Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization [Paper](https://arxiv.org/pdf/2504.02817) [Page](https://oat-3d.github.io/)
    - **[CVPR, 2025]** TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing [Paper](https://arxiv.org/pdf/2503.11629) [Code](https://github.com/sail-sg/TreeMeshGPT)
    - **[Arxiv, 2025]** 3D Point Cloud Generation via Autoregressive Up-sampling [Paper](https://arxiv.org/pdf/2503.08594)
    - **[Arxiv, 2024.02]** Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability [Paper](https://arxiv.org/pdf/2402.12225)
@@ -399,6 +400,7 @@ Markdown format:
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Accelerating & Stability & Analysis & Scaling & Safety & Benchmark 
+  - **[Arxic, 2025.04]** GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation [Paper](https://arxiv.org/pdf/2504.02782) [Code](https://github.com/PicoTrex/GPT-ImgEval)
   - **[Arxiv, 2025.03]** Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [Paper](https://arxiv.org/pdf/2503.16194) [Code](https://github.com/GzyAftermath/CTF)
   - **[CVPR, 2025]** From Slow Bidirectional to Fast Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2412.07772) [Code](https://github.com/tianweiy/CausVid)
   - **[Arxiv, 2025.03]** Fast Autoregressive Video Generation with Diagonal Decoding [Paper](https://arxiv.org/pdf/2503.14070) 
