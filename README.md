@@ -320,6 +320,7 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.4]** **VARGPT-v1.1**: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning [Paper](https://arxiv.org/pdf/2504.02949) [Code](https://github.com/VARGPT-family/VARGPT-v1.1)
   - **[Arxiv, 2025.4]** ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement [Paper](https://arxiv.org/pdf/2504.01934) [Code](https://github.com/illume-unified-mllm/ILLUME_plus)
   - **[Arxiv, 2025.3]** Harmonizing Visual Representations for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2503.21979) [Code](https://github.com/wusize/Harmon)
   - **[Arxiv, 2025.3]** Unified Autoregressive Visual Generation and Understanding with Continuous Tokens [Paper](https://arxiv.org/pdf/2503.13436) 
@@ -399,15 +400,19 @@ Markdown format:
   - **[NeurIPS, 2021]** Multimodal Few-Shot Learning with Frozen Language Models [Paper](https://arxiv.org/pdf/2106.13884)
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
-### Accelerating & Stability & Analysis & Scaling & Safety & Benchmark 
-  - **[Arxic, 2025.04]** GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation [Paper](https://arxiv.org/pdf/2504.02782) [Code](https://github.com/PicoTrex/GPT-ImgEval)
+
+### Benchmark
+  - **[Arxiv, 2025.04]** MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [Paper](https://arxiv.org/pdf/2504.03641) [Code](https://github.com/MME-Benchmarks/MME-Unify)
+  - **[Arxiv, 2025.04]** GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation [Paper](https://arxiv.org/pdf/2504.02782) [Code](https://github.com/PicoTrex/GPT-ImgEval)
+  - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
+    
+### Accelerating & Stability & Analysis & Scaling & Safety
+
   - **[Arxiv, 2025.03]** Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [Paper](https://arxiv.org/pdf/2503.16194) [Code](https://github.com/GzyAftermath/CTF)
   - **[CVPR, 2025]** From Slow Bidirectional to Fast Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2412.07772) [Code](https://github.com/tianweiy/CausVid)
   - **[Arxiv, 2025.03]** Fast Autoregressive Video Generation with Diagonal Decoding [Paper](https://arxiv.org/pdf/2503.14070) 
   - **[Arxiv, 2025.03]** **LightGen**: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization [Paper](https://arxiv.org/abs/2503.08619) [Code](https://github.com/XianfengWu01/LightGen)
-  - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models:
-A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
-  - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
+  - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
   - **[Arxiv, 2025.03]** Teaching Metric Distance to Autoregressive Multimodal Foundational Models [Paper](https://arxiv.org/pdf/2503.02379) 
   - **[Arxiv, 2025.02]** Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965) [Code](https://github.com/LTH14/fractalgen)
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
