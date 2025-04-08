@@ -368,6 +368,7 @@ Markdown format:
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[,2025]** Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models [Paper](https://arxiv.org/pdf/2503.20198) [Code](https://fingerrec.github.io/longtextar/)
   - **[CVPR, 2025]** Zero-Shot Styled Text Image Generation, but Make It Autoregressive [Paper](https://arxiv.org/pdf/2503.17074) 
   - **[Arxiv, 2025.03]** VARSR: Visual Autogressive Modeling for Image Super Resolution [Paper](https://arxiv.org/abs/2501.18993) [Code](https://github.com/quyp2000/VARSR)
   - **[Arxiv, 2025.03]** Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers [Paper](https://arxiv.org/pdf/2503.13588) [Code](https://github.com/Shiran-Yuan/ArchonView)
