@@ -169,6 +169,8 @@ Markdown format:
 
 #### Text-to-Image Generation
 - ##### Token-wise Generation
+     - **[Arxiv, 2025.04]** Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling [Paper]() [Code](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
+     - **[Arxiv, 2025.03]** Lumina-Image 2.0: A Unified and Efficient Image Generative Framework [Paper](https://arxiv.org/pdf/2503.21758?) [Code](https://github.com/Alpha-VLLM/Lumina-Image-2.0)
      - **[Arxiv, 2024.12]** Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/abs/2412.04332) [Code](https://github.com/FoundationVision/Liquid)
      - **[Arxiv, 2024.12]** Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2412.04431) [Code](https://github.com/FoundationVision/Infinity)
      - **[Arxiv, 2024.12]** TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
