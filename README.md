@@ -265,6 +265,7 @@ Markdown format:
     
      
    - ##### Visual Conditional Video Generation
+     - **[Arxiv, 2025.04]** GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography [Paper](https://arxiv.org/pdf/2504.07083) [Code](https://github.com/3DTopia/GenDoP)
      - **[Arxiv, 2024.10]**  **MarDini**: Masked Autoregressive Diffusion for Video Generation at Scale [Paper](https://arxiv.org/pdf/2410.20502)
      - **[CVPR, 2024]**  **LVM** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
      - **[ICIP, 2022]** **HARP**: Autoregressive Latent Video Prediction with High-Fidelity Image Generator [Paper](https://arxiv.org/pdf/2209.07143)
