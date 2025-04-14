@@ -99,6 +99,7 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[CVPR, 2025]** Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction [Code](https://github.com/sjtuplayer/IAR) [Paper](https://arxiv.org/pdf/2501.00880)
     - **[Arxiv, 2025.03]** Equivariant Image Modeling [Paper](https://arxiv.org/pdf/2503.18948) [Code](https://github.com/drx-code/EquivariantModeling)
     - **[Arxiv, 2025.03]** V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.07493) [Code](https://github.com/zhangguiwei610/V2Flow)
     - **[Arxiv, 2025.02]** **FlexTok**: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/pdf/2502.13967) 
@@ -130,6 +131,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.04]** GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2504.08736) [Code](https://github.com/SilentView/GigaTok)
     - **[Arxiv, 2025.03]** D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens [Paper](https://arxiv.org/pdf/2503.17155) 
     - **[Arxiv, 2025.03]** Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2503.16430) [Code](https://github.com/yuqingwang1029/TokenBridge)
     - **[Arxiv, 2025.03]** Autoregressive Image Generation with Randomized Parallel Decoding [Paper](https://arxiv.org/abs/2503.10568) [Code](https://github.com/hp-l33/ARPG)
