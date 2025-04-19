@@ -103,7 +103,7 @@ Markdown format:
     - **[Arxiv, 2025.03]** Equivariant Image Modeling [Paper](https://arxiv.org/pdf/2503.18948) [Code](https://github.com/drx-code/EquivariantModeling)
     - **[Arxiv, 2025.03]** V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.07493) [Code](https://github.com/zhangguiwei610/V2Flow)
     - **[Arxiv, 2025.02]** **FlexTok**: Resampling Images into 1D Token Sequences of Flexible Length [Paper](https://arxiv.org/pdf/2502.13967) 
-    - **[Arxiv, 2025.01]** **ARFlow**: Autogressive Flow with Hybrid Linear Attention [Paper](https://arxiv.org/pdf/2501.16085) 
+    - **[Arxiv, 2025.01]** **ARFlow**: Autogressive Flow with Hybrid Linear Attention [Paper](https://arxiv.org/pdf/2501.16085) [Code](https://github.com/TheFllood/ARFlow)
     - **[Arxiv, 2024.12]** **TokenFlow**: Unified Image Tokenizer for Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2412.03069) [Code](https://github.com/ByteFlow-AI/TokenFlow)
     - **[Arxiv, 2024.12]** Next Patch Prediction for Autoregressive Visual Generation [Paper](https://arxiv.org/abs/2412.15321) [Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
     - **[Arxiv, 2024.12]** XQ-GAN: An Open-source Image Tokenization Framework for Autoregressive Generation [Paper](https://arxiv.org/pdf/2412.01762) [Code](https://github.com/lxa9867/ImageFolder)
@@ -171,6 +171,7 @@ Markdown format:
 
 #### Text-to-Image Generation
 - ##### Token-wise Generation
+     - **[Arxiv, 2025.04]** Personalized Text-to-Image Generation with Auto-Regressive Models [Paper](https://arxiv.org/pdf/2504.13162) [Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)
      - **[Arxiv, 2025.04]** Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling [Paper]() [Code](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
      - **[Arxiv, 2025.03]** Lumina-Image 2.0: A Unified and Efficient Image Generative Framework [Paper](https://arxiv.org/pdf/2503.21758?) [Code](https://github.com/Alpha-VLLM/Lumina-Image-2.0)
      - **[Arxiv, 2024.12]** Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/abs/2412.04332) [Code](https://github.com/FoundationVision/Liquid)
