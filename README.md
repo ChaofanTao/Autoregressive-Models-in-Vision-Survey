@@ -250,6 +250,7 @@ Markdown format:
 
 #### Conditional Video Generation
    - ##### Text-to-Video Generation
+     - **[Arxiv, 2025.04]** **MAGI-1**: Autoregressive Video Generation at Scale [Paper](https://static.magi.world/static/files/MAGI_1.pdf) [Code](https://github.com/SandAI-org/MAGI-1)
      - **[Arxiv, 2024.12]** **DiCoDe**: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models [Paper](https://arxiv.org/pdf/2412.04446) [Page](https://liyizhuo.com/DiCoDe/)
      - **[Arxiv, 2024.11]** Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing [Paper](https://arxiv.org/pdf/2411.16375) [Code](https://github.com/Dawn-LX/CausalCache-VDM/)
      - **[Arxiv, 2024.10]**  **ARLON**: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [Paper](https://arxiv.org/pdf/2410.20502)  [Code](http://aka.ms/arlon)
