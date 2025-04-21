@@ -87,6 +87,7 @@ Markdown format:
 ### Image Generation
 #### Unconditional/Class-Conditioned Image Generation
   - ##### Pixel-wise Generation
+    - **[ICML, 2021 oral]** Improved Autoregressive Modeling with Distribution Smoothing [Paper](https://arxiv.org/pdf/2103.15089) [Code](https://github.com/chenlin9/Autoregressive-Modeling-with-Distribution-Smoothing)
     - **[ICML, 2020]** **ImageGPT:** Generative Pretraining from Pixels [Paper](https://proceedings.mlr.press/v119/chen20s/chen20s.pdf)
     - **[ICML, 2018]** **Image Transformer** [Paper](https://arxiv.org/pdf/1802.05751) [Code](https://github.com/neocxi/pixelsnail-public)
     - **[ICML, 2018]** **PixelSNAIL:** An Improved Autoregressive Generative Model [Paper](https://proceedings.mlr.press/v80/chen18h/chen18h.pdf) [Code](https://github.com/neocxi/pixelsnail-public)
