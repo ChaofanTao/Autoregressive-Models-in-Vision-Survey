@@ -100,6 +100,8 @@ Markdown format:
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.04]** Distilling semantically aware orders for autoregressive image generation [Paper](https://arxiv.org/pdf/2504.17069) 
+    - **[Arxiv, 2025.04]** Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models [Paper](https://arxiv.org/pdf/2504.17789)
     - **[CVPR, 2025]** Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction [Code](https://github.com/sjtuplayer/IAR) [Paper](https://arxiv.org/pdf/2501.00880)
     - **[Arxiv, 2025.03]** Equivariant Image Modeling [Paper](https://arxiv.org/pdf/2503.18948) [Code](https://github.com/drx-code/EquivariantModeling)
     - **[Arxiv, 2025.03]** V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2503.07493) [Code](https://github.com/zhangguiwei610/V2Flow)
@@ -420,6 +422,7 @@ Markdown format:
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
     
 ### Accelerating & Stability & Analysis & Scaling & Safety
+  - **[ICLR, 2025]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://openreview.net/pdf?id=zKlFXV87Pp) [Code](https://github.com/imagination-research/distilled-decoding)
   - **[CVPR, 2025 oral]** Autoregressive Distillation of Diffusion Transformers [Paper](https://arxiv.org/pdf/2504.11295) [Code](https://github.com/alsdudrla10/ARD)
   - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
   - **[Arxiv, 2025.04]** Head-Aware KV Cache Compression for Efficient Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2504.09261)
@@ -433,7 +436,6 @@ Markdown format:
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
   - **[Arxiv, 2025.01]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/abs/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   - **[Arxiv, 2024.12]** Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15119) [Code](https://github.com/Epiphqny/PAR)
-  - **[Arxiv, 2024.12]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://arxiv.org/pdf/2412.17153) [Code](https://github.com/imagination-research/distilled-decoding)
   - **[Arxiv, 2024.12]** 3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation [Paper](https://arxiv.org/pdf/2412.02202) [Page](https://sparse-mvs-2.github.io/VAT.IO/)
   - **[Arxiv, 2024.12]** JetFormer: An autoregressive generative model of raw images and text [Paper](https://arxiv.org/pdf/2411.19722) 
   - **[Arxiv, 2024.11]** Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/pdf/2411.17787) [Code](https://github.com/czg1225/CoDe)
