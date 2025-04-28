@@ -422,6 +422,7 @@ Markdown format:
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
     
 ### Accelerating & Stability & Analysis & Scaling & Safety
+  - **[Arxiv, 2025.04]** Fast Autoregressive Models for Continuous Latent Generation [Paper](https://arxiv.org/pdf/2504.18391)
   - **[ICLR, 2025]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://openreview.net/pdf?id=zKlFXV87Pp) [Code](https://github.com/imagination-research/distilled-decoding)
   - **[CVPR, 2025 oral]** Autoregressive Distillation of Diffusion Transformers [Paper](https://arxiv.org/pdf/2504.11295) [Code](https://github.com/alsdudrla10/ARD)
   - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
