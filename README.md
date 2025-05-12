@@ -333,6 +333,8 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.5]** TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation [Paper](https://arxiv.org/pdf/2505.05422) [Code](https://github.com/TencentARC/TokLIP)
+  - **[Arxiv, 2025.5]** Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation [Paper](https://arxiv.org/pdf/2505.05472) 
   - **[Arxiv, 2025.4]** **VARGPT-v1.1**: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning [Paper](https://arxiv.org/pdf/2504.02949) [Code](https://github.com/VARGPT-family/VARGPT-v1.1)
   - **[Arxiv, 2025.4]** ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement [Paper](https://arxiv.org/pdf/2504.01934) [Code](https://github.com/illume-unified-mllm/ILLUME_plus)
   - **[Arxiv, 2025.3]** Harmonizing Visual Representations for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2503.21979) [Code](https://github.com/wusize/Harmon)
