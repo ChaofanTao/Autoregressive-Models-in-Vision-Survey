@@ -134,6 +134,7 @@ Markdown format:
 
     
     ##### Autoregressive Modeling
+    - **[ICML, 2025]** Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/pdf/2505.07812) [Code](https://github.com/shaochenze/EAR)
     - **[Arxiv, 2025.04]** GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2504.08736) [Code](https://github.com/SilentView/GigaTok)
     - **[Arxiv, 2025.03]** D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens [Paper](https://arxiv.org/pdf/2503.17155) 
     - **[Arxiv, 2025.03]** Bridging Continuous and Discrete Tokens for Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2503.16430) [Code](https://github.com/yuqingwang1029/TokenBridge)
