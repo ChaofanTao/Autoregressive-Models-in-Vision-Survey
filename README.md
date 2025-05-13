@@ -167,6 +167,7 @@ Markdown format:
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
     
   - ##### Scale-wise AutoRegressive Generation
+    - **[Arxiv, 2025.05]** Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/pdf/2505.07812) [Code](https://github.com/shaochenze/EAR)
     - **[Arxiv, 2025.02]** **FlexVAR**: Flexible Visual Autoregressive Modeling without Residual Prediction [Paper](https://arxiv.org/abs/2502.20313) [Code](https://github.com/jiaosiyu1999/FlexVAR)
     - **[Arxiv, 2024.12]** **FlowAR**: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/abs/2412.15205) [Code](https://github.com/OliverRensu/FlowAR)
     - **[Arxiv, 2024.11]** **M-VAR**: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation [Paper](https://arxiv.org/pdf/2411.10433) [Code](https://github.com/OliverRensu/MVAR)
@@ -253,6 +254,7 @@ Markdown format:
 
 #### Conditional Video Generation
    - ##### Text-to-Video Generation
+     - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
      - **[Arxiv, 2025.04]** **MAGI-1**: Autoregressive Video Generation at Scale [Paper](https://static.magi.world/static/files/MAGI_1.pdf) [Code](https://github.com/SandAI-org/MAGI-1)
      - **[Arxiv, 2024.12]** **DiCoDe**: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models [Paper](https://arxiv.org/pdf/2412.04446) [Page](https://liyizhuo.com/DiCoDe/)
      - **[Arxiv, 2024.11]** Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing [Paper](https://arxiv.org/pdf/2411.16375) [Code](https://github.com/Dawn-LX/CausalCache-VDM/)
@@ -333,6 +335,8 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.5]** Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning [Paper](https://arxiv.org/pdf/2505.07538) [Project](https://selftok-team.github.io/report/)
+  - **[Arxiv, 2025.5]** Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing [Paper](https://arxiv.org/abs/2504.21356) [Code](https://github.com/modelscope/Nexus-Gen)
   - **[Arxiv, 2025.5]** TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation [Paper](https://arxiv.org/pdf/2505.05422) [Code](https://github.com/TencentARC/TokLIP)
   - **[Arxiv, 2025.5]** Mogao: An Omni Foundation Model for Interleaved Multi-Modal Generation [Paper](https://arxiv.org/pdf/2505.05472) 
   - **[Arxiv, 2025.4]** **VARGPT-v1.1**: Improve Visual Autoregressive Large Unified Model via Iterative Instruction Tuning and Reinforcement Learning [Paper](https://arxiv.org/pdf/2504.02949) [Code](https://github.com/VARGPT-family/VARGPT-v1.1)
