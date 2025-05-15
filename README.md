@@ -336,6 +336,7 @@ Markdown format:
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.5]** BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset [Paper](https://arxiv.org/pdf/2505.09568) [Code](https://github.com/JiuhaiChen/BLIP3o)
   - **[Arxiv, 2025.5]** Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning [Paper](https://arxiv.org/pdf/2505.07538) [Project](https://selftok-team.github.io/report/)
   - **[Arxiv, 2025.5]** Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing [Paper](https://arxiv.org/abs/2504.21356) [Code](https://github.com/modelscope/Nexus-Gen)
   - **[Arxiv, 2025.5]** TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation [Paper](https://arxiv.org/pdf/2505.05422) [Code](https://github.com/TencentARC/TokLIP)
