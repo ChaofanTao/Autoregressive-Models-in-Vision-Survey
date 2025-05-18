@@ -1,5 +1,5 @@
 <div align=center>
-<img src="img/ARV_log.png" width="160px">
+<img src="img/ARV_logo.png" width="160px">
 </div>
 <h2 align="center"> <a href="https://arxiv.org/abs/2411.05902">[TMLR 2025] Awesome Autoregressive Models in Vision  <div align=center> </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
