@@ -43,8 +43,7 @@ Autoregressive models have shown significant progress in generating high-quality
 We welcome feedback, suggestions, and contributions that can help improve this survey and repository and make them valuable resources for the entire community.
 We will actively maintain this repository by incorporating new research as it emerges. If you have any suggestions about our taxonomy, please take a look at any missed papers, or update any preprint arXiv paper that has been accepted to some venue.
 
-If you want to add your work or model to this list, please do not hesitate to [pull requests]([https://github.com/ChaofanTao/autoregressive-vision-survey/pulls](https://github.com/ChaofanTao/autoregressive-vision-survey/pulls)).
-Markdown format:
+ If you want to add your work or model to this list, please do not hesitate to email jhuang90@ur.rochester.edu or [pull requests]([https://github.com/ChaofanTao/autoregressive-vision-survey/pulls](https://github.com/ChaofanTao/autoregressive-vision-survey/pulls)). Markdown format:
 
 ```markdown
 * [**Name of Conference or Journal + Year**] Paper Name. [Paper](link) [Code](link)
@@ -425,6 +424,8 @@ Markdown format:
 
 
 ### Benchmark
+  - **[Arxiv, 2025.05]** UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2505.10483) [Code](https://github.com/xmed-lab/UniEval)
+  - **[Arxiv, 2025.05]** WorldGenBench: A World-Knowledge-Integrated Benchmark for Reasoning-Driven Text-to-Image Generation [Paper](https://arxiv.org/abs/2505.01490) [Code](https://huggingface.co/datasets/worldrl/WorldGenBench)
   - **[Arxiv, 2025.04]** MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [Paper](https://arxiv.org/pdf/2504.03641) [Code](https://github.com/MME-Benchmarks/MME-Unify)
   - **[Arxiv, 2025.04]** GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation [Paper](https://arxiv.org/pdf/2504.02782) [Code](https://github.com/PicoTrex/GPT-ImgEval)
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
@@ -477,6 +478,10 @@ Markdown format:
 | Aesthetic (Expert Evaluation) ↑       | Qualitative               | Based on domain expertise                                                                |
 | Turing Test                           | Qualitative               | [Turing, 1950](https://academic.oup.com/mind/article/LIX/236/433/986238)                 |
 | User Studies (ratings, satisfaction)↑ | Qualitative               | Various, depending on the user study methodology                                         |
+
+## 👍 Acknowledgement
+- [Awesome Unified Multimodal Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models), NUS
+- [Awesome Unified Multimodal Models](https://github.com/Purshow/Awesome-Unified-Multimodal), PKU
 
 
 ## ♥️ Contributors
