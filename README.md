@@ -275,6 +275,7 @@ We will actively maintain this repository by incorporating new research as it em
     
      
    - ##### Visual Conditional Video Generation
+     - **[Arxiv, 2025.05]** Video-GPT via Next Clip Diffusion [Paper](https://arxiv.org/pdf/2505.12489) [Code](https://github.com/zhuangshaobin/Video-GPT)
      - **[Arxiv, 2025.04]** GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography [Paper](https://arxiv.org/pdf/2504.07083) [Code](https://github.com/3DTopia/GenDoP)
      - **[Arxiv, 2024.10]**  **MarDini**: Masked Autoregressive Diffusion for Video Generation at Scale [Paper](https://arxiv.org/pdf/2410.20502)
      - **[CVPR, 2024]**  **LVM** Sequential Modeling Enables Scalable Learning for Large Vision Models [Paper](https://arxiv.org/pdf/2312.00785) [Code](https://github.com/ytongbai/LVM)
@@ -424,6 +425,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 
 ### Benchmark
+  - **[Arxiv, 2025.05]** VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.13439) [Code](https://github.com/huawei-lin/VTBench)
   - **[Arxiv, 2025.05]** UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2505.10483) [Code](https://github.com/xmed-lab/UniEval)
   - **[Arxiv, 2025.05]** WorldGenBench: A World-Knowledge-Integrated Benchmark for Reasoning-Driven Text-to-Image Generation [Paper](https://arxiv.org/abs/2505.01490) [Code](https://huggingface.co/datasets/worldrl/WorldGenBench)
   - **[Arxiv, 2025.04]** MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [Paper](https://arxiv.org/pdf/2504.03641) [Code](https://github.com/MME-Benchmarks/MME-Unify)
