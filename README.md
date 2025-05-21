@@ -336,6 +336,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.5]** Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction [Paper](https://arxiv.org/pdf/2505.02471) [Code](https://github.com/inclusionAI/Ming/tree/main/Ming-unify)
   - **[Arxiv, 2025.5]** Emerging Properties in Unified Multimodal Pretraining [Paper](https://arxiv.org/pdf/2505.14683) [Code](https://github.com/bytedance-seed/BAGEL)
   - **[Arxiv, 2025.5]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
   - **[Arxiv, 2025.5]** BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset [Paper](https://arxiv.org/pdf/2505.09568) [Code](https://github.com/JiuhaiChen/BLIP3o)
