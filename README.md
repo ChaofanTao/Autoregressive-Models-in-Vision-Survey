@@ -336,6 +336,8 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.5]** Emerging Properties in Unified Multimodal Pretraining [Paper](https://arxiv.org/pdf/2505.14683) [Code](https://github.com/bytedance-seed/BAGEL)
+  - **[Arxiv, 2025.5]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
   - **[Arxiv, 2025.5]** BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset [Paper](https://arxiv.org/pdf/2505.09568) [Code](https://github.com/JiuhaiChen/BLIP3o)
   - **[Arxiv, 2025.5]** Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning [Paper](https://arxiv.org/pdf/2505.07538) [Project](https://selftok-team.github.io/report/)
   - **[Arxiv, 2025.5]** Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing [Paper](https://arxiv.org/abs/2504.21356) [Code](https://github.com/modelscope/Nexus-Gen)
@@ -433,6 +435,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
     
 ### Accelerating & Stability & Analysis & Scaling & Safety
+  - **[Arxiv, 2025.05]** Training-Free Watermarking for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.14673) [Code](https://github.com/maifoundations/IndexMark)
   - **[Arxiv, 2025.04]** Fast Autoregressive Models for Continuous Latent Generation [Paper](https://arxiv.org/pdf/2504.18391)
   - **[ICLR, 2025]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://openreview.net/pdf?id=zKlFXV87Pp) [Code](https://github.com/imagination-research/distilled-decoding)
   - **[CVPR, 2025 oral]** Autoregressive Distillation of Diffusion Transformers [Paper](https://arxiv.org/pdf/2504.11295) [Code](https://github.com/alsdudrla10/ARD)
