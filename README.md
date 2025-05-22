@@ -336,6 +336,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.5]** MMaDA: Multimodal Large Diffusion Language Models [Paper](https://arxiv.org/pdf/2505.15809) [Code](https://github.com/Gen-Verse/MMaDA)
   - **[Arxiv, 2025.5]** Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction [Paper](https://arxiv.org/pdf/2505.02471) [Code](https://github.com/inclusionAI/Ming/tree/main/Ming-unify)
   - **[Arxiv, 2025.5]** Emerging Properties in Unified Multimodal Pretraining [Paper](https://arxiv.org/pdf/2505.14683) [Code](https://github.com/bytedance-seed/BAGEL)
   - **[Arxiv, 2025.5]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
