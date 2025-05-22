@@ -437,6 +437,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
     
 ### Accelerating & Stability & Analysis & Scaling & Safety
+  - **[Arxiv, 2025.05]** FastCar: Cache Attentive Replay for Fast Auto-Regressive Video Generation on the Edge [Code](https://github.com/shawnricecake/fast-car) [Paper](https://arxiv.org/pdf/2505.14709)
   - **[Arxiv, 2025.05]** Training-Free Watermarking for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.14673) [Code](https://github.com/maifoundations/IndexMark)
   - **[Arxiv, 2025.04]** Fast Autoregressive Models for Continuous Latent Generation [Paper](https://arxiv.org/pdf/2504.18391)
   - **[ICLR, 2025]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://openreview.net/pdf?id=zKlFXV87Pp) [Code](https://github.com/imagination-research/distilled-decoding)
