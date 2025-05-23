@@ -133,6 +133,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.05]** MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning [Paper](https://arxiv.org/abs/2505.12742) [Code](https://github.com/LabShuHangGU/MVAR)
     - **[ICML, 2025]** Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/pdf/2505.07812) [Code](https://github.com/shaochenze/EAR)
     - **[Arxiv, 2025.04]** GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2504.08736) [Code](https://github.com/SilentView/GigaTok)
     - **[Arxiv, 2025.03]** D2C: Unlocking the Potential of Continuous Autoregressive Image Generation with Discrete Tokens [Paper](https://arxiv.org/pdf/2503.17155) 
