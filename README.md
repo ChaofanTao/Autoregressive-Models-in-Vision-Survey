@@ -99,6 +99,7 @@ We will actively maintain this repository by incorporating new research as it em
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.05]** Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space [Paper](https://arxiv.org/pdf/2505.17011) [Code](https://github.com/VisionXLab/AdapTok)
     - **[Arxiv, 2025.04]** Distilling semantically aware orders for autoregressive image generation [Paper](https://arxiv.org/pdf/2504.17069) 
     - **[Arxiv, 2025.04]** Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models [Paper](https://arxiv.org/pdf/2504.17789)
     - **[CVPR, 2025]** Improving Autoregressive Visual Generation with Cluster-Oriented Token Prediction [Code](https://github.com/sjtuplayer/IAR) [Paper](https://arxiv.org/pdf/2501.00880)
@@ -133,6 +134,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.05]** TensorAR: Refinement is All You Need in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.16324)
     - **[Arxiv, 2025.05]** MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning [Paper](https://arxiv.org/abs/2505.12742) [Code](https://github.com/LabShuHangGU/MVAR)
     - **[ICML, 2025]** Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/pdf/2505.07812) [Code](https://github.com/shaochenze/EAR)
     - **[Arxiv, 2025.04]** GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2504.08736) [Code](https://github.com/SilentView/GigaTok)
