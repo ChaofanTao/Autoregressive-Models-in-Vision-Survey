@@ -433,6 +433,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 
 ### Benchmark
+  - **[Arxiv, 2025.05]** TokBench: Evaluating Your Visual Tokenizer before Visual Generation [Paper](https://arxiv.org/pdf/2505.18142) [Code](https://github.com/wjf5203/TokBench)
   - **[Arxiv, 2025.05]** VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.13439) [Code](https://github.com/huawei-lin/VTBench)
   - **[Arxiv, 2025.05]** UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2505.10483) [Code](https://github.com/xmed-lab/UniEval)
   - **[Arxiv, 2025.05]** WorldGenBench: A World-Knowledge-Integrated Benchmark for Reasoning-Driven Text-to-Image Generation [Paper](https://arxiv.org/abs/2505.01490) [Code](https://huggingface.co/datasets/worldrl/WorldGenBench)
