@@ -396,6 +396,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Other Generation
+  - **[Arxiv, 2025.05]** RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration [Paper](https://arxiv.org/pdf/2505.18047) [Code](https://github.com/sudraj2002/RestoreVAR)
   - **[Arxiv, 2025.04]** TAPNext: Tracking Any Point (TAP) as Next Token Prediction [Paper](https://arxiv.org/pdf/2504.05579) 
   - **[Arxiv, 2025.04]** Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models [Paper](https://arxiv.org/pdf/2503.20198) [Code](https://fingerrec.github.io/longtextar/)
   - **[CVPR, 2025]** Zero-Shot Styled Text Image Generation, but Make It Autoregressive [Paper](https://arxiv.org/pdf/2503.17074) 
