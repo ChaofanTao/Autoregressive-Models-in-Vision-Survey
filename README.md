@@ -99,6 +99,7 @@ We will actively maintain this repository by incorporating new research as it em
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.05]** D-AR: Diffusion via Autoregressive Models [Paper](https://arxiv.org/pdf/2505.23660) [Code](https://github.com/showlab/D-AR)
     - **[Arxiv, 2025.05]** Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space [Paper](https://arxiv.org/pdf/2505.17011) [Code](https://github.com/VisionXLab/AdapTok)
     - **[Arxiv, 2025.04]** Distilling semantically aware orders for autoregressive image generation [Paper](https://arxiv.org/pdf/2504.17069) 
     - **[Arxiv, 2025.04]** Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models [Paper](https://arxiv.org/pdf/2504.17789)
@@ -340,6 +341,9 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.5]** Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model [Paper](https://arxiv.org/pdf/2505.23606) [Code](https://github.com/M-E-AGI-Lab/Muddit)
+  - **[Arxiv, 2025.5]** OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23661) [Code](https://github.com/wusize/OpenUni)
+  - **[Arxiv, 2025.5]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380) [Code](https://github.com/showlab/UniRL)
   - **[Arxiv, 2025.5]** FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities [Paper](https://arxiv.org/pdf/2505.20147)
   - **[Arxiv, 2025.5]** MMaDA: Multimodal Large Diffusion Language Models [Paper](https://arxiv.org/pdf/2505.15809) [Code](https://github.com/Gen-Verse/MMaDA)
   - **[Arxiv, 2025.5]** Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction [Paper](https://arxiv.org/pdf/2505.02471) [Code](https://github.com/inclusionAI/Ming/tree/main/Ming-unify)
