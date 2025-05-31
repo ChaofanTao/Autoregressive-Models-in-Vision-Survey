@@ -439,6 +439,8 @@ We will actively maintain this repository by incorporating new research as it em
 
 
 ### Benchmark
+  - **[Arxiv, 2025.05]** Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing [Paper](https://arxiv.org/pdf/2504.02826) [Code](https://github.com/PhoenixZ810/RISEBench)
+  - **[Arxiv, 2025.05]** Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23043) [Code](https://github.com/MajorDavidZhang/Generalization_unified_VLM)
   - **[Arxiv, 2025.05]** TokBench: Evaluating Your Visual Tokenizer before Visual Generation [Paper](https://arxiv.org/pdf/2505.18142) [Code](https://github.com/wjf5203/TokBench)
   - **[Arxiv, 2025.05]** VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.13439) [Code](https://github.com/huawei-lin/VTBench)
   - **[Arxiv, 2025.05]** UniEval: Unified Holistic Evaluation for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/abs/2505.10483) [Code](https://github.com/xmed-lab/UniEval)
