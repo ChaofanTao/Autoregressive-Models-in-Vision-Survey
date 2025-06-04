@@ -346,12 +346,10 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.6]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
   - **[Arxiv, 2025.5]** Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model [Paper](https://arxiv.org/pdf/2505.23606) [Code](https://github.com/M-E-AGI-Lab/Muddit)
   - **[Arxiv, 2025.5]** OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23661) [Code](https://github.com/wusize/OpenUni)
-  - **[Arxiv, 2025.5]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380) [Code](https://github.com/showlab/UniRL)
   - **[Arxiv, 2025.5]** FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities [Paper](https://arxiv.org/pdf/2505.20147)
   - **[Arxiv, 2025.5]** MMaDA: Multimodal Large Diffusion Language Models [Paper](https://arxiv.org/pdf/2505.15809) [Code](https://github.com/Gen-Verse/MMaDA)
   - **[Arxiv, 2025.5]** Ming-Lite-Uni: Advancements in Unified Architecture for Natural Multimodal Interaction [Paper](https://arxiv.org/pdf/2505.02471) [Code](https://github.com/inclusionAI/Ming/tree/main/Ming-unify)
   - **[Arxiv, 2025.5]** Emerging Properties in Unified Multimodal Pretraining [Paper](https://arxiv.org/pdf/2505.14683) [Code](https://github.com/bytedance-seed/BAGEL)
-  - **[Arxiv, 2025.5]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
   - **[Arxiv, 2025.5]** BLIP3-o: A Family of Fully Open Unified Multimodal Models—Architecture, Training and Dataset [Paper](https://arxiv.org/pdf/2505.09568) [Code](https://github.com/JiuhaiChen/BLIP3o)
   - **[Arxiv, 2025.5]** Selftok: Discrete Visual Tokens of Autoregression, by Diffusion, and for Reasoning [Paper](https://arxiv.org/pdf/2505.07538) [Project](https://selftok-team.github.io/report/)
   - **[Arxiv, 2025.5]** Nexus-Gen: A Unified Model for Image Understanding, Generation, and Editing [Paper](https://arxiv.org/abs/2504.21356) [Code](https://github.com/modelscope/Nexus-Gen)
@@ -451,16 +449,21 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.04]** MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [Paper](https://arxiv.org/pdf/2504.03641) [Code](https://github.com/MME-Benchmarks/MME-Unify)
   - **[Arxiv, 2025.04]** GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation [Paper](https://arxiv.org/pdf/2504.02782) [Code](https://github.com/PicoTrex/GPT-ImgEval)
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
-    
-### Accelerating & Posttraining & Stability & Analysis & Scaling & Safety
+
+### Reasoning Alignment
+  - **[Arxiv, 2025.5]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380) [Code](https://github.com/showlab/UniRL)
+  - **[Arxiv, 2025.5]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
+  - **[Arxiv, 2025.06]** Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation [Paper](https://arxiv.org/pdf/2506.01480) [Code](https://janus-pro-r1.github.io/)
   - **[Arxiv, 2025.06]** ReasonGen-R1: CoT for Autoregressive Image Generation model through SFT and RL [Paper](https://arxiv.org/pdf/2505.24875) [Code](https://github.com/Franklin-Zhang0/ReasonGen-R1)
+  - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
+    
+### Accelerating & Stability & Analysis & Scaling & Safety
   - **[Arxiv, 2025.05]** DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297) [Code](https://github.com/Qinyu-Allen-Zhao/DiSA)
   - **[Arxiv, 2025.05]** FastCar: Cache Attentive Replay for Fast Auto-Regressive Video Generation on the Edge [Code](https://github.com/shawnricecake/fast-car) [Paper](https://arxiv.org/pdf/2505.14709)
   - **[Arxiv, 2025.05]** Training-Free Watermarking for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.14673) [Code](https://github.com/maifoundations/IndexMark)
   - **[Arxiv, 2025.04]** Fast Autoregressive Models for Continuous Latent Generation [Paper](https://arxiv.org/pdf/2504.18391)
   - **[ICLR, 2025]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://openreview.net/pdf?id=zKlFXV87Pp) [Code](https://github.com/imagination-research/distilled-decoding)
   - **[CVPR, 2025 oral]** Autoregressive Distillation of Diffusion Transformers [Paper](https://arxiv.org/pdf/2504.11295) [Code](https://github.com/alsdudrla10/ARD)
-  - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
   - **[Arxiv, 2025.04]** Head-Aware KV Cache Compression for Efficient Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2504.09261)
   - **[Arxiv, 2025.03]** Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [Paper](https://arxiv.org/pdf/2503.16194) [Code](https://github.com/GzyAftermath/CTF)
   - **[CVPR, 2025]** From Slow Bidirectional to Fast Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2412.07772) [Code](https://github.com/tianweiy/CausVid)
