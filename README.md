@@ -451,10 +451,10 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
 
 ### Reasoning Alignment
-  - **[Arxiv, 2025.5]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380) [Code](https://github.com/showlab/UniRL)
-  - **[Arxiv, 2025.5]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
   - **[Arxiv, 2025.06]** Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation [Paper](https://arxiv.org/pdf/2506.01480) [Code](https://janus-pro-r1.github.io/)
   - **[Arxiv, 2025.06]** ReasonGen-R1: CoT for Autoregressive Image Generation model through SFT and RL [Paper](https://arxiv.org/pdf/2505.24875) [Code](https://github.com/Franklin-Zhang0/ReasonGen-R1)
+  - **[Arxiv, 2025.05]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380) [Code](https://github.com/showlab/UniRL)
+  - **[Arxiv, 2025.05]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
   - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
     
 ### Accelerating & Stability & Analysis & Scaling & Safety
