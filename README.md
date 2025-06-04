@@ -320,6 +320,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ICCV, 2021 oral]** **HuMoR**: 3D Human Motion Model for Robust Pose Estimation [Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) [Code](https://github.com/davrempe/humor)
 
 #### Point Cloud Generation
+  - **[Arxiv, 2025.6]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
    - **[Siggraph, 2025]** OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation [Paper](https://arxiv.org/pdf/2504.09975) [Code](https://github.com/octree-nn/octgpt)
    - **[Arxiv, 2025.04]** Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization [Paper](https://arxiv.org/pdf/2504.02817) [Page](https://oat-3d.github.io/)
    - **[CVPR, 2025]** TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing [Paper](https://arxiv.org/pdf/2503.11629) [Code](https://github.com/sail-sg/TreeMeshGPT)
@@ -337,10 +338,11 @@ We will actively maintain this repository by incorporating new research as it em
     ```medical image-to-image translation```
   - **[ICCV, 2023]** Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.pdf) [Code](https://github.com/samb-t/x2ct-vqvae)
   - **[MICCAI, 2022]** Morphology-preserving Autoregressive 3D Generative Modelling of the Brain [Paper](https://arxiv.org/pdf/2209.03177) [Code](https://github.com/AmigoLab/SynthAnatomy)
-    ```medical image generation```
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.6]** UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation [Paper](https://arxiv.org/abs/2506.03147) [Code](https://github.com/PKU-YuanGroup/UniWorld-V1)
+  - **[Arxiv, 2025.6]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
   - **[Arxiv, 2025.5]** Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model [Paper](https://arxiv.org/pdf/2505.23606) [Code](https://github.com/M-E-AGI-Lab/Muddit)
   - **[Arxiv, 2025.5]** OpenUni: A Simple Baseline for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23661) [Code](https://github.com/wusize/OpenUni)
   - **[Arxiv, 2025.5]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380) [Code](https://github.com/showlab/UniRL)
