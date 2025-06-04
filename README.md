@@ -280,6 +280,7 @@ We will actively maintain this repository by incorporating new research as it em
     
      
    - ##### Visual Conditional Video Generation
+     - **[Arxiv, 2025.06]** DeepVerse: 4D Autoregressive Video Generation as a World Model [Paper](https://arxiv.org/pdf/2506.01103) [Code](https://github.com/SOTAMak1r/DeepVerse)
      - **[Arxiv, 2025.05]** Video-GPT via Next Clip Diffusion [Paper](https://arxiv.org/pdf/2505.12489) [Code](https://github.com/zhuangshaobin/Video-GPT)
      - **[Arxiv, 2025.04]** GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography [Paper](https://arxiv.org/pdf/2504.07083) [Code](https://github.com/3DTopia/GenDoP)
      - **[Arxiv, 2024.10]**  **MarDini**: Masked Autoregressive Diffusion for Video Generation at Scale [Paper](https://arxiv.org/pdf/2410.20502)
