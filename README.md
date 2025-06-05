@@ -27,6 +27,12 @@ Autoregressive models have shown significant progress in generating high-quality
 
 ## 📣 Update News
 
+`[2025-05-31]` 🔥 Our survey has been revised in [arXiv](https://arxiv.org/abs/2411.05902)! The revised paper streamlines content and enhances discussions on:
+   - Continuous autoregressive methods
+   - Computational costs
+   - More details about metrics
+   - Expands future application roadmaps
+
 `[2025-03-11]` 🔥 Our [survey](https://openreview.net/forum?id=1BqXkjNEGP) has been accepted by TMLR 2025!
 
 `[2024-11-11]` We have released the survey: [Autoregressive Models in Vision: A Survey](https://arxiv.org/abs/2411.05902).
