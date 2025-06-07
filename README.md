@@ -141,6 +141,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.06]** AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model [Paper](https://arxiv.org/pdf/2506.05289) [Code](https://github.com/ali-vilab/alitok)
     - **[Arxiv, 2025.05]** DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction [Paper](https://arxiv.org/pdf/2505.21473) [Code](https://github.com/ByteFlow-AI/DetailFlow)
     - **[Arxiv, 2025.05]** TensorAR: Refinement is All You Need in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.16324)
     - **[Arxiv, 2025.05]** MVAR: Visual Autoregressive Modeling with Scale and Spatial Markovian Conditioning [Paper](https://arxiv.org/abs/2505.12742) [Code](https://github.com/LabShuHangGU/MVAR)
