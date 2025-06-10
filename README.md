@@ -25,6 +25,21 @@ Autoregressive models have shown significant progress in generating high-quality
 
 > *<sup>†</sup> Core Contributors, <sup>‡</sup> Corresponding Authors*
 
+
+## 📑 Citation
+Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
+
+```BibTeX
+@misc{xiong2024autoregressive,
+    title={Autoregressive Models in Vision: A Survey},
+    author={Jing Xiong and Gongye Liu and Lun Huang and Chengyue Wu and Taiqiang Wu and Yao Mu and Yuan Yao and Hui Shen and Zhongwei Wan and Jinfa Huang and Chaofan Tao and Shen Yan and Huaxiu Yao and Lingpeng Kong and Hongxia Yang and Mi Zhang and Guillermo Sapiro and Jiebo Luo and Ping Luo and Ngai Wong},
+    year={2024},
+    eprint={2411.05902},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
 ## 📣 Update News
 
 `[2025-05-31]` 🔥 Our survey has been revised in [arXiv](https://arxiv.org/abs/2411.05902)! The revised paper streamlines content and enhances discussions on:
@@ -525,20 +540,5 @@ We will actively maintain this repository by incorporating new research as it em
 <a href="https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ChaofanTao/Autoregressive-Models-in-Vision-Survey" />
 </a>
-
-## 📑 Citation
-
-Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
-
-```BibTeX
-@misc{xiong2024autoregressive,
-    title={Autoregressive Models in Vision: A Survey},
-    author={Jing Xiong and Gongye Liu and Lun Huang and Chengyue Wu and Taiqiang Wu and Yao Mu and Yuan Yao and Hui Shen and Zhongwei Wan and Jinfa Huang and Chaofan Tao and Shen Yan and Huaxiu Yao and Lingpeng Kong and Hongxia Yang and Mi Zhang and Guillermo Sapiro and Jiebo Luo and Ping Luo and Ngai Wong},
-    year={2024},
-    eprint={2411.05902},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-```
 
 
