@@ -156,6 +156,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.06]** MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation [Paper](https://arxiv.org/pdf/2506.07999) 
     - **[Arxiv, 2025.06]** SpectralAR: Spectral Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2506.10962) [Code](https://github.com/huang-yh/SpectralAR)
     - **[Arxiv, 2025.06]** AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model [Paper](https://arxiv.org/pdf/2506.05289) [Code](https://github.com/ali-vilab/alitok)
     - **[Arxiv, 2025.05]** DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction [Paper](https://arxiv.org/pdf/2505.21473) [Code](https://github.com/ByteFlow-AI/DetailFlow)
