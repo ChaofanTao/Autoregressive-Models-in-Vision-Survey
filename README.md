@@ -282,6 +282,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 #### Conditional Video Generation
    - ##### Text-to-Video Generation
+     - **[Arxiv, 2025.06]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/pdf/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
      - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
      - **[Arxiv, 2025.04]** **MAGI-1**: Autoregressive Video Generation at Scale [Paper](https://static.magi.world/static/files/MAGI_1.pdf) [Code](https://github.com/SandAI-org/MAGI-1)
      - **[Arxiv, 2024.12]** **DiCoDe**: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models [Paper](https://arxiv.org/pdf/2412.04446) [Page](https://liyizhuo.com/DiCoDe/)
