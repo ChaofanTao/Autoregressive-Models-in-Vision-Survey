@@ -156,6 +156,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.06]** SpectralAR: Spectral Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2506.10962) [Code](https://github.com/huang-yh/SpectralAR)
     - **[Arxiv, 2025.06]** AliTok: Towards Sequence Modeling Alignment between Tokenizer and Autoregressive Model [Paper](https://arxiv.org/pdf/2506.05289) [Code](https://github.com/ali-vilab/alitok)
     - **[Arxiv, 2025.05]** DetailFlow: 1D Coarse-to-Fine Autoregressive Image Generation via Next-Detail Prediction [Paper](https://arxiv.org/pdf/2505.21473) [Code](https://github.com/ByteFlow-AI/DetailFlow)
     - **[Arxiv, 2025.05]** TensorAR: Refinement is All You Need in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.16324)
@@ -364,6 +365,8 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.6]** Pisces: An Auto-regressive Foundation Model for
+Image Understanding and Generation [Paper](https://arxiv.org/pdf/2506.10395) 
   - **[Arxiv, 2025.6]** UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation [Paper](https://arxiv.org/abs/2506.03147) [Code](https://github.com/PKU-YuanGroup/UniWorld-V1)
   - **[Arxiv, 2025.6]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
   - **[Arxiv, 2025.5]** Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model [Paper](https://arxiv.org/pdf/2505.23606) [Code](https://github.com/M-E-AGI-Lab/Muddit)
