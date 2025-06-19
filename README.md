@@ -206,6 +206,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 #### Text-to-Image Generation
 - ##### Token-wise Generation
+     - **[ICML, 2025]** Discrete JEPA: Learning Discrete Token Representations without Reconstruction [Paper](https://arxiv.org/pdf/2506.14373) 
      - **[Arxiv, 2025.04]** Personalized Text-to-Image Generation with Auto-Regressive Models [Paper](https://arxiv.org/pdf/2504.13162) [Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)
      - **[Arxiv, 2025.04]** Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling [Paper]() [Code](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
      - **[Arxiv, 2025.03]** Lumina-Image 2.0: A Unified and Efficient Image Generative Framework [Paper](https://arxiv.org/pdf/2503.21758?) [Code](https://github.com/Alpha-VLLM/Lumina-Image-2.0)
