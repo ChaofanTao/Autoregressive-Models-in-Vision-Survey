@@ -371,6 +371,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.6]** UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2506.17202) [Code](https://github.com/tliby/UniFork)
   - **[Arxiv, 2025.6]** Show-o2: Improved Native Unified Multimodal Models [Paper](https://arxiv.org/pdf/2506.15564) [Code](https://github.com/showlab/Show-o)
   - **[Arxiv, 2025.6]** Ming-Omni: A Unified Multimodal Model for Perception and Generation [Paper](https://arxiv.org/pdf/2506.09344) [Code](https://github.com/inclusionAI/Ming/tree/main)
   - **[Arxiv, 2025.6]** Pisces: An Auto-regressive Foundation Model for Image Understanding and Generation [Paper](https://arxiv.org/pdf/2506.10395) 
@@ -490,6 +491,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
     
 ### Accelerating & Stability & Analysis & Scaling & Safety
+  - **[Arxiv, 2025.06]** Watermarking Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2506.16349) [Code](https://github.com/facebookresearch/wmar)
   - **[Arxiv, 2025.06]** A Watermark for Auto-Regressive Image Generation Models [Paper](https://arxiv.org/pdf/2506.11371) 
   - **[Arxiv, 2025.05]** DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297) [Code](https://github.com/Qinyu-Allen-Zhao/DiSA)
   - **[Arxiv, 2025.05]** FastCar: Cache Attentive Replay for Fast Auto-Regressive Video Generation on the Edge [Code](https://github.com/shawnricecake/fast-car) [Paper](https://arxiv.org/pdf/2505.14709)
