@@ -341,6 +341,7 @@ We will actively maintain this repository by incorporating new research as it em
      
 ### 3D Generation
 #### Motion Generation
+  - **[Arxiv, 2025.06]** Auto-Regressive Surface Cutting [Paper](https://arxiv.org/pdf/2506.18017) [Code](https://victorcheung12.github.io/seamgpt/)
   - **[CVPR, 2025]** **Teller**: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation [Paper](https://arxiv.org/pdf/2503.18429) [Page](https://teller-avatar.github.io/)
   - **[CVPR, 2025]** **ScaMo**: Exploring the Scaling Law in Autoregressive Motion Generation Model [Paper](https://arxiv.org/abs/2412.14559) [Code](https://github.com/shunlinlu/ScaMo_code)
   - **[AAAI, 2024]** **AMD**: Autoregressive Motion Diffusion [Paper](https://arxiv.org/pdf/2305.09381) [Code](https://github.com/fluide1022/AMD)
@@ -350,7 +351,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ICCV, 2021 oral]** **HuMoR**: 3D Human Motion Model for Robust Pose Estimation [Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) [Code](https://github.com/davrempe/humor)
 
 #### Point Cloud Generation
-  - **[Arxiv, 2025.6]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
+  - **[Arxiv, 2025.06]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
    - **[Siggraph, 2025]** OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation [Paper](https://arxiv.org/pdf/2504.09975) [Code](https://github.com/octree-nn/octgpt)
    - **[Arxiv, 2025.04]** Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization [Paper](https://arxiv.org/pdf/2504.02817) [Page](https://oat-3d.github.io/)
    - **[CVPR, 2025]** TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing [Paper](https://arxiv.org/pdf/2503.11629) [Code](https://github.com/sail-sg/TreeMeshGPT)
@@ -371,6 +372,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.6]** Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations [Paper](https://arxiv.org/pdf/2506.18898) [Code](https://github.com/csuhan/Tar)
   - **[Arxiv, 2025.6]** UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2506.17202) [Code](https://github.com/tliby/UniFork)
   - **[Arxiv, 2025.6]** Show-o2: Improved Native Unified Multimodal Models [Paper](https://arxiv.org/pdf/2506.15564) [Code](https://github.com/showlab/Show-o)
   - **[Arxiv, 2025.6]** Ming-Omni: A Unified Multimodal Model for Perception and Generation [Paper](https://arxiv.org/pdf/2506.09344) [Code](https://github.com/inclusionAI/Ming/tree/main)
