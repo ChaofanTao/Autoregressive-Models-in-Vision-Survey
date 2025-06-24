@@ -156,6 +156,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[CVPR, 2025]** OmniGen: Unified Image Generation [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_OmniGen_Unified_Image_Generation_CVPR_2025_paper.html) [Code](https://github.com/VectorSpaceLab/OmniGen)
     - **[Arxiv, 2025.06]** AR-RAG: Autoregressive Retrieval Augmentation for Image Generation [Paper](https://arxiv.org/pdf/2506.06962) [Code](https://github.com/PLUM-Lab/AR-RAG)
     - **[Arxiv, 2025.06]** Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression [Paper](https://arxiv.org/pdf/2506.09482) [Code](https://github.com/TransDiff/TransDiff)
     - **[Arxiv, 2025.06]** MADFormer: Mixed Autoregressive and Diffusion Transformers for Continuous Image Generation [Paper](https://arxiv.org/pdf/2506.07999) 
@@ -372,6 +373,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.06]** OmniGen2: Exploration to Advanced Multimodal Generation [Paper](https://arxiv.org/pdf/2506.18871) [Code](https://github.com/VectorSpaceLab/OmniGen2)
   - **[Arxiv, 2025.6]** Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations [Paper](https://arxiv.org/pdf/2506.18898) [Code](https://github.com/csuhan/Tar)
   - **[Arxiv, 2025.6]** UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2506.17202) [Code](https://github.com/tliby/UniFork)
   - **[Arxiv, 2025.6]** Show-o2: Improved Native Unified Multimodal Models [Paper](https://arxiv.org/pdf/2506.15564) [Code](https://github.com/showlab/Show-o)
