@@ -373,7 +373,8 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
-  - **[Arxiv, 2025.06]** OmniGen2: Exploration to Advanced Multimodal Generation [Paper](https://arxiv.org/pdf/2506.18871) [Code](https://github.com/VectorSpaceLab/OmniGen2)
+  - **[Arxiv, 2025.6]** UniCode²: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2506.20214) 
+  - **[Arxiv, 2025.6]** OmniGen2: Exploration to Advanced Multimodal Generation [Paper](https://arxiv.org/pdf/2506.18871) [Code](https://github.com/VectorSpaceLab/OmniGen2)
   - **[Arxiv, 2025.6]** Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations [Paper](https://arxiv.org/pdf/2506.18898) [Code](https://github.com/csuhan/Tar)
   - **[Arxiv, 2025.6]** UniFork: Exploring Modality Alignment for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2506.17202) [Code](https://github.com/tliby/UniFork)
   - **[Arxiv, 2025.6]** Show-o2: Improved Native Unified Multimodal Models [Paper](https://arxiv.org/pdf/2506.15564) [Code](https://github.com/showlab/Show-o)
@@ -495,6 +496,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
     
 ### Accelerating & Stability & Analysis & Scaling & Safety
+  - **[Arxiv, 2025.06]** EAR: Erasing Concepts from Unified Autoregressive Models [Paper](https://arxiv.org/abs/2506.20151) [Code](https://github.com/immc-lab/ear/)
   - **[Arxiv, 2025.06]** Watermarking Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2506.16349) [Code](https://github.com/facebookresearch/wmar)
   - **[Arxiv, 2025.06]** A Watermark for Auto-Regressive Image Generation Models [Paper](https://arxiv.org/pdf/2506.11371) 
   - **[Arxiv, 2025.05]** DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297) [Code](https://github.com/Qinyu-Allen-Zhao/DiSA)
