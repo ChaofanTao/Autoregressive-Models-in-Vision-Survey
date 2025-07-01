@@ -255,7 +255,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 #### Image Editing
   - **[Arxiv, 2025.04]** Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing [Paper](https://arxiv.org/pdf/2504.10434) [Code](https://github.com/hutaiHang/ATM)
-  - **[Arxiv, 2025.04]** Training-Free Text-Guided Image Editing with Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2503.23897) [Code](https://github.com/wyf0912/AREdit)
+  - **[ICCV, 2025]** Training-Free Text-Guided Image Editing with Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2503.23897) [Code](https://github.com/wyf0912/AREdit)
   - **[Arxiv, 2025.01]** EditAR: Unified Conditional Generation with Autoregressive Models [Paper](https://arxiv.org/pdf/2501.04699) [Code](https://github.com/JitengMu/EditAR)
   - **[Arxiv, 2024,06]** CAR: Controllable Autoregressive Modeling for Visual Generation [Paper](https://arxiv.org/abs/2410.04671) [Code](https://github.com/MiracleDance/CAR)
   - **[ICLR, 2025]** **ControlAR**: Controllable Image Generation with Autoregressive Models [Paper](https://arxiv.org/abs/2410.02705) [Code](https://github.com/hustvl/ControlAR)
