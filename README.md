@@ -157,6 +157,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.07]** Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis [Paper](https://arxiv.org/pdf/2507.01756) 
     - **[CVPR, 2025]** OmniGen: Unified Image Generation [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_OmniGen_Unified_Image_Generation_CVPR_2025_paper.html) [Code](https://github.com/VectorSpaceLab/OmniGen)
     - **[Arxiv, 2025.06]** AR-RAG: Autoregressive Retrieval Augmentation for Image Generation [Paper](https://arxiv.org/pdf/2506.06962) [Code](https://github.com/PLUM-Lab/AR-RAG)
     - **[Arxiv, 2025.06]** Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression [Paper](https://arxiv.org/pdf/2506.09482) [Code](https://github.com/TransDiff/TransDiff)
@@ -496,6 +497,8 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.05]** UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2505.14682) 
   - **[Arxiv, 2025.04]** SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL [Paper](https://arxiv.org/pdf/2504.11455) [Code](https://github.com/wdrink/SimpleAR)
   - **[Arxiv, 2025.03]** **LightGen**: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization [Paper](https://arxiv.org/abs/2503.08619) [Code](https://github.com/XianfengWu01/LightGen)
+  - **[Arxiv, 2025.02]** Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965) [Code](https://github.com/LTH14/fractalgen)
+  - **[Arxiv, 2025.01]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/abs/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
 ### Safety
   - **[Arxiv, 2025.06]** BitMark for Infinity: Watermarking Bitwise Autoregressive Image Generative Models [Paper](https://arxiv.org/pdf/2506.21209) 
@@ -504,32 +507,32 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.06]** A Watermark for Auto-Regressive Image Generation Models [Paper](https://arxiv.org/pdf/2506.11371)
   - **[Arxiv, 2025.05]** Training-Free Watermarking for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.14673) [Code](https://github.com/maifoundations/IndexMark)
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
-    
-### Accelerating & Stability & Analysis & Scaling 
+
+### Accelerating
+  - **[Arxiv, 2025.07]** Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation [Paper](https://arxiv.org/abs/2507.01957) [Code](https://github.com/mit-han-lab/lpd)
   - **[Arxiv, 2025.05]** DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297) [Code](https://github.com/Qinyu-Allen-Zhao/DiSA)
   - **[Arxiv, 2025.05]** FastCar: Cache Attentive Replay for Fast Auto-Regressive Video Generation on the Edge [Code](https://github.com/shawnricecake/fast-car) [Paper](https://arxiv.org/pdf/2505.14709)
   - **[Arxiv, 2025.04]** Fast Autoregressive Models for Continuous Latent Generation [Paper](https://arxiv.org/pdf/2504.18391)
   - **[ICLR, 2025]** Distilled Decoding 1: One-step Sampling of Image Auto-regressive Models with Flow Matching [Paper](https://openreview.net/pdf?id=zKlFXV87Pp) [Code](https://github.com/imagination-research/distilled-decoding)
-  - **[CVPR, 2025 oral]** Autoregressive Distillation of Diffusion Transformers [Paper](https://arxiv.org/pdf/2504.11295) [Code](https://github.com/alsdudrla10/ARD)
+  - **[CVPR oral, 2025]** Autoregressive Distillation of Diffusion Transformers [Paper](https://arxiv.org/pdf/2504.11295) [Code](https://github.com/alsdudrla10/ARD)
   - **[Arxiv, 2025.04]** Head-Aware KV Cache Compression for Efficient Visual Autoregressive Modeling [Paper](https://arxiv.org/pdf/2504.09261)
-  - **[Arxiv, 2025.03]** Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [Paper](https://arxiv.org/pdf/2503.16194) [Code](https://github.com/GzyAftermath/CTF)
   - **[CVPR, 2025]** From Slow Bidirectional to Fast Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2412.07772) [Code](https://github.com/tianweiy/CausVid)
-  - **[Arxiv, 2025.03]** Fast Autoregressive Video Generation with Diagonal Decoding [Paper](https://arxiv.org/pdf/2503.14070) 
-  - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
-  - **[Arxiv, 2025.03]** Teaching Metric Distance to Autoregressive Multimodal Foundational Models [Paper](https://arxiv.org/pdf/2503.02379) 
-  - **[Arxiv, 2025.02]** Autoregressive Image Generation Guided by Chains of Thought [Paper](https://arxiv.org/pdf/2502.16965) [Code](https://github.com/LTH14/fractalgen)
-  - **[Arxiv, 2025.01]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/abs/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
-  - **[Arxiv, 2024.12]** Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15119) [Code](https://github.com/Epiphqny/PAR)
-  - **[Arxiv, 2024.12]** 3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation [Paper](https://arxiv.org/pdf/2412.02202) [Page](https://sparse-mvs-2.github.io/VAT.IO/)
-  - **[Arxiv, 2024.12]** JetFormer: An autoregressive generative model of raw images and text [Paper](https://arxiv.org/pdf/2411.19722) 
+  - **[Arxiv, 2025.03]** Fast Autoregressive Video Generation with Diagonal Decoding [Paper](https://arxiv.org/pdf/2503.14070)
+  - **[CVPR 2025, 2025/2024.12]** Parallelized Autoregressive Visual Generation [Paper](https://arxiv.org/pdf/2412.15119) [Code](https://github.com/Epiphqny/PAR)
   - **[Arxiv, 2024.11]** Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient [Paper](https://arxiv.org/pdf/2411.17787) [Code](https://github.com/czg1225/CoDe)
   - **[Arxiv, 2024.11]** Continuous Speculative Decoding for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2411.11925) [Code](https://github.com/MarkXCloud/CSpD)
+  - **[ICLR, 2025/2024.10]** Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding [Paper](https://arxiv.org/abs/2410.01699)
+    
+### Stability & Analysis & Scaling 
+  - **[Arxiv, 2025.03]** Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [Paper](https://arxiv.org/pdf/2503.16194) [Code](https://github.com/GzyAftermath/CTF)
+  - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
+  - **[Arxiv, 2025.03]** Teaching Metric Distance to Autoregressive Multimodal Foundational Models [Paper](https://arxiv.org/pdf/2503.02379) 
+  - **[Arxiv, 2024.12]** 3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation [Paper](https://arxiv.org/pdf/2412.02202) [Page](https://sparse-mvs-2.github.io/VAT.IO/)
+  - **[Arxiv, 2024.12]** JetFormer: An autoregressive generative model of raw images and text [Paper](https://arxiv.org/pdf/2411.19722) 
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
   - **[Arxiv, 2024.10]** Elucidating the Design Space of Language Models for Image Generation [Paper](https://arxiv.org/pdf/2410.16257) [Code](https://github.com/Pepper-lll/LMforImageGeneration)
   - **[NeurIPS, 2024]** Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/pdf/2410.12490) [Code](https://github.com/DAMO-NLP-SG/DiGIT)
-  - **[Arxiv, 2024.10]** Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding [Paper](https://arxiv.org/abs/2410.01699)
   - **[Arxiv, 2024.09]** Pre-trained Language Models Do Not Help Auto-regressive Text-to-Image Generation [Paper](https://arxiv.org/pdf/2311.16201)
-  - **[ECCV, 2024]** An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models [Paper](https://arxiv.org/pdf/2403.06764) [Code](https://github.com/pkunlp-icler/FastV)
   - **[Arxiv, 2020]** Scaling Laws for Autoregressive Generative Modeling [Paper](https://arxiv.org/abs/2010.14701)
 
 ### Tutorial
