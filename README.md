@@ -479,7 +479,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[NeurIPS, 2021]** Multimodal Few-Shot Learning with Frozen Language Models [Paper](https://arxiv.org/pdf/2106.13884)
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
-### Benchmark
+### Benchmark / Analysis
   - **[Arxiv, 2025.05]** Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing [Paper](https://arxiv.org/pdf/2504.02826) [Code](https://github.com/PhoenixZ810/RISEBench)
   - **[Arxiv, 2025.05]** Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23043) [Code](https://github.com/MajorDavidZhang/Generalization_unified_VLM)
   - **[Arxiv, 2025.05]** TokBench: Evaluating Your Visual Tokenizer before Visual Generation [Paper](https://arxiv.org/pdf/2505.18142) [Code](https://github.com/wjf5203/TokBench)
@@ -489,6 +489,8 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.04]** MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models [Paper](https://arxiv.org/pdf/2504.03641) [Code](https://github.com/MME-Benchmarks/MME-Unify)
   - **[Arxiv, 2025.04]** GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation [Paper](https://arxiv.org/pdf/2504.02782) [Code](https://github.com/PicoTrex/GPT-ImgEval)
   - **[Arxiv, 2025.03]** WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation [Paper](https://arxiv.org/pdf/2503.07265) [Code](https://github.com/PKU-YuanGroup/WISE)
+  - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
+  - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment
   - **[Arxiv, 2025.06]** Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation [Paper](https://arxiv.org/pdf/2506.01480) [Code](https://janus-pro-r1.github.io/)
@@ -523,13 +525,11 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.11]** Continuous Speculative Decoding for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2411.11925) [Code](https://github.com/MarkXCloud/CSpD)
   - **[ICLR, 2025/2024.10]** Accelerating Auto-regressive Text-to-Image Generation with Training-free Speculative Jacobi Decoding [Paper](https://arxiv.org/abs/2410.01699)
     
-### Stability & Analysis & Scaling 
+### Stability & Scaling 
   - **[Arxiv, 2025.03]** Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction [Paper](https://arxiv.org/pdf/2503.16194) [Code](https://github.com/GzyAftermath/CTF)
-  - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
   - **[Arxiv, 2025.03]** Teaching Metric Distance to Autoregressive Multimodal Foundational Models [Paper](https://arxiv.org/pdf/2503.02379) 
   - **[Arxiv, 2024.12]** 3D representation in 512-Byte: Variational tokenizer is the key for autoregressive 3D generation [Paper](https://arxiv.org/pdf/2412.02202) [Page](https://sparse-mvs-2.github.io/VAT.IO/)
   - **[Arxiv, 2024.12]** JetFormer: An autoregressive generative model of raw images and text [Paper](https://arxiv.org/pdf/2411.19722) 
-  - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
   - **[Arxiv, 2024.10]** Elucidating the Design Space of Language Models for Image Generation [Paper](https://arxiv.org/pdf/2410.16257) [Code](https://github.com/Pepper-lll/LMforImageGeneration)
   - **[NeurIPS, 2024]** Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective [Paper](https://arxiv.org/pdf/2410.12490) [Code](https://github.com/DAMO-NLP-SG/DiGIT)
   - **[Arxiv, 2024.09]** Pre-trained Language Models Do Not Help Auto-regressive Text-to-Image Generation [Paper](https://arxiv.org/pdf/2311.16201)
