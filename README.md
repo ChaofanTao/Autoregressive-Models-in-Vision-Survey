@@ -493,6 +493,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment
+  - **[Arxiv, 2025.06]** Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO [Paper](https://arxiv.org/abs/2505.17017) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   - **[Arxiv, 2025.06]** Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation [Paper](https://arxiv.org/pdf/2506.01480) [Code](https://janus-pro-r1.github.io/)
   - **[Arxiv, 2025.06]** ReasonGen-R1: CoT for Autoregressive Image Generation model through SFT and RL [Paper](https://arxiv.org/pdf/2505.24875) [Code](https://github.com/Franklin-Zhang0/ReasonGen-R1)
   - **[Arxiv, 2025.05]** UniRL: Self-Improving Unified Multimodal Models via Supervised and Reinforcement Learning [Paper](https://arxiv.org/pdf/2505.23380) [Code](https://github.com/showlab/UniRL)
