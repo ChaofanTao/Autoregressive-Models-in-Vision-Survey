@@ -376,6 +376,8 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.07]** Ovis-U1 Technical Report [Paper](https://arxiv.org/pdf/2506.23044) [Code](https://github.com/AIDC-AI/Ovis-U1)
+  - **[ICCV, 2025]** USP: Unified Self-Supervised Pretraining for Image Generation and Understanding [Paper](https://arxiv.org/abs/2503.06132) [Code](https://github.com/AMAP-ML/USP)
   - **[Arxiv, 2025.06]** UniCode²: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2506.20214) 
   - **[Arxiv, 2025.06]** OmniGen2: Exploration to Advanced Multimodal Generation [Paper](https://arxiv.org/pdf/2506.18871) [Code](https://github.com/VectorSpaceLab/OmniGen2)
   - **[Arxiv, 2025.06]** Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations [Paper](https://arxiv.org/pdf/2506.18898) [Code](https://github.com/csuhan/Tar)
@@ -540,7 +542,6 @@ We will actively maintain this repository by incorporating new research as it em
 -  [MIT 6.S978 Deep Generative Models](https://mit-6s978.github.io/assets/pdfs/lec3_ar.pdf) by Kaiming He
 -  [UvA DL Notebooks](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial12/Autoregressive_Image_Modeling.html)
 -  [MSC Deep Learning](https://hal.cse.msu.edu/teaching/2022-fall-deep-learning/18-autoregressive-models/#/2)
-
 
 ### Evaluation Metrics
 | Metric                              | Analysis Type               | Reference                                            |
