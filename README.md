@@ -120,6 +120,7 @@ We will actively maintain this repository by incorporating new research as it em
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.07]** Holistic Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2507.02358) [Code](https://github.com/CVMI-Lab/Hita)
     - **[Arxiv, 2025.06]** Instella-T2I: Pushing the Limits of 1D Discrete Latent Space Image Generation [Paper](https://arxiv.org/pdf/2506.21022) 
     - **[Arxiv, 2025.05]** D-AR: Diffusion via Autoregressive Models [Paper](https://arxiv.org/pdf/2505.23660) [Code](https://github.com/showlab/D-AR)
     - **[Arxiv, 2025.05]** Learning Adaptive and Temporally Causal Video Tokenization in a 1D Latent Space [Paper](https://arxiv.org/pdf/2505.17011) [Code](https://github.com/VisionXLab/AdapTok)
