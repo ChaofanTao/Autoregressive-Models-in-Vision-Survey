@@ -482,6 +482,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Benchmark / Analysis
+  - **[Arxiv, 2025.05]** ImgEdit: A Unified Image Editing Dataset and Benchmark [Paper](https://arxiv.org/abs/2505.20275) [Code](https://github.com/PKU-YuanGroup/ImgEdit)
   - **[Arxiv, 2025.05]** Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing [Paper](https://arxiv.org/pdf/2504.02826) [Code](https://github.com/PhoenixZ810/RISEBench)
   - **[Arxiv, 2025.05]** Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23043) [Code](https://github.com/MajorDavidZhang/Generalization_unified_VLM)
   - **[Arxiv, 2025.05]** TokBench: Evaluating Your Visual Tokenizer before Visual Generation [Paper](https://arxiv.org/pdf/2505.18142) [Code](https://github.com/wjf5203/TokBench)
