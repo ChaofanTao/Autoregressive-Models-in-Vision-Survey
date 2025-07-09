@@ -238,6 +238,7 @@ We will actively maintain this repository by incorporating new research as it em
      - **[Arxiv, 2021.02]** **DALL-E 1:** Zero-Shot Text-to-Image Generation [Paper](https://arxiv.org/pdf/2102.12092)
  
 - ##### Scale-wise Generation
+     - **[Arxiv, 2025.07]** A Training-Free Style-Personalization via Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2507.04482)
      - **[Arxiv, 2025.04]** A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2504.06144) 
      - **[Arxiv, 2024.12]** Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2412.04431) [Code](https://github.com/FoundationVision/Infinity)
      - **[Arxiv, 2024.12]** **SWITTI**: Designing Scale-Wise Transformers for Text-to-Image Synthesis [Paper](https://arxiv.org/pdf/2412.01819) [Code](https://github.com/yandex-research/switti) [Page](https://yandex-research.github.io/switti/)
@@ -371,12 +372,12 @@ We will actively maintain this repository by incorporating new research as it em
   - **[MIDL, 2024]** Conditional Generation of 3D Brain Tumor ROIs via VQGAN and Temporal-Agnostic Masked Transformer [Paper](https://openreview.net/pdf?id=LLoSHPorlM)
   - **[NMI, 2024]** Realistic morphology-preserving generative modelling of the brain [Paper](https://www.nature.com/articles/s42256-024-00864-0) [Code](https://github.com/AmigoLab/BrainSynth)
   - **[Arxiv, 2023]** Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks [Paper](https://arxiv.org/pdf/2310.01251)
-    ```medical image-to-image translation```
   - **[ICCV, 2023]** Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.pdf) [Code](https://github.com/samb-t/x2ct-vqvae)
   - **[MICCAI, 2022]** Morphology-preserving Autoregressive 3D Generative Modelling of the Brain [Paper](https://arxiv.org/pdf/2209.03177) [Code](https://github.com/AmigoLab/SynthAnatomy)
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.07]** Omni-Video: Democratizing Unified Video Understanding and Generation [Paper](https://arxiv.org/pdf/2507.06119) [Code](https://github.com/SAIS-FUXI/Omni-Video)
   - **[Arxiv, 2025.07]** Ovis-U1 Technical Report [Paper](https://arxiv.org/pdf/2506.23044) [Code](https://github.com/AIDC-AI/Ovis-U1)
   - **[ICCV, 2025]** USP: Unified Self-Supervised Pretraining for Image Generation and Understanding [Paper](https://arxiv.org/abs/2503.06132) [Code](https://github.com/AMAP-ML/USP)
   - **[Arxiv, 2025.06]** UniCode²: Cascaded Large-scale Codebooks for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2506.20214) 
@@ -496,7 +497,8 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.03]** Error Analyses of Auto-Regressive Video Diffusion Models: A Unified Framework [Paper](https://arxiv.org/pdf/2503.10704) [Code](https://github.com/sail-sg/Meta-ARVDM)
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
-### Reasoning Alignment
+### Reasoning Alignment 
+  - **[Arxiv, 2025.07]** CoT-lized Diffusion: Let’s Reinforce T2I Generation Step-by-step [Paper](https://arxiv.org/pdf/2507.04451) 
   - **[Arxiv, 2025.06]** Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO [Paper](https://arxiv.org/abs/2505.17017) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   - **[Arxiv, 2025.06]** Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation [Paper](https://arxiv.org/pdf/2506.01480) [Code](https://janus-pro-r1.github.io/)
   - **[Arxiv, 2025.06]** ReasonGen-R1: CoT for Autoregressive Image Generation model through SFT and RL [Paper](https://arxiv.org/pdf/2505.24875) [Code](https://github.com/Franklin-Zhang0/ReasonGen-R1)
