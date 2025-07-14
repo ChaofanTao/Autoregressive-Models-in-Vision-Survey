@@ -120,6 +120,7 @@ We will actively maintain this repository by incorporating new research as it em
   - ##### Token-wise Generation
     
     ##### Tokenizer
+    - **[Arxiv, 2025.07]** Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Generation [Paper](https://arxiv.org/pdf/2507.08441)
     - **[Arxiv, 2025.07]** Holistic Tokenizer for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2507.02358) [Code](https://github.com/CVMI-Lab/Hita)
     - **[Arxiv, 2025.06]** Instella-T2I: Pushing the Limits of 1D Discrete Latent Space Image Generation [Paper](https://arxiv.org/pdf/2506.21022) 
     - **[Arxiv, 2025.05]** D-AR: Diffusion via Autoregressive Models [Paper](https://arxiv.org/pdf/2505.23660) [Code](https://github.com/showlab/D-AR)
@@ -292,6 +293,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 #### Conditional Video Generation
    - ##### Text-to-Video Generation
+     - **[Arxiv, 2025.07]** Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective [Paper](https://arxiv.org/pdf/2507.08801) [Code](https://github.com/alibaba-damo-academy/Lumos)
      - **[Arxiv, 2025.06]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/pdf/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
      - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
      - **[Arxiv, 2025.04]** **MAGI-1**: Autoregressive Video Generation at Scale [Paper](https://static.magi.world/static/files/MAGI_1.pdf) [Code](https://github.com/SandAI-org/MAGI-1)
