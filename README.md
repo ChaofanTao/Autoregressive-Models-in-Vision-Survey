@@ -72,6 +72,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 
 ## 📖 Table of Contents
+- [📑 Citation](#-citation)
 - [📣 Update News](#-update-news)
 - [⚡ Contributing](#-contributing)
 - [📖 Table of Contents](#-table-of-contents)
@@ -91,16 +92,15 @@ We will actively maintain this repository by incorporating new research as it em
   - [Multimodal Generation](#multimodal-generation)
     - [Unified Understanding and Generation Multi-Modal LLMs](#unified-understanding-and-generation-multi-modal-llms)
   - [Other Generation](#other-generation)
-  - [Accelerating \& Stability \& Analysis \& Scaling \& Safety \& Benchmark](#accelerating--stability--analysis--scaling--safety--benchmark)
+  - [Benchmark / Analysis](#benchmark--analysis)
+  - [Reasoning Alignment](#reasoning-alignment)
+  - [Safety](#safety)
+  - [Accelerating](#accelerating)
+  - [Stability \& Scaling](#stability--scaling)
   - [Tutorial](#tutorial)
   - [Evaluation Metrics](#evaluation-metrics)
-- [Star History](#star-history)
+- [👍 Acknowledgement](#-acknowledgement)
 - [♥️ Contributors](#️-contributors)
-- [📑 Citation](#-citation)
-
-<div align=center>
-<img src="img/outline_new.png" width="800px">
-</div>
 
 -----
 
@@ -487,7 +487,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Benchmark / Analysis
   - **[Arxiv, 2025.05]** ImgEdit: A Unified Image Editing Dataset and Benchmark [Paper](https://arxiv.org/abs/2505.20275) [Code](https://github.com/PKU-YuanGroup/ImgEdit)
-  - **[Arxiv, 2025.05]** Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing [Paper](https://arxiv.org/pdf/2504.02826) [Code](https://github.com/PhoenixZ810/RISEBench)
+  - **[Arxiv, 2025.05]** RISEBench: Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing [Paper](https://arxiv.org/pdf/2504.02826) [Code](https://github.com/PhoenixZ810/RISEBench)
   - **[Arxiv, 2025.05]** Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23043) [Code](https://github.com/MajorDavidZhang/Generalization_unified_VLM)
   - **[Arxiv, 2025.05]** TokBench: Evaluating Your Visual Tokenizer before Visual Generation [Paper](https://arxiv.org/pdf/2505.18142) [Code](https://github.com/wjf5203/TokBench)
   - **[Arxiv, 2025.05]** VTBench: Evaluating Visual Tokenizers for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.13439) [Code](https://github.com/huawei-lin/VTBench)
