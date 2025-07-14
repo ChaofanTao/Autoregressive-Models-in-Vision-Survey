@@ -72,10 +72,6 @@ We will actively maintain this repository by incorporating new research as it em
 
 
 ## 📖 Table of Contents
-- [📑 Citation](#-citation)
-- [📣 Update News](#-update-news)
-- [⚡ Contributing](#-contributing)
-- [📖 Table of Contents](#-table-of-contents)
   - [Image Generation](#image-generation)
     - [Unconditional/Class-Conditioned Image Generation](#unconditionalclass-conditioned-image-generation)
     - [Text-to-Image Generation](#text-to-image-generation)
@@ -99,9 +95,6 @@ We will actively maintain this repository by incorporating new research as it em
   - [Stability \& Scaling](#stability--scaling)
   - [Tutorial](#tutorial)
   - [Evaluation Metrics](#evaluation-metrics)
-- [👍 Acknowledgement](#-acknowledgement)
-- [♥️ Contributors](#️-contributors)
-
 -----
 
 ### Image Generation
