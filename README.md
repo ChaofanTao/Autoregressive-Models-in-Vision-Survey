@@ -205,7 +205,6 @@ We will actively maintain this repository by incorporating new research as it em
 #### Text-to-Image Generation
 - ##### Token-wise Generation
      - **[ICML, 2025]** Discrete JEPA: Learning Discrete Token Representations without Reconstruction [Paper](https://arxiv.org/pdf/2506.14373) 
-     - **[Arxiv, 2025.04]** Personalized Text-to-Image Generation with Auto-Regressive Models [Paper](https://arxiv.org/pdf/2504.13162) [Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)
      - **[Arxiv, 2025.04]** Lumina-mGPT 2.0: Stand-alone Autoregressive Image Modeling [Paper]() [Code](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
      - **[Arxiv, 2025.03]** Lumina-Image 2.0: A Unified and Efficient Image Generative Framework [Paper](https://arxiv.org/pdf/2503.21758?) [Code](https://github.com/Alpha-VLLM/Lumina-Image-2.0)
      - **[Arxiv, 2024.12]** Liquid: Language Models are Scalable Multi-modal Generators [Paper](https://arxiv.org/abs/2412.04332) [Code](https://github.com/FoundationVision/Liquid)
@@ -232,8 +231,6 @@ We will actively maintain this repository by incorporating new research as it em
      - **[Arxiv, 2021.02]** **DALL-E 1:** Zero-Shot Text-to-Image Generation [Paper](https://arxiv.org/pdf/2102.12092)
  
 - ##### Scale-wise Generation
-     - **[Arxiv, 2025.07]** A Training-Free Style-Personalization via Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2507.04482)
-     - **[Arxiv, 2025.04]** A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2504.06144) 
      - **[Arxiv, 2024.12]** Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2412.04431) [Code](https://github.com/FoundationVision/Infinity)
      - **[Arxiv, 2024.12]** **SWITTI**: Designing Scale-Wise Transformers for Text-to-Image Synthesis [Paper](https://arxiv.org/pdf/2412.01819) [Code](https://github.com/yandex-research/switti) [Page](https://yandex-research.github.io/switti/)
      - **[Arxiv, 2024.10]** **HART**: Efficient Visual Generation with Hybrid Autoregressive Transformer [Paper](https://arxiv.org/abs/2410.10812) [Code](https://github.com/mit-han-lab/hart)
@@ -442,11 +439,17 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2021.12]** **ERNIE-ViLG**: Unified Generative Pre-training for Bidirectional Vision-Language Generation [Paper](https://arxiv.org/pdf/2112.15283) 
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
+### Personalized Image Generation
+  - **[ICCV, 2025]** CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models [Paper](https://arxiv.org/abs/2507.13984)
+  - **[Arxiv, 2025.07]** A Training-Free Style-Personalization via Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2507.04482)
+  - **[Arxiv, 2025.04]** A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2504.06144) 
+  - **[Arxiv, 2025.04]** Personalized Text-to-Image Generation with Auto-Regressive Models [Paper](https://arxiv.org/pdf/2504.13162) [Code](https://github.com/KaiyueSun98/T2I-Personalization-with-AR)
+  - **[CVPR, 2025]** Zero-Shot Styled Text Image Generation, but Make It Autoregressive [Paper](https://arxiv.org/pdf/2503.17074)
+
 ### Other Generation
   - **[Arxiv, 2025.05]** RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration [Paper](https://arxiv.org/pdf/2505.18047) [Code](https://github.com/sudraj2002/RestoreVAR)
   - **[Arxiv, 2025.04]** TAPNext: Tracking Any Point (TAP) as Next Token Prediction [Paper](https://arxiv.org/pdf/2504.05579) 
   - **[Arxiv, 2025.04]** Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models [Paper](https://arxiv.org/pdf/2503.20198) [Code](https://fingerrec.github.io/longtextar/)
-  - **[CVPR, 2025]** Zero-Shot Styled Text Image Generation, but Make It Autoregressive [Paper](https://arxiv.org/pdf/2503.17074) 
   - **[Arxiv, 2025.03]** VARSR: Visual Autogressive Modeling for Image Super Resolution [Paper](https://arxiv.org/abs/2501.18993) [Code](https://github.com/quyp2000/VARSR)
   - **[Arxiv, 2025.03]** Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers [Paper](https://arxiv.org/pdf/2503.13588) [Code](https://github.com/Shiran-Yuan/ArchonView)
   - **[Arxiv, 2025.03]** Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models [Paper](https://arxiv.org/pdf/2503.11073) [Code](https://github.com/nonwhy/PURE)
