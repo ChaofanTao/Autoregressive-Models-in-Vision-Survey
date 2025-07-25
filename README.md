@@ -152,6 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.07]** TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation [Paper](https://arxiv.org/pdf/2507.18537) [Code](https://github.com/ali-vilab/TTS-VAR)
     - **[Arxiv, 2025.07]** Transition Matching: Scalable and Flexible Generative Modeling [Paper](https://arxiv.org/pdf/2506.23589)
     - **[Arxiv, 2025.07]** Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis [Paper](https://arxiv.org/pdf/2507.01756) 
     - **[CVPR, 2025]** OmniGen: Unified Image Generation [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Xiao_OmniGen_Unified_Image_Generation_CVPR_2025_paper.html) [Code](https://github.com/VectorSpaceLab/OmniGen)
