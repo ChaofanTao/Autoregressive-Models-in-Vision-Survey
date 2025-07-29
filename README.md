@@ -152,6 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.07]** Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2507.20454) [Code](https://github.com/Caesarhhh/SparseVAR)
     - **[Arxiv, 2025.07]** TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation [Paper](https://arxiv.org/pdf/2507.18537) [Code](https://github.com/ali-vilab/TTS-VAR)
     - **[Arxiv, 2025.07]** Transition Matching: Scalable and Flexible Generative Modeling [Paper](https://arxiv.org/pdf/2506.23589)
     - **[Arxiv, 2025.07]** Rethinking Discrete Tokens: Treating Them as Conditions for Continuous Autoregressive Image Synthesis [Paper](https://arxiv.org/pdf/2507.01756) 
@@ -250,6 +251,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 
 #### Image Editing
+  - **[Arxiv, 2025.07]** SCALAR: Scale-wise Controllable Visual Autoregressive Learning [Paper](https://arxiv.org/pdf/2507.19946) 
   - **[Arxiv, 2025.04]** Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing [Paper](https://arxiv.org/pdf/2504.10434) [Code](https://github.com/hutaiHang/ATM)
   - **[ICCV, 2025]** Training-Free Text-Guided Image Editing with Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2503.23897) [Code](https://github.com/wyf0912/AREdit)
   - **[Arxiv, 2025.01]** EditAR: Unified Conditional Generation with Autoregressive Models [Paper](https://arxiv.org/pdf/2501.04699) [Code](https://github.com/JitengMu/EditAR)
@@ -484,6 +486,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Benchmark / Analysis
+  - **[Arxiv, 2025.07]** GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset [Paper](https://arxiv.org/pdf/2507.21033) [Code](https://github.com/wyhlovecpp/GPT-Image-Edit/tree/main)
   - **[Arxiv, 2025.05]** ImgEdit: A Unified Image Editing Dataset and Benchmark [Paper](https://arxiv.org/abs/2505.20275) [Code](https://github.com/PKU-YuanGroup/ImgEdit)
   - **[Arxiv, 2025.05]** RISEBench: Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing [Paper](https://arxiv.org/pdf/2504.02826) [Code](https://github.com/PhoenixZ810/RISEBench)
   - **[Arxiv, 2025.05]** Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation [Paper](https://arxiv.org/pdf/2505.23043) [Code](https://github.com/MajorDavidZhang/Generalization_unified_VLM)
