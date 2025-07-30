@@ -501,6 +501,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv, 2025.07]** X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again [Paper](https://arxiv.org/pdf/2507.22058) [Code](https://github.com/X-Omni-Team/X-Omni) [Page](https://x-omni-team.github.io/)
   - **[Arxiv, 2025.07]** CoT-lized Diffusion: Let’s Reinforce T2I Generation Step-by-step [Paper](https://arxiv.org/pdf/2507.04451) 
   - **[Arxiv, 2025.06]** Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO [Paper](https://arxiv.org/abs/2505.17017) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
   - **[Arxiv, 2025.06]** Unlocking Aha Moments via Reinforcement Learning: Advancing Collaborative Visual Comprehension and Generation [Paper](https://arxiv.org/pdf/2506.01480) [Code](https://janus-pro-r1.github.io/)
