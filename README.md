@@ -249,7 +249,6 @@ We will actively maintain this repository by incorporating new research as it em
   - **[NeurIPS, 2022]** Visual prompting via image inpainting [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f09f316a3eaf59d9ced5ffaefe97e0f-Abstract-Conference.html)
   - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
-
 #### Image Editing
   - **[Arxiv, 2025.07]** SCALAR: Scale-wise Controllable Visual Autoregressive Learning [Paper](https://arxiv.org/pdf/2507.19946) 
   - **[Arxiv, 2025.04]** Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing [Paper](https://arxiv.org/pdf/2504.10434) [Code](https://github.com/hutaiHang/ATM)
@@ -263,9 +262,6 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ECCV, 2022]** **VQGAN-CLIP:** Open Domain Image Generation and Editing with Natural Language Guidance [Paper](https://arxiv.org/pdf/2204.08583)
   - **[ECCV, 2022]** **Make-A-Scene:** Scene-Based Text-to-Image Generation with Human Priors [Paper](https://arxiv.org/pdf/2203.13131)
   - **[ICIP, 2021]** **MSGNet:** Generating annotated high-fidelity images containing multiple coherent objects [Paper](https://arxiv.org/pdf/2006.12150)
-
-
-
 
 ### Video Generation
 #### Unconditional Video Generation
@@ -308,7 +304,6 @@ We will actively maintain this repository by incorporating new research as it em
      - **[Arxiv, 2022.05]** **GODIVA**: Generating Open-DomaIn Videos from nAtural Descriptions [Paper](https://arxiv.org/pdf/2104.14806)
      - **[IJCAI, 2021]** **IRC-GAN**: Introspective Recurrent Convolutional GAN for Text-to-video Generation. [Paper](https://www.ijcai.org/Proceedings/2019/0307.pdf)
     
-     
    - ##### Visual Conditional Video Generation
      - **[Arxiv, 2025.06]** VideoMAR: Autoregressive Video Generation with Continuous Tokens [Paper](https://arxiv.org/pdf/2506.14168) [Code](https://yuhuustc.github.io//projects/VideoMAR.html)
      - **[Arxiv, 2025.06]** DeepVerse: 4D Autoregressive Video Generation as a World Model [Paper](https://arxiv.org/pdf/2506.01103) [Code](https://github.com/SOTAMak1r/DeepVerse)
@@ -373,6 +368,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.08]** Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation [Paper](https://github.com/SkyworkAI/UniPic/blob/main/UNIPIC.pdf) [Code](https://github.com/SkyworkAI/UniPic)
   - **[Arxiv, 2025.07]** Omni-Video: Democratizing Unified Video Understanding and Generation [Paper](https://arxiv.org/pdf/2507.06119) [Code](https://github.com/SAIS-FUXI/Omni-Video)
   - **[Arxiv, 2025.07]** Ovis-U1 Technical Report [Paper](https://arxiv.org/pdf/2506.23044) [Code](https://github.com/AIDC-AI/Ovis-U1)
   - **[ICCV, 2025]** USP: Unified Self-Supervised Pretraining for Image Generation and Understanding [Paper](https://arxiv.org/abs/2503.06132) [Code](https://github.com/AMAP-ML/USP)
@@ -501,6 +497,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv, 2025.08]** The Promise of RL for Autoregressive Image Editing [Paper](https://arxiv.org/pdf/2508.01119) [Code](https://github.com/mair-lab/EARL)
   - **[Arxiv, 2025.07]** X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again [Paper](https://arxiv.org/pdf/2507.22058) [Code](https://github.com/X-Omni-Team/X-Omni) [Page](https://x-omni-team.github.io/)
   - **[Arxiv, 2025.07]** CoT-lized Diffusion: Let’s Reinforce T2I Generation Step-by-step [Paper](https://arxiv.org/pdf/2507.04451) 
   - **[Arxiv, 2025.06]** Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO [Paper](https://arxiv.org/abs/2505.17017) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
