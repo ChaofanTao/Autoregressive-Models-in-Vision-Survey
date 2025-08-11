@@ -368,7 +368,8 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
-  - **[Arxiv, 2025.08]** Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation [Paper](https://github.com/SkyworkAI/UniPic/blob/main/UNIPIC.pdf) [Code](https://github.com/SkyworkAI/UniPic)
+  - **[Arxiv, 2025.08]** UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying [Paper](https://arxiv.org/pdf/2508.03142) 
+  - **[Arxiv, 2025.08]** Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2508.03320) [Code](https://github.com/SkyworkAI/UniPic)
   - **[Arxiv, 2025.07]** Omni-Video: Democratizing Unified Video Understanding and Generation [Paper](https://arxiv.org/pdf/2507.06119) [Code](https://github.com/SAIS-FUXI/Omni-Video)
   - **[Arxiv, 2025.07]** Ovis-U1 Technical Report [Paper](https://arxiv.org/pdf/2506.23044) [Code](https://github.com/AIDC-AI/Ovis-U1)
   - **[ICCV, 2025]** USP: Unified Self-Supervised Pretraining for Image Generation and Understanding [Paper](https://arxiv.org/abs/2503.06132) [Code](https://github.com/AMAP-ML/USP)
