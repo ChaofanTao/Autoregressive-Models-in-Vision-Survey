@@ -250,6 +250,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
 #### Image Editing
+  - **[Arxiv, 2025.08]** NEP: Autoregressive Image Editing via Next Editing Token Prediction [Paper](https://arxiv.org/pdf/2508.06044) [Code](https://nep-bigai.github.io/)
   - **[Arxiv, 2025.07]** SCALAR: Scale-wise Controllable Visual Autoregressive Learning [Paper](https://arxiv.org/pdf/2507.19946) 
   - **[Arxiv, 2025.04]** Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing [Paper](https://arxiv.org/pdf/2504.10434) [Code](https://github.com/hutaiHang/ATM)
   - **[ICCV, 2025]** Training-Free Text-Guided Image Editing with Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2503.23897) [Code](https://github.com/wyf0912/AREdit)
@@ -377,6 +378,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.08]** Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents [Paper](https://arxiv.org/pdf/2508.05954) [Code](https://github.com/HL-hanlin/Bifrost-1)
   - **[Arxiv, 2025.08]** Uni-COT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [Paper](https://arxiv.org/pdf/2508.05606) [Code](https://github.com/Fr0zenCrane/UniCoT)
   - **[Arxiv, 2025.08]** UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying [Paper](https://arxiv.org/pdf/2508.03142) 
   - **[Arxiv, 2025.08]** Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2508.03320) [Code](https://github.com/SkyworkAI/UniPic)
