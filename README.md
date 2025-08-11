@@ -286,7 +286,6 @@ We will actively maintain this repository by incorporating new research as it em
      - **[Arxiv, 2025.07]** Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective [Paper](https://arxiv.org/pdf/2507.08801) [Code](https://github.com/alibaba-damo-academy/Lumos)
      - **[Arxiv, 2025.06]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/pdf/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
      - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
-     - **[Arxiv, 2025.04]** **MAGI-1**: Autoregressive Video Generation at Scale [Paper](https://static.magi.world/static/files/MAGI_1.pdf) [Code](https://github.com/SandAI-org/MAGI-1)
      - **[Arxiv, 2024.12]** **DiCoDe**: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models [Paper](https://arxiv.org/pdf/2412.04446) [Page](https://liyizhuo.com/DiCoDe/)
      - **[Arxiv, 2024.11]** Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing [Paper](https://arxiv.org/pdf/2411.16375) [Code](https://github.com/Dawn-LX/CausalCache-VDM/)
      - **[Arxiv, 2024.10]**  **ARLON**: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation [Paper](https://arxiv.org/pdf/2410.20502)  [Code](http://aka.ms/arlon)
@@ -326,6 +325,16 @@ We will actively maintain this repository by incorporating new research as it em
       - **[ICML, 2024]** **VideoPoet**: A Large Language Model for Zero-Shot Video Generation [Paper](https://arxiv.org/pdf/2312.14125)
       - **[CVPR, 2023]** **MAGVIT**: Masked Generative Video Transformer [Paper](https://arxiv.org/pdf/2212.05199)
       - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
+
+#### AutoRegressive Diffusion-Forcing Video Generation
+  - **[Arxiv, 2025.08]** Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation [Paper](https://www.arxiv.org/abs/2508.03334) [Project](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) [Code](https://github.com/xbxsxp9/MMPL)
+  - **[Arxiv, 2025.05]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/abs/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
+  - **[Arxiv, 2025.04]** **MAGI-1**: Autoregressive Video Generation at Scale [Paper](https://static.magi.world/static/files/MAGI_1.pdf) [Code](https://github.com/SandAI-org/MAGI-1)
+  - **[Arxiv, 2025.04]** SkyReels-V2: Infinite-length Film Generative Model [Paper](https://arxiv.org/abs/2504.13074) [Code](https://github.com/SkyworkAI/SkyReels-V2)
+  - **[Arxiv, 2025.04]** Packing Input Frame Context in Next-Frame Prediction Models for Video Generation [Paper](https://arxiv.org/abs/2504.12626) [Code](https://arxiv.org/abs/2504.12626)
+  - **[CVPR, 2025]** AR-Diffusion: Asynchronous Video Generation with Auto-Regressive Diffusion [Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_AR-Diffusion_Asynchronous_Video_Generation_with_Auto-Regressive_Diffusion_CVPR_2025_paper.html) [Code](https://github.com/iva-mzsun/AR-Diffusion)
+  - **[CVPR, 2025]** From Slow Bidirectional to Fast Autoregressive Video Diffusion Models [Paper](https://arxiv.org/abs/2412.07772) [Code](https://github.com/tianweiy/CausVid)
+  - **[NeurIPS, 2024]** FIFO-Diffusion: Generating Infinite Videos from Text without Training [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a397986e0f34d4b1f0b640686ceaeff7-Abstract-Conference.html) [Code](https://github.com/jjihwan/FIFO-Diffusion_public)
 
 #### Embodied AI
    - **[Arxiv, 2025.03]** HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model [Paper](https://arxiv.org/pdf/2503.10631) [Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA)
