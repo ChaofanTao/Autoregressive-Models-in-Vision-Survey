@@ -377,6 +377,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.08]** Uni-COT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [Paper](https://arxiv.org/pdf/2508.05606) [Code](https://github.com/Fr0zenCrane/UniCoT)
   - **[Arxiv, 2025.08]** UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying [Paper](https://arxiv.org/pdf/2508.03142) 
   - **[Arxiv, 2025.08]** Skywork UniPic: Unified Autoregressive Modeling for Visual Understanding and Generation [Paper](https://arxiv.org/pdf/2508.03320) [Code](https://github.com/SkyworkAI/UniPic)
   - **[Arxiv, 2025.07]** Omni-Video: Democratizing Unified Video Understanding and Generation [Paper](https://arxiv.org/pdf/2507.06119) [Code](https://github.com/SAIS-FUXI/Omni-Video)
