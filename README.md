@@ -249,7 +249,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[NeurIPS, 2022]** Visual prompting via image inpainting [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f09f316a3eaf59d9ced5ffaefe97e0f-Abstract-Conference.html)
   - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
-#### Image Editing
+#### Image Editin
   - **[Arxiv, 2025.08]** NEP: Autoregressive Image Editing via Next Editing Token Prediction [Paper](https://arxiv.org/pdf/2508.06044) [Code](https://nep-bigai.github.io/)
   - **[Arxiv, 2025.07]** SCALAR: Scale-wise Controllable Visual Autoregressive Learning [Paper](https://arxiv.org/pdf/2507.19946) 
   - **[Arxiv, 2025.04]** Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing [Paper](https://arxiv.org/pdf/2504.10434) [Code](https://github.com/hutaiHang/ATM)
@@ -378,6 +378,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.08]** TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning [Paper](https://arxiv.org/pdf/2508.08098) [Code](https://github.com/DruryXu/TBAC-UniImage)
   - **[Arxiv, 2025.08]** Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents [Paper](https://arxiv.org/pdf/2508.05954) [Code](https://github.com/HL-hanlin/Bifrost-1)
   - **[Arxiv, 2025.08]** Uni-COT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [Paper](https://arxiv.org/pdf/2508.05606) [Code](https://github.com/Fr0zenCrane/UniCoT)
   - **[Arxiv, 2025.08]** UniEdit-I: Training-free Image Editing for Unified VLM via Iterative Understanding, Editing and Verifying [Paper](https://arxiv.org/pdf/2508.03142) 
@@ -455,6 +456,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Personalized Image Generation
+  - **[Arxiv, 2025.08]** CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation [Paper](https://arxiv.org/pdf/2508.07341) [Code](https://github.com/KZF-kzf/CoAR)
   - **[ICCV, 2025]** CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models [Paper](https://arxiv.org/abs/2507.13984)
   - **[Arxiv, 2025.07]** A Training-Free Style-Personalization via Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2507.04482)
   - **[Arxiv, 2025.04]** A Training-Free Style-aligned Image Generation with Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2504.06144) 
@@ -512,6 +514,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv, 2025.08]** AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [Paper](https://arxiv.org/pdf/2508.06924) [Code](https://github.com/Kwai-Klear/AR-GRPO)
   - **[Arxiv, 2025.08]** The Promise of RL for Autoregressive Image Editing [Paper](https://arxiv.org/pdf/2508.01119) [Code](https://github.com/mair-lab/EARL)
   - **[Arxiv, 2025.07]** X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again [Paper](https://arxiv.org/pdf/2507.22058) [Code](https://github.com/X-Omni-Team/X-Omni) [Page](https://x-omni-team.github.io/)
   - **[Arxiv, 2025.07]** CoT-lized Diffusion: Let’s Reinforce T2I Generation Step-by-step [Paper](https://arxiv.org/pdf/2507.04451) 
