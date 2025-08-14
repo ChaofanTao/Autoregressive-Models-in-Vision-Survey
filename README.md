@@ -152,6 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.08]** NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale [Paper](https://github.com/stepfun-ai/NextStep-1/blob/main/nextstep_1_tech_report.pdf) [Code](https://github.com/stepfun-ai/NextStep-1)
     - **[Arxiv, 2025.07]** Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2507.20454) [Code](https://github.com/Caesarhhh/SparseVAR)
     - **[Arxiv, 2025.07]** TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation [Paper](https://arxiv.org/pdf/2507.18537) [Code](https://github.com/ali-vilab/TTS-VAR)
     - **[Arxiv, 2025.07]** Transition Matching: Scalable and Flexible Generative Modeling [Paper](https://arxiv.org/pdf/2506.23589)
@@ -249,7 +250,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[NeurIPS, 2022]** Visual prompting via image inpainting [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9f09f316a3eaf59d9ced5ffaefe97e0f-Abstract-Conference.html)
   - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
-#### Image Editin
+#### Image Editing
   - **[Arxiv, 2025.08]** NEP: Autoregressive Image Editing via Next Editing Token Prediction [Paper](https://arxiv.org/pdf/2508.06044) [Code](https://nep-bigai.github.io/)
   - **[Arxiv, 2025.07]** SCALAR: Scale-wise Controllable Visual Autoregressive Learning [Paper](https://arxiv.org/pdf/2507.19946) 
   - **[Arxiv, 2025.04]** Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing [Paper](https://arxiv.org/pdf/2504.10434) [Code](https://github.com/hutaiHang/ATM)
