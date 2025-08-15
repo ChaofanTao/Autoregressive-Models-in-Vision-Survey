@@ -152,7 +152,8 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
-    - **[Arxiv, 2025.08]** NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale [Paper](https://github.com/stepfun-ai/NextStep-1/blob/main/nextstep_1_tech_report.pdf) [Code](https://github.com/stepfun-ai/NextStep-1)
+    - **[Arxiv, 2025.08]** Exploiting Discriminative Codebook Prior for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2508.10719) 
+    - **[Arxiv, 2025.08]** NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale [Paper](https://arxiv.org/pdf/2508.10711) [Code](https://github.com/stepfun-ai/NextStep-1)
     - **[Arxiv, 2025.07]** Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2507.20454) [Code](https://github.com/Caesarhhh/SparseVAR)
     - **[Arxiv, 2025.07]** TTS-VAR: A Test-Time Scaling Framework for Visual Auto-Regressive Generation [Paper](https://arxiv.org/pdf/2507.18537) [Code](https://github.com/ali-vilab/TTS-VAR)
     - **[Arxiv, 2025.07]** Transition Matching: Scalable and Flexible Generative Modeling [Paper](https://arxiv.org/pdf/2506.23589)
@@ -500,6 +501,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Benchmark / Analysis
+  - **[Arxiv, 2025.08]** Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation [Paper](https://arxiv.org/abs/2508.09987) [Code](https://github.com/yejy53/Echo-4o)
   - **[Arxiv, 2025.07]** GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset [Paper](https://arxiv.org/pdf/2507.21033) [Code](https://github.com/wyhlovecpp/GPT-Image-Edit/tree/main)
   - **[Arxiv, 2025.05]** ImgEdit: A Unified Image Editing Dataset and Benchmark [Paper](https://arxiv.org/abs/2505.20275) [Code](https://github.com/PKU-YuanGroup/ImgEdit)
   - **[Arxiv, 2025.05]** RISEBench: Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing [Paper](https://arxiv.org/pdf/2504.02826) [Code](https://github.com/PhoenixZ810/RISEBench)
