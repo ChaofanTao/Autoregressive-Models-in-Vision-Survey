@@ -252,6 +252,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
 #### Image Editing
+  - **[Arxiv, 2025.08]** Visual Autoregressive Modeling for Instruction-Guided Image Editing [Paper](https://arxiv.org/pdf/2508.15772) [Code](https://github.com/HiDream-ai/VAREdit) 
   - **[Arxiv, 2025.08]** NEP: Autoregressive Image Editing via Next Editing Token Prediction [Paper](https://arxiv.org/pdf/2508.06044) [Code](https://nep-bigai.github.io/)
   - **[Arxiv, 2025.07]** SCALAR: Scale-wise Controllable Visual Autoregressive Learning [Paper](https://arxiv.org/pdf/2507.19946) 
   - **[Arxiv, 2025.04]** Anchor Token Matching: Implicit Structure Locking for Training-free AR Image Editing [Paper](https://arxiv.org/pdf/2504.10434) [Code](https://github.com/hutaiHang/ATM)
