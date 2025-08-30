@@ -331,6 +331,7 @@ We will actively maintain this repository by incorporating new research as it em
       - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
 
 #### AutoRegressive Diffusion-Forcing Video Generation
+  - **[Arxiv, 2025.08]** MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation [Paper](https://arxiv.org/pdf/2508.19320) [Project](https://chenmingthu.github.io/milm/)
   - **[Arxiv, 2025.08]** Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation [Paper](https://www.arxiv.org/abs/2508.03334) [Project](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) [Code](https://github.com/xbxsxp9/MMPL)
   - **[Arxiv, 2025.05]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/abs/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
   - **[Arxiv, 2025.04]** **MAGI-1**: Autoregressive Video Generation at Scale [Paper](https://static.magi.world/static/files/MAGI_1.pdf) [Code](https://github.com/SandAI-org/MAGI-1)
