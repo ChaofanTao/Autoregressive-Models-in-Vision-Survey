@@ -201,6 +201,7 @@ We will actively maintain this repository by incorporating new research as it em
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
     
   - ##### Scale-wise AutoRegressive Generation
+    - **[Arxiv, 2025.05]** Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction [Paper](https://arxiv.org/pdf/2502.04521) [Code](https://github.com/icon-lab/FedGAT)
     - **[ICML, 2025]** Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/pdf/2505.07812) [Code](https://github.com/shaochenze/EAR)
     - **[Arxiv, 2025.02]** **FlexVAR**: Flexible Visual Autoregressive Modeling without Residual Prediction [Paper](https://arxiv.org/abs/2502.20313) [Code](https://github.com/jiaosiyu1999/FlexVAR)
     - **[Arxiv, 2024.12]** **FlowAR**: Scale-wise Autoregressive Image Generation Meets Flow Matching [Paper](https://arxiv.org/abs/2412.15205) [Code](https://github.com/OliverRensu/FlowAR)
@@ -252,6 +253,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[MM, 2021]** Diverse image inpainting with bidirectional and autoregressive transformers [Paper](https://arxiv.org/pdf/2104.12335)
 
 #### Image Editing
+  - **[Arxiv, 2025.09]** Discrete Noise Inversion for Next-scale Autoregressive Text-based Image Editing [Paper](https://arxiv.org/pdf/2509.01984v1) 
   - **[Arxiv, 2025.08]** Visual Autoregressive Modeling for Instruction-Guided Image Editing [Paper](https://arxiv.org/pdf/2508.15772) [Code](https://github.com/HiDream-ai/VAREdit) 
   - **[Arxiv, 2025.08]** NEP: Autoregressive Image Editing via Next Editing Token Prediction [Paper](https://arxiv.org/pdf/2508.06044) [Code](https://nep-bigai.github.io/)
   - **[Arxiv, 2025.07]** SCALAR: Scale-wise Controllable Visual Autoregressive Learning [Paper](https://arxiv.org/pdf/2507.19946) 
