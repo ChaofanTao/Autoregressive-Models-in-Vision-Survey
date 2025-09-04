@@ -384,6 +384,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.09]** OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation [Paper](https://arxiv.org/pdf/2509.03498) [Code](https://github.com/onecat-ai/onecat) [Page](https://github.com/onecat-ai/onecat)
   - **[Arxiv, 2025.08]** TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning [Paper](https://arxiv.org/pdf/2508.08098) [Code](https://github.com/DruryXu/TBAC-UniImage)
   - **[Arxiv, 2025.08]** Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents [Paper](https://arxiv.org/pdf/2508.05954) [Code](https://github.com/HL-hanlin/Bifrost-1)
   - **[Arxiv, 2025.08]** Uni-COT: Towards Unified Chain-of-Thought Reasoning Across Text and Vision [Paper](https://arxiv.org/pdf/2508.05606) [Code](https://github.com/Fr0zenCrane/UniCoT)
@@ -473,7 +474,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.05]** RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration [Paper](https://arxiv.org/pdf/2505.18047) [Code](https://github.com/sudraj2002/RestoreVAR)
   - **[Arxiv, 2025.04]** TAPNext: Tracking Any Point (TAP) as Next Token Prediction [Paper](https://arxiv.org/pdf/2504.05579) 
   - **[Arxiv, 2025.04]** Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models [Paper](https://arxiv.org/pdf/2503.20198) [Code](https://fingerrec.github.io/longtextar/)
-  - **[Arxiv, 2025.03]** VARSR: Visual Autogressive Modeling for Image Super Resolution [Paper](https://arxiv.org/abs/2501.18993) [Code](https://github.com/quyp2000/VARSR)
+  - **[Arxiv, 2025.03]** VARSR: Visual Autoregressive Modeling for Image Super Resolution [Paper](https://arxiv.org/abs/2501.18993) [Code](https://github.com/quyp2000/VARSR)
   - **[Arxiv, 2025.03]** Next-Scale Autoregressive Models are Zero-Shot Single-Image Object View Synthesizers [Paper](https://arxiv.org/pdf/2503.13588) [Code](https://github.com/Shiran-Yuan/ArchonView)
   - **[Arxiv, 2025.03]** Perceive, Understand and Restore: Real-World Image Super-Resolution with Autoregressive Multimodal Generative Models [Paper](https://arxiv.org/pdf/2503.11073) [Code](https://github.com/nonwhy/PURE)
   - **[Arxiv, 2025.02]** ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model [Paper](https://arxiv.org/abs/2502.20323) [Code](https://xg-chu.site/project_artalk/)
