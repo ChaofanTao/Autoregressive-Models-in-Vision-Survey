@@ -384,6 +384,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.09]** Interleaving Reasoning for Better Text-to-Image Generation [Paper](https://arxiv.org/abs/2509.06945) [Code](https://github.com/Osilly/Interleaving-Reasoning-Generation)
   - **[Arxiv, 2025.09]** OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation [Paper](https://arxiv.org/pdf/2509.03498) [Code](https://github.com/onecat-ai/onecat) [Page](https://github.com/onecat-ai/onecat)
   - **[Arxiv, 2025.08]** TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning [Paper](https://arxiv.org/pdf/2508.08098) [Code](https://github.com/DruryXu/TBAC-UniImage)
   - **[Arxiv, 2025.08]** Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with Patch-level CLIP Latents [Paper](https://arxiv.org/pdf/2508.05954) [Code](https://github.com/HL-hanlin/Bifrost-1)
