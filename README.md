@@ -525,6 +525,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv. 2025.09]** Can Understanding and Generation Truly Benefit Together — or Just Coexist? [Paper](https://arxiv.org/pdf/2509.09666) [Code](https://github.com/PKU-YuanGroup/UAE)
   - **[Arxiv, 2025.08]** AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [Paper](https://arxiv.org/pdf/2508.06924) [Code](https://github.com/Kwai-Klear/AR-GRPO)
   - **[Arxiv, 2025.08]** The Promise of RL for Autoregressive Image Editing [Paper](https://arxiv.org/pdf/2508.01119) [Code](https://github.com/mair-lab/EARL)
   - **[Arxiv, 2025.07]** X-Omni: Reinforcement Learning Makes Discrete Autoregressive Image Generative Models Great Again [Paper](https://arxiv.org/pdf/2507.22058) [Code](https://github.com/X-Omni-Team/X-Omni) [Page](https://x-omni-team.github.io/)
