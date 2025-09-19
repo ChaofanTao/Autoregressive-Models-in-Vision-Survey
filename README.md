@@ -152,6 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[NeurIPS, 2025]** Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.15185) [Code](https://github.com/yuexy/ST-AR)
     - **[Arxiv, 2025.08]** Exploiting Discriminative Codebook Prior for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2508.10719) 
     - **[Arxiv, 2025.08]** NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale [Paper](https://arxiv.org/pdf/2508.10711) [Code](https://github.com/stepfun-ai/NextStep-1)
     - **[Arxiv, 2025.07]** Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis [Paper](https://arxiv.org/pdf/2507.20454) [Code](https://github.com/Caesarhhh/SparseVAR)
