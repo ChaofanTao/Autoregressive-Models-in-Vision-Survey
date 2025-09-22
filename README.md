@@ -385,6 +385,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.09]** MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer [Paper](https://arxiv.org/pdf/2509.16197) 
   - **[Arxiv, 2025.09]** RecA: Reconstruction Alignment Improves Unified Multimodal Models [Paper](https://arxiv.org/pdf/2509.07295) [Code](https://github.com/HorizonWind2004/reconstruction-alignment)
   - **[Arxiv, 2025.09]** Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding [Paper](TBD) [Code](https://github.com/Alpha-VLLM/Lumina-DiMOO)
   - **[Arxiv, 2025.09]** Interleaving Reasoning for Better Text-to-Image Generation [Paper](https://arxiv.org/abs/2509.06945) [Code](https://github.com/Osilly/Interleaving-Reasoning-Generation)
