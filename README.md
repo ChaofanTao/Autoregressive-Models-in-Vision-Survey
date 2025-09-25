@@ -528,6 +528,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv, 2025.09]** Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation [Paper](https://arxiv.org/abs/2509.18639) [Code](https://github.com/QC-LY/UiG)
   - **[Arxiv. 2025.09]** Can Understanding and Generation Truly Benefit Together — or Just Coexist? [Paper](https://arxiv.org/pdf/2509.09666) [Code](https://github.com/PKU-YuanGroup/UAE)
   - **[Arxiv, 2025.08]** AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [Paper](https://arxiv.org/pdf/2508.06924) [Code](https://github.com/Kwai-Klear/AR-GRPO)
   - **[Arxiv, 2025.08]** The Promise of RL for Autoregressive Image Editing [Paper](https://arxiv.org/pdf/2508.01119) [Code](https://github.com/mair-lab/EARL)
@@ -552,6 +553,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
 
 ### Accelerating
+  - **[Arxiv, 2025.09]** Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2509.18824) [Page](https://hyper-bagel.github.io/)
   - **[Arxiv, 2025.07]** Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation [Paper](https://arxiv.org/abs/2507.01957) [Code](https://github.com/mit-han-lab/lpd)
   - **[Arxiv, 2025.05]** DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297) [Code](https://github.com/Qinyu-Allen-Zhao/DiSA)
   - **[Arxiv, 2025.05]** FastCar: Cache Attentive Replay for Fast Auto-Regressive Video Generation on the Edge [Code](https://github.com/shawnricecake/fast-car) [Paper](https://arxiv.org/pdf/2505.14709)
