@@ -512,6 +512,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ECCV, 2020]** Autoregressive Unsupervised Image Segmentation [Paper](https://arxiv.org/pdf/2007.08247)
 
 ### Benchmark / Analysis
+  - **[Arxiv, 2025.09]** GenExam: A Multidisciplinary Text-to-Image Exam [Paper](https://www.arxiv.org/abs/2509.14232) [Code](https://github.com/OpenGVLab/GenExam)
   - **[Arxiv, 2025.09]** The Telephone Game: Evaluating Semantic Drift in Unified Models [Paper](https://www.arxiv.org/abs/2509.04438) [Code](https://github.com/mollahsabbir/Semantic-Drift-in-Unified-Models)
   - **[Arxiv, 2025.08]** Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved Image Generation [Paper](https://arxiv.org/abs/2508.09987) [Code](https://github.com/yejy53/Echo-4o)
   - **[Arxiv, 2025.07]** GPT-IMAGE-EDIT-1.5M: A Million-Scale, GPT-Generated Image Dataset [Paper](https://arxiv.org/pdf/2507.21033) [Code](https://github.com/wyhlovecpp/GPT-Image-Edit/tree/main)
