@@ -202,6 +202,7 @@ We will actively maintain this repository by incorporating new research as it em
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
     
   - ##### Scale-wise AutoRegressive Generation
+    - **[Arxiv, 2025.09]** Scale-Wise VAR is Secretely Discrete Diffusion [Paper](https://arxiv.org/pdf/2509.22636) [Code](https://github.com/VIROBO-15/SRDD) [Project](https://virobo-15.github.io/srdd.github.io/)
     - **[Arxiv, 2025.05]** Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction [Paper](https://arxiv.org/pdf/2502.04521) [Code](https://github.com/icon-lab/FedGAT)
     - **[ICML, 2025]** Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/pdf/2505.07812) [Code](https://github.com/shaochenze/EAR)
     - **[Arxiv, 2025.02]** **FlexVAR**: Flexible Visual Autoregressive Modeling without Residual Prediction [Paper](https://arxiv.org/abs/2502.20313) [Code](https://github.com/jiaosiyu1999/FlexVAR)
@@ -530,6 +531,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv, 2025.09]** Group Critical-token Policy Optimization for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2509.22485) [Code](https://github.com/zghhui/GCPO)
   - **[Arxiv, 2025.09]** Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation [Paper](https://arxiv.org/abs/2509.18639) [Code](https://github.com/QC-LY/UiG)
   - **[Arxiv. 2025.09]** Can Understanding and Generation Truly Benefit Together — or Just Coexist? [Paper](https://arxiv.org/pdf/2509.09666) [Code](https://github.com/PKU-YuanGroup/UAE)
   - **[Arxiv, 2025.08]** AR-GRPO: Training Autoregressive Image Generation Models via Reinforcement Learning [Paper](https://arxiv.org/pdf/2508.06924) [Code](https://github.com/Kwai-Klear/AR-GRPO)
@@ -547,6 +549,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.01]** Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step [Paper](https://arxiv.org/abs/2501.13926) [Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 
 ### Safety
+  - **[Arxiv, 2025.09]** Closing the Safety Gap: Surgical Concept Erasure in Visual Autoregressive Models [Paper](https://arxiv.org/abs/2509.22400)
   - **[Arxiv, 2025.06]** BitMark for Infinity: Watermarking Bitwise Autoregressive Image Generative Models [Paper](https://arxiv.org/pdf/2506.21209) 
   - **[Arxiv, 2025.06]** EAR: Erasing Concepts from Unified Autoregressive Models [Paper](https://arxiv.org/abs/2506.20151) [Code](https://github.com/immc-lab/ear/)
   - **[Arxiv, 2025.06]** Watermarking Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2506.16349) [Code](https://github.com/facebookresearch/wmar)
