@@ -152,6 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.09]** Go with Your Gut: Scaling Confidence for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.26376) [Code](https://github.com/EnVision-Research/ScalingAR)
     - **[NeurIPS, 2025]** Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.15185) [Code](https://github.com/yuexy/ST-AR)
     - **[Arxiv, 2025.08]** Exploiting Discriminative Codebook Prior for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2508.10719) 
     - **[Arxiv, 2025.08]** NextStep-1: Toward Autoregressive Image Generation with Continuous Tokens at Scale [Paper](https://arxiv.org/pdf/2508.10711) [Code](https://github.com/stepfun-ai/NextStep-1)
@@ -386,6 +387,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.09]** Query-Kontext: An Unified Multimodal Model for Image Generation and Editing [Paper](https://arxiv.org/pdf/2509.26641) 
   - **[Arxiv, 2025.09]** Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2509.19244) 
   - **[Arxiv, 2025.09]** MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer [Paper](https://arxiv.org/pdf/2509.16197) 
   - **[Arxiv, 2025.09]** RecA: Reconstruction Alignment Improves Unified Multimodal Models [Paper](https://arxiv.org/pdf/2509.07295) [Code](https://github.com/HorizonWind2004/reconstruction-alignment)
@@ -470,6 +472,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Personalized Image Generation
+  - **[Arxiv, 2025.09]** EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model [Paper](https://arxiv.org/pdf/2509.26127)
   - **[Arxiv, 2025.08]** CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation [Paper](https://arxiv.org/pdf/2508.07341) [Code](https://github.com/KZF-kzf/CoAR)
   - **[ICCV, 2025]** CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models [Paper](https://arxiv.org/abs/2507.13984)
   - **[Arxiv, 2025.07]** A Training-Free Style-Personalization via Scale-wise Autoregressive Model [Paper](https://arxiv.org/pdf/2507.04482)
