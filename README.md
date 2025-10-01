@@ -610,6 +610,7 @@ We will actively maintain this repository by incorporating new research as it em
 ## 👍 Acknowledgement
 - [Awesome Unified Multimodal Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models), NUS
 - [Awesome Unified Multimodal Models](https://github.com/Purshow/Awesome-Unified-Multimodal), PKU
+- [Awesome Unified Multimodal Models](https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models), [Paper](https://arxiv.org/abs/2505.02567), Alibaba
 
 
 ## ♥️ Contributors
