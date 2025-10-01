@@ -152,6 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.09]** Not All Tokens are Guided Equal: Improving Guidance in Visual Autoregressive Models [Paper](https://www.arxiv.org/abs/2509.23876)
     - **[Arxiv, 2025.09]** Go with Your Gut: Scaling Confidence for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.26376) [Code](https://github.com/EnVision-Research/ScalingAR)
     - **[NeurIPS, 2025]** Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.15185) [Code](https://github.com/yuexy/ST-AR)
     - **[Arxiv, 2025.08]** Exploiting Discriminative Codebook Prior for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2508.10719) 
@@ -292,6 +293,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 #### Conditional Video Generation
    - ##### Text-to-Video Generation
+     - **[Arxiv, 2025.10]** Autoregressive Video Generation beyond Next Frames Prediction [Paper](https://www.arxiv.org/abs/2509.24081) 
      - **[Arxiv, 2025.07]** Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective [Paper](https://arxiv.org/pdf/2507.08801) [Code](https://github.com/alibaba-damo-academy/Lumos)
      - **[Arxiv, 2025.06]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/pdf/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
      - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
@@ -336,6 +338,8 @@ We will actively maintain this repository by incorporating new research as it em
       - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
 
 #### AutoRegressive Diffusion-Forcing Video Generation
+  - **[Arxiv, 2025.09]** LongLive: Real-time Interactive Long Video Generation [Paper](https://arxiv.org/abs/2509.22622) [Code](https://github.com/NVlabs/LongLive)
+  - **[Arxiv, 2025.09]** Rolling Forcing: Autoregressive Long Video Diffusion in Real Time [Paper](https://arxiv.org/pdf/2509.25161v1) [Page](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/) [Code](https://github.com/TencentARC/RollingForcing)
   - **[Arxiv, 2025.08]** MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation [Paper](https://arxiv.org/pdf/2508.19320) [Project](https://chenmingthu.github.io/milm/)
   - **[Arxiv, 2025.08]** Macro-from-Micro Planning for High-Quality and Parallelized Autoregressive Long Video Generation [Paper](https://www.arxiv.org/abs/2508.03334) [Project](https://nju-xunzhixiang.github.io/Anchor-Forcing-Page/) [Code](https://github.com/xbxsxp9/MMPL)
   - **[Arxiv, 2025.05]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/abs/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
@@ -534,6 +538,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv, 2025.09]** STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation [Paper](https://www.arxiv.org/abs/2509.25027) [Code](https://github.com/krennic999/STAGE)
   - **[Arxiv, 2025.09]** Group Critical-token Policy Optimization for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2509.22485) [Code](https://github.com/zghhui/GCPO)
   - **[Arxiv, 2025.09]** Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation [Paper](https://arxiv.org/abs/2509.18639) [Code](https://github.com/QC-LY/UiG)
   - **[Arxiv. 2025.09]** Can Understanding and Generation Truly Benefit Together — or Just Coexist? [Paper](https://arxiv.org/pdf/2509.09666) [Code](https://github.com/PKU-YuanGroup/UAE)
