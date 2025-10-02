@@ -154,6 +154,7 @@ We will actively maintain this repository by incorporating new research as it em
     ##### Autoregressive Modeling
     - **[Arxiv, 2025.09]** SoftCFG: Uncertainty-guided Stable Guidance for Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2510.00996) 
     - **[Arxiv, 2025.09]** Not All Tokens are Guided Equal: Improving Guidance in Visual Autoregressive Models [Paper](https://www.arxiv.org/abs/2509.23876)
+    - **[Arxiv, 2025.09]** Hyperspherical Latents Improve Continuous-Token Autoregressive Generation [Paper](https://arxiv.org/abs/2509.24335) [Code](https://github.com/guolinke/SphereAR)
     - **[Arxiv, 2025.09]** Go with Your Gut: Scaling Confidence for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.26376) [Code](https://github.com/EnVision-Research/ScalingAR)
     - **[NeurIPS, 2025]** Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.15185) [Code](https://github.com/yuexy/ST-AR)
     - **[Arxiv, 2025.08]** Exploiting Discriminative Codebook Prior for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2508.10719) 
