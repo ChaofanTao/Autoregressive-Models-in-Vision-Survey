@@ -297,7 +297,6 @@ We will actively maintain this repository by incorporating new research as it em
    - ##### Text-to-Video Generation
      - **[Arxiv, 2025.10]** Autoregressive Video Generation beyond Next Frames Prediction [Paper](https://www.arxiv.org/abs/2509.24081) 
      - **[Arxiv, 2025.07]** Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective [Paper](https://arxiv.org/pdf/2507.08801) [Code](https://github.com/alibaba-damo-academy/Lumos)
-     - **[Arxiv, 2025.06]** Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion [Paper](https://arxiv.org/pdf/2506.08009) [Code](https://github.com/guandeh17/Self-Forcing)
      - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
      - **[Arxiv, 2024.12]** **DiCoDe**: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models [Paper](https://arxiv.org/pdf/2412.04446) [Page](https://liyizhuo.com/DiCoDe/)
      - **[Arxiv, 2024.11]** Ca2-VDM: Efficient Autoregressive Video Diffusion Model with Causal Generation and Cache Sharing [Paper](https://arxiv.org/pdf/2411.16375) [Code](https://github.com/Dawn-LX/CausalCache-VDM/)
@@ -340,6 +339,8 @@ We will actively maintain this repository by incorporating new research as it em
       - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
 
 #### AutoRegressive Diffusion-Forcing Video Generation
+  - **[Arxiv, 2025.10]** Self-Forcing++: Towards Minute-Scale High-Quality Video Generation [Paper](https://arxiv.org/pdf/2510.02283) [Code](https://github.com/justincui03/Self-Forcing-Plus-Plus)
+  - **[Arxiv, 2025.10]** Pack and Force Your Memory: Long-form and Consistent Video Generation [Paper](https://arxiv.org/pdf/2510.01784) [Code](https://github.com/wuxiaofei01/PFVG)
   - **[Arxiv, 2025.09]** LongLive: Real-time Interactive Long Video Generation [Paper](https://arxiv.org/abs/2509.22622) [Code](https://github.com/NVlabs/LongLive)
   - **[Arxiv, 2025.09]** Rolling Forcing: Autoregressive Long Video Diffusion in Real Time [Paper](https://arxiv.org/pdf/2509.25161v1) [Page](https://kunhao-liu.github.io/Rolling_Forcing_Webpage/) [Code](https://github.com/TencentARC/RollingForcing)
   - **[Arxiv, 2025.08]** MIDAS: Multimodal Interactive Digital-humAn Synthesis via Real-time Autoregressive Video Generation [Paper](https://arxiv.org/pdf/2508.19320) [Project](https://chenmingthu.github.io/milm/)
