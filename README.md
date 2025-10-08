@@ -541,6 +541,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2024.10]** Diffusion Beats Autoregressive: An Evaluation of Compositional Generation in Text-to-Image Models [Paper](https://arxiv.org/pdf/2410.22775) 
 
 ### Reasoning Alignment 
+  - **[Arxiv, 2025.10]** Improving Chain-of-Thought Efficiency for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2510.05593) 
   - **[Arxiv, 2025.09]** STAGE: Stable and Generalizable GRPO for Autoregressive Image Generation [Paper](https://www.arxiv.org/abs/2509.25027) [Code](https://github.com/krennic999/STAGE)
   - **[Arxiv, 2025.09]** Group Critical-token Policy Optimization for Autoregressive Image Generation [Paper](https://arxiv.org/abs/2509.22485) [Code](https://github.com/zghhui/GCPO)
   - **[Arxiv, 2025.09]** Understanding-in-Generation: Reinforcing Generative Capability of Unified Model via Infusing Understanding into Generation [Paper](https://arxiv.org/abs/2509.18639) [Code](https://github.com/QC-LY/UiG)
