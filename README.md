@@ -394,11 +394,12 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.10]** Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer [Paper](https://arxiv.org/pdf/2510.06590) [Code](https://github.com/inclusionAI/Ming-UniVision)
+  - **[Arxiv, 2025.10]** Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding [Paper](https://arxiv.org/pdf/2510.06308) [Code](https://github.com/Alpha-VLLM/Lumina-DiMOO) [Page](https://synbol.github.io/Lumina-DiMOO/)
   - **[Arxiv, 2025.09]** Query-Kontext: An Unified Multimodal Model for Image Generation and Editing [Paper](https://arxiv.org/pdf/2509.26641) 
   - **[Arxiv, 2025.09]** Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2509.19244) 
   - **[Arxiv, 2025.09]** MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid Vision Tokenizer [Paper](https://arxiv.org/pdf/2509.16197) 
   - **[Arxiv, 2025.09]** RecA: Reconstruction Alignment Improves Unified Multimodal Models [Paper](https://arxiv.org/pdf/2509.07295) [Code](https://github.com/HorizonWind2004/reconstruction-alignment)
-  - **[Arxiv, 2025.09]** Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding [Paper](TBD) [Code](https://github.com/Alpha-VLLM/Lumina-DiMOO)
   - **[Arxiv, 2025.09]** Interleaving Reasoning for Better Text-to-Image Generation [Paper](https://arxiv.org/abs/2509.06945) [Code](https://github.com/Osilly/Interleaving-Reasoning-Generation)
   - **[Arxiv, 2025.09]** OneCAT: Decoder-Only Auto-Regressive Model for Unified Understanding and Generation [Paper](https://arxiv.org/pdf/2509.03498) [Code](https://github.com/onecat-ai/onecat) [Page](https://github.com/onecat-ai/onecat)
   - **[Arxiv, 2025.08]** TBAC-UniImage: Unified Understanding and Generation by Ladder-Side Diffusion Tuning [Paper](https://arxiv.org/pdf/2508.08098) [Code](https://github.com/DruryXu/TBAC-UniImage)
