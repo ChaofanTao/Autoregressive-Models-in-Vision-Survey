@@ -42,6 +42,8 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 
 ## 📣 Update News
 
+`[2025-10-10]` ⏸️ After a year of rapid progress in autoregressive visual generation, two clear trends now define the field: **unified multimodal models** and **autoregressive diffusion-forcing video generation**. Our current repository categories no longer capture this evolving landscape, so we’re moving to maintenance mode and **pausing proactive updates as of today**. The repo remains available as a reference, and **targeted PRs are welcome** (additions, corrections, or reorganizations aligned with these trends). Thanks for your support! 🙏
+
 `[2025-05-31]` 🔥 Our survey has been revised in [arXiv](https://arxiv.org/abs/2411.05902)! The revised paper streamlines content and enhances discussions on:
    - Continuous autoregressive methods
    - Computational costs
@@ -339,6 +341,7 @@ We will actively maintain this repository by incorporating new research as it em
       - **[CVPR, 2022]** Make it move: controllable image-to-video generation with text descriptions [Paper](http://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Make_It_Move_Controllable_Image-to-Video_Generation_With_Text_Descriptions_CVPR_2022_paper.pdf) [Code](https://github.com/Youncy-Hu/MAGE)
 
 #### AutoRegressive Diffusion-Forcing Video Generation
+  - **[Arxiv, 2025.10]** Real-Time Motion-Controllable Autoregressive Video Diffusion [Paper](https://arxiv.org/pdf/2510.08131) [Code](https://kesenzhao.github.io/AR-Drag.github.io/)
   - **[Arxiv, 2025.10]** Self-Forcing++: Towards Minute-Scale High-Quality Video Generation [Paper](https://arxiv.org/pdf/2510.02283) [Code](https://github.com/justincui03/Self-Forcing-Plus-Plus)
   - **[Arxiv, 2025.10]** Pack and Force Your Memory: Long-form and Consistent Video Generation [Paper](https://arxiv.org/pdf/2510.01784) [Code](https://github.com/wuxiaofei01/PFVG)
   - **[Arxiv, 2025.09]** LongLive: Real-time Interactive Long Video Generation [Paper](https://arxiv.org/abs/2509.22622) [Code](https://github.com/NVlabs/LongLive)
@@ -394,6 +397,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.10]** UniVideo Unified Understanding, Generation, and Editing for Videos [Paper](https://arxiv.org/abs/2510.08377) [Page](https://congwei1230.github.io/UniVideo/)
   - **[Arxiv, 2025.10]** Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer [Paper](https://arxiv.org/pdf/2510.06590) [Code](https://github.com/inclusionAI/Ming-UniVision)
   - **[Arxiv, 2025.10]** Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding [Paper](https://arxiv.org/pdf/2510.06308) [Code](https://github.com/Alpha-VLLM/Lumina-DiMOO) [Page](https://synbol.github.io/Lumina-DiMOO/)
   - **[Arxiv, 2025.09]** Query-Kontext: An Unified Multimodal Model for Image Generation and Editing [Paper](https://arxiv.org/pdf/2509.26641) 
