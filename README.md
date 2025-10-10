@@ -40,7 +40,7 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 
 ## 📣 Update News
 
-`[2025-10-10]` ⏸️ After a year of rapid progress in autoregressive visual generation, two clear trends now define the field: **unified multimodal models** and **autoregressive diffusion-forcing video generation**. Our current repository categories no longer capture this evolving landscape, so we’re moving to maintenance mode and **pausing proactive updates as of today**. The repo remains available as a reference, and **targeted PRs are welcome** (additions, corrections, or reorganizations aligned with these trends). Thanks for your support! 🙏
+`[2025-10-10]` ⏸️ After a year of rapid progress in autoregressive visual generation, two clear trends now define the field: **unified multimodal models** and **autoregressive diffusion-forcing video generation**. Our current repository categories no longer capture this evolving landscape, so we’re moving to maintenance mode and **pausing proactive updates as of today**. The repo remains available as a reference, and **targeted PRs are welcome** (additions, corrections, or reorganizations with new trends). Thanks for your support! 🙏
 
 `[2025-05-31]` 🔥 Our survey has been revised in [arXiv](https://arxiv.org/abs/2411.05902)! The revised paper streamlines content and enhances discussions on:
    - Continuous autoregressive methods
