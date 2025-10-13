@@ -152,8 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
-    - **[Arxiv, 2025.09]** SoftCFG: Uncertainty-guided Stable Guidance for Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2510.00996) 
-    - **[Arxiv, 2025.09]** Not All Tokens are Guided Equal: Improving Guidance in Visual Autoregressive Models [Paper](https://www.arxiv.org/abs/2509.23876)
+    - **[NeurIPS, 2025]** Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy [Paper](https://arxiv.org/pdf/2510.09012) [Code](https://github.com/krennic999/ARsample)
     - **[Arxiv, 2025.09]** Hyperspherical Latents Improve Continuous-Token Autoregressive Generation [Paper](https://arxiv.org/abs/2509.24335) [Code](https://github.com/guolinke/SphereAR)
     - **[Arxiv, 2025.09]** Go with Your Gut: Scaling Confidence for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.26376) [Code](https://github.com/EnVision-Research/ScalingAR)
     - **[NeurIPS, 2025]** Understand Before You Generate: Self-Guided Training for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.15185) [Code](https://github.com/yuexy/ST-AR)
@@ -206,6 +205,9 @@ We will actively maintain this repository by incorporating new research as it em
     - **[NeurIPS, 2017]** **VQ-VAE** Neural Discrete Representation Learning[Paper](https://arxiv.org/pdf/1711.00937)
     
   - ##### Scale-wise AutoRegressive Generation
+    - **[Arxiv, 2025.10]** Dynamic Mixture-of-Experts for Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2510.08629)
+    - **[Arxiv, 2025.09]** SoftCFG: Uncertainty-guided Stable Guidance for Visual Autoregressive Model [Paper](https://arxiv.org/pdf/2510.00996) 
+    - **[Arxiv, 2025.09]** Not All Tokens are Guided Equal: Improving Guidance in Visual Autoregressive Models [Paper](https://www.arxiv.org/abs/2509.23876)
     - **[Arxiv, 2025.09]** Scale-Wise VAR is Secretely Discrete Diffusion [Paper](https://arxiv.org/pdf/2509.22636) [Code](https://github.com/VIROBO-15/SRDD) [Project](https://virobo-15.github.io/srdd.github.io/)
     - **[Arxiv, 2025.05]** Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction [Paper](https://arxiv.org/pdf/2502.04521) [Code](https://github.com/icon-lab/FedGAT)
     - **[ICML, 2025]** Continuous Visual Autoregressive Generation via Score Maximization [Paper](https://arxiv.org/pdf/2505.07812) [Code](https://github.com/shaochenze/EAR)
@@ -573,6 +575,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
 
 ### Accelerating
+  - **[NeurIPS 2025, Arxiv/2025.10]** Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation [Paper](https://arxiv.org/pdf/2510.08994) 
   - **[Arxiv, 2025.09]** Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2509.18824) [Page](https://hyper-bagel.github.io/)
   - **[Arxiv, 2025.07]** Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation [Paper](https://arxiv.org/abs/2507.01957) [Code](https://github.com/mit-han-lab/lpd)
   - **[Arxiv, 2025.05]** DiSA: Diffusion Step Annealing in Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2505.20297) [Code](https://github.com/Qinyu-Allen-Zhao/DiSA)
