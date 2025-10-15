@@ -40,7 +40,7 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 
 ## 📣 Update News
 
-`[2025-10-10]` ⏸️ After a year of rapid progress in autoregressive visual generation, two clear trends now define the field: **unified multimodal models** and **autoregressive diffusion-forcing video generation**. Our current repository categories no longer capture this evolving landscape, so we’re moving to maintenance mode and **pausing proactive updates as of today**. The repo remains available as a reference, and **targeted PRs are welcome** (additions, corrections, or reorganizations with new trends). Thanks for your support! 🙏
+`[2025-11-01]` ⏸️ After a year of rapid progress in autoregressive visual generation, two clear trends now define the field: **unified multimodal models** and **autoregressive diffusion-forcing video generation**. Our current repository categories no longer capture this evolving landscape, so we’re moving to maintenance mode and **pausing proactive updates as of today**. The repo remains available as a reference, and **targeted PRs are welcome** (additions, corrections, or reorganizations with new trends). Thanks for your support! 🙏
 
 `[2025-05-31]` 🔥 Our survey has been revised in [arXiv](https://arxiv.org/abs/2411.05902)! The revised paper streamlines content and enhances discussions on:
    - Continuous autoregressive methods
@@ -397,6 +397,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.10]** UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation [Paper](https://arxiv.org/abs/2510.10575) [Code](https://github.com/ZhengrongYue/UniFlow)
   - **[Arxiv, 2025.10]** UniVideo Unified Understanding, Generation, and Editing for Videos [Paper](https://arxiv.org/abs/2510.08377) [Page](https://congwei1230.github.io/UniVideo/)
   - **[Arxiv, 2025.10]** Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer [Paper](https://arxiv.org/pdf/2510.06590) [Code](https://github.com/inclusionAI/Ming-UniVision)
   - **[Arxiv, 2025.10]** Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding [Paper](https://arxiv.org/pdf/2510.06308) [Code](https://github.com/Alpha-VLLM/Lumina-DiMOO) [Page](https://synbol.github.io/Lumina-DiMOO/)
