@@ -377,7 +377,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ICCV, 2021 oral]** **HuMoR**: 3D Human Motion Model for Robust Pose Estimation [Paper](https://geometry.stanford.edu/projects/humor/docs/humor.pdf) [Code](https://github.com/davrempe/humor)
 
 #### Point Cloud Generation
-  - **[Arxiv, 2025.06]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
+   - **[Arxiv, 2025.06]** ShapeLLM-Omni: A Native Multimodal LLM for 3D Generation and Understanding [Paper](https://arxiv.org/pdf/2506.01853) [Code](https://github.com/JAMESYJL/ShapeLLM-Omni/)
    - **[Siggraph, 2025]** OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation [Paper](https://arxiv.org/pdf/2504.09975) [Code](https://github.com/octree-nn/octgpt)
    - **[Arxiv, 2025.04]** Efficient Autoregressive Shape Generation via Octree-Based Adaptive Tokenization [Paper](https://arxiv.org/pdf/2504.02817) [Page](https://oat-3d.github.io/)
    - **[CVPR, 2025]** TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing [Paper](https://arxiv.org/pdf/2503.11629) [Code](https://github.com/sail-sg/TreeMeshGPT)
@@ -387,8 +387,8 @@ We will actively maintain this repository by incorporating new research as it em
    - **[CVPR workshop, 2023]** Octree transformer: Autoregressive 3d shape generation on hierarchically structured sequences [Paper](https://arxiv.org/pdf/2111.12480)
 
 #### 3D Medical Generation
-  - **[arxiv, 2024]** Autoregressive Sequence Modeling for 3D Medical Image Representation [Paper](https://arxiv.org/pdf/2409.08691v1) 
-  - **[arxiv, 2024]** Medical Vision Generalist: Unifying Medical Imaging Tasks in Context [Paper](https://arxiv.org/pdf/2406.05565) [Code](https://arxiv.org/pdf/2406.05565)
+  - **[Arxiv, 2024]** Autoregressive Sequence Modeling for 3D Medical Image Representation [Paper](https://arxiv.org/pdf/2409.08691v1) 
+  - **[Arxiv, 2024]** Medical Vision Generalist: Unifying Medical Imaging Tasks in Context [Paper](https://arxiv.org/pdf/2406.05565) [Code](https://arxiv.org/pdf/2406.05565)
   - **[MIDL, 2024]** Conditional Generation of 3D Brain Tumor ROIs via VQGAN and Temporal-Agnostic Masked Transformer [Paper](https://openreview.net/pdf?id=LLoSHPorlM)
   - **[NMI, 2024]** Realistic morphology-preserving generative modelling of the brain [Paper](https://www.nature.com/articles/s42256-024-00864-0) [Code](https://github.com/AmigoLab/BrainSynth)
   - **[Arxiv, 2023]** Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Generative Adversarial Networks [Paper](https://arxiv.org/pdf/2310.01251)
@@ -397,6 +397,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.10]** SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models [Paper](https://arxiv.org/pdf/2510.12784) [Code](https://github.com/WayneJin0918/SRUM)
   - **[Arxiv, 2025.10]** UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation [Paper](https://arxiv.org/abs/2510.10575) [Code](https://github.com/ZhengrongYue/UniFlow)
   - **[Arxiv, 2025.10]** UniVideo Unified Understanding, Generation, and Editing for Videos [Paper](https://arxiv.org/abs/2510.08377) [Page](https://congwei1230.github.io/UniVideo/)
   - **[Arxiv, 2025.10]** Ming-UniVision: Joint Image Understanding and Generation with a Unified Continuous Tokenizer [Paper](https://arxiv.org/pdf/2510.06590) [Code](https://github.com/inclusionAI/Ming-UniVision)
