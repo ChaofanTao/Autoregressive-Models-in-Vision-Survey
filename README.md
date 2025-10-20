@@ -397,6 +397,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv. 2025.10]** Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation [Paper](https://arxiv.org/abs/2510.08673) [Code](https://github.com/KangLiao929/Puffin)
   - **[Arxiv, 2025.10]** SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models [Paper](https://arxiv.org/pdf/2510.12784) [Code](https://github.com/WayneJin0918/SRUM)
   - **[Arxiv, 2025.10]** UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation [Paper](https://arxiv.org/abs/2510.10575) [Code](https://github.com/ZhengrongYue/UniFlow)
   - **[Arxiv, 2025.10]** UniVideo Unified Understanding, Generation, and Editing for Videos [Paper](https://arxiv.org/abs/2510.08377) [Page](https://congwei1230.github.io/UniVideo/)
