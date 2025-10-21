@@ -152,6 +152,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[NeurIPS, 2025]** Visual Autoregressive Models Beat Diffusion Models on Inference Time Scaling [Paper](https://arxiv.org/pdf/2510.16751) 
     - **[NeurIPS, 2025]** Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy [Paper](https://arxiv.org/pdf/2510.09012) [Code](https://github.com/krennic999/ARsample)
     - **[Arxiv, 2025.09]** Hyperspherical Latents Improve Continuous-Token Autoregressive Generation [Paper](https://arxiv.org/abs/2509.24335) [Code](https://github.com/guolinke/SphereAR)
     - **[Arxiv, 2025.09]** Go with Your Gut: Scaling Confidence for Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2509.26376) [Code](https://github.com/EnVision-Research/ScalingAR)
@@ -487,6 +488,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[KDD, 2021]** **M6:** A Chinese Multimodal Pretrainer [Paper](https://arxiv.org/pdf/2103.00823)
 
 ### Personalized Image Generation
+  - **[Arxiv, 2025.10]** TokenAR: Multiple Subject Generation via Autoregressive Token-level enhancement [Paper](https://arxiv.org/pdf/2510.16332) [Code](https://github.com/lyrig/TokenAR)
   - **[Arxiv, 2025.09]** EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward Subject-Driven Auto-Regressive Model [Paper](https://arxiv.org/pdf/2509.26127)
   - **[Arxiv, 2025.08]** CoAR: Concept Injection into Autoregressive Models for Personalized Text-to-Image Generation [Paper](https://arxiv.org/pdf/2508.07341) [Code](https://github.com/KZF-kzf/CoAR)
   - **[ICCV, 2025]** CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models [Paper](https://arxiv.org/abs/2507.13984)
