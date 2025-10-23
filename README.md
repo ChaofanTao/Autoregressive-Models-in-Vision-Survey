@@ -23,6 +23,17 @@ Autoregressive models have shown significant progress in generating high-quality
 
 > *<sup>†</sup> Core Contributors, <sup>‡</sup> Corresponding Authors*
 
+<br>
+
+<details open><summary>💡 We also have other generative projects that may interest you ✨. </summary><p>
+<!--  may -->
+
+> [**Personalized Video Generation: Progress, Applications, and Challenges**]() <br>
+> Jinfa Huang, Shenghai Yuan, Kunyang Li, and Meng Cao etc. <br>
+[![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/inFaaa/Awesome-Personalized-Video-Creation)  [![github](https://img.shields.io/github/stars/inFaaa/Awesome-Personalized-Video-Creation.svg?style=social)](https://github.com/inFaaa/Awesome-Personalized-Video-Creation) <br>
+
+> </p></details>
+
 
 ## 📑 Citation
 Please consider citing 📑 our papers if our repository is helpful to your work. Thanks sincerely!
