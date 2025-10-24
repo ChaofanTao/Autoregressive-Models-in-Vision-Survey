@@ -163,6 +163,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.10]** SSD: Spatial-Semantic Head Decoupling for Efficient Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2510.18716) 
     - **[NeurIPS, 2025]** Visual Autoregressive Models Beat Diffusion Models on Inference Time Scaling [Paper](https://arxiv.org/pdf/2510.16751) 
     - **[NeurIPS, 2025]** Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy [Paper](https://arxiv.org/pdf/2510.09012) [Code](https://github.com/krennic999/ARsample)
     - **[Arxiv, 2025.09]** Hyperspherical Latents Improve Continuous-Token Autoregressive Generation [Paper](https://arxiv.org/abs/2509.24335) [Code](https://github.com/guolinke/SphereAR)
