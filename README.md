@@ -163,6 +163,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.10]** FARMER: Flow AutoRegressive Transformer over Pixels [Paper](https://arxiv.org/pdf/2510.23588) 
     - **[Arxiv, 2025.10]** SSD: Spatial-Semantic Head Decoupling for Efficient Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2510.18716) 
     - **[NeurIPS, 2025]** Visual Autoregressive Models Beat Diffusion Models on Inference Time Scaling [Paper](https://arxiv.org/pdf/2510.16751) 
     - **[NeurIPS, 2025]** Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy [Paper](https://arxiv.org/pdf/2510.09012) [Code](https://github.com/krennic999/ARsample)
@@ -410,6 +411,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv. 2025.10]** LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2510.22946) [Page](https://ucsc-vlaa.github.io/LightBagel/)
   - **[Arxiv. 2025.10]** Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation [Paper](https://arxiv.org/abs/2510.08673) [Code](https://github.com/KangLiao929/Puffin)
   - **[Arxiv, 2025.10]** SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models [Paper](https://arxiv.org/pdf/2510.12784) [Code](https://github.com/WayneJin0918/SRUM)
   - **[Arxiv, 2025.10]** UniFlow: A Unified Pixel Flow Tokenizer for Visual Understanding and Generation [Paper](https://arxiv.org/abs/2510.10575) [Code](https://github.com/ZhengrongYue/UniFlow)
