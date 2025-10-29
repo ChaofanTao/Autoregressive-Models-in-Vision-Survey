@@ -311,6 +311,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 #### Conditional Video Generation
    - ##### Text-to-Video Generation
+    - **[Arxiv, 2025.10]** Uniform Discrete Diffusion with Metric Path for Video Generation [Paper](https://arxiv.org/abs/2510.24717) [Code](https://github.com/baaivision/URSA) [Page](https://bitterdhg.github.io/URSA_page/)
      - **[Arxiv, 2025.10]** Autoregressive Video Generation beyond Next Frames Prediction [Paper](https://www.arxiv.org/abs/2509.24081) 
      - **[Arxiv, 2025.07]** Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective [Paper](https://arxiv.org/pdf/2507.08801) [Code](https://github.com/alibaba-damo-academy/Lumos)
      - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
@@ -594,6 +595,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
 
 ### Accelerating
+  - **[Arxiv, 2025.10]** MC-SJD: Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration [Paper](https://arxiv.org/html/2510.24211v1) 
   - **[NeurIPS 2025, Arxiv/2025.10]** Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation [Paper](https://arxiv.org/pdf/2510.08994) 
   - **[Arxiv, 2025.09]** Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2509.18824) [Page](https://hyper-bagel.github.io/)
   - **[Arxiv, 2025.07]** Locality-aware Parallel Decoding for Efficient Autoregressive Image Generation [Paper](https://arxiv.org/abs/2507.01957) [Code](https://github.com/mit-han-lab/lpd)
