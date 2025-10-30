@@ -412,6 +412,8 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[Arxiv, 2025.10]** Emu3.5: Native Multimodal Models are World Learners [Paper](https://emu.world/Emu35_tech_report.pdf) [Code](https://github.com/baaivision/Emu3.5)
+  - **[Arxiv, 2025.10]** PairUni: Pairwise Training for Unified Multimodal Language Models [Paper](https://arxiv.org/pdf/2510.25682) [Code](https://github.com/Haochen-Wang409/PairUni)
   - **[Arxiv. 2025.10]** LightBagel: A Light-weighted, Double Fusion Framework for Unified Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2510.22946) [Page](https://ucsc-vlaa.github.io/LightBagel/)
   - **[Arxiv. 2025.10]** Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation [Paper](https://arxiv.org/abs/2510.08673) [Code](https://github.com/KangLiao929/Puffin)
   - **[Arxiv, 2025.10]** SRUM: Fine-Grained Self-Rewarding for Unified Multimodal Models [Paper](https://arxiv.org/pdf/2510.12784) [Code](https://github.com/WayneJin0918/SRUM)
@@ -595,6 +597,7 @@ We will actively maintain this repository by incorporating new research as it em
   - **[Arxiv, 2025.02]** Privacy Attacks on Image AutoRegressive Models [Paper](https://arxiv.org/abs/2502.02514) [Code](https://github.com/sprintml/privacy_attacks_against_iars)
 
 ### Accelerating
+  - **[Arxiv, 2025.10]** Hawk: Leveraging Spatial Context for Faster Autoregressive Text-to-Image Generation [Paper](https://arxiv.org/pdf/2510.25739)
   - **[Arxiv, 2025.10]** MC-SJD: Maximal Coupling Speculative Jacobi Decoding for Autoregressive Visual Generation Acceleration [Paper](https://arxiv.org/html/2510.24211v1) 
   - **[NeurIPS 2025, Arxiv/2025.10]** Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive Text-to-image Generation [Paper](https://arxiv.org/pdf/2510.08994) 
   - **[Arxiv, 2025.09]** Hyper-Bagel: A Unified Acceleration Framework for Multimodal Understanding and Generation [Paper](https://arxiv.org/pdf/2509.18824) [Page](https://hyper-bagel.github.io/)
