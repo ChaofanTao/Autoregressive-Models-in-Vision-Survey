@@ -163,6 +163,7 @@ We will actively maintain this repository by incorporating new research as it em
 
     
     ##### Autoregressive Modeling
+    - **[Arxiv, 2025.11]** InfinityStar: Unified Spacetime AutoRegressive Modeling for Visual Generation [Paper](https://arxiv.org/pdf/2511.04675) [Code](https://github.com/FoundationVision/InfinityStar)
     - **[Arxiv, 2025.10]** FARMER: Flow AutoRegressive Transformer over Pixels [Paper](https://arxiv.org/pdf/2510.23588) 
     - **[Arxiv, 2025.10]** SSD: Spatial-Semantic Head Decoupling for Efficient Autoregressive Image Generation [Paper](https://arxiv.org/pdf/2510.18716) 
     - **[NeurIPS, 2025]** Visual Autoregressive Models Beat Diffusion Models on Inference Time Scaling [Paper](https://arxiv.org/pdf/2510.16751) 
