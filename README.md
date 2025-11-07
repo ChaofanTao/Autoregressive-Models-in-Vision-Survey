@@ -413,6 +413,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 ### Multimodal Generation
 #### Unified Understanding and Generation Multi-Modal LLMs
+  - **[NeurIPS, 2025]** JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation [Paper](https://openreview.net/pdf?id=MZoOpD9NHV) 
   - **[Arxiv, 2025.10]** Wave-Particle (Continuous-Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation [Paper](https://arxiv.org/abs/2511.01593) [Code](https://github.com/CHEN-YIZHU/WPIT)
   - **[Arxiv, 2025.10]** Emu3.5: Native Multimodal Models are World Learners [Paper](https://emu.world/Emu35_tech_report.pdf) [Code](https://github.com/baaivision/Emu3.5)
   - **[Arxiv, 2025.10]** PairUni: Pairwise Training for Unified Multimodal Language Models [Paper](https://arxiv.org/pdf/2510.25682) [Code](https://github.com/Haochen-Wang409/PairUni)
