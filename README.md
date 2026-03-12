@@ -312,7 +312,7 @@ We will actively maintain this repository by incorporating new research as it em
 
 #### Conditional Video Generation
    - ##### Text-to-Video Generation
-    - **[Arxiv, 2025.10]** Uniform Discrete Diffusion with Metric Path for Video Generation [Paper](https://arxiv.org/abs/2510.24717) [Code](https://github.com/baaivision/URSA) [Page](https://bitterdhg.github.io/URSA_page/)
+     - **[Arxiv, 2025.10]** Uniform Discrete Diffusion with Metric Path for Video Generation [Paper](https://arxiv.org/abs/2510.24717) [Code](https://github.com/baaivision/URSA) [Page](https://bitterdhg.github.io/URSA_page/)
      - **[Arxiv, 2025.10]** Autoregressive Video Generation beyond Next Frames Prediction [Paper](https://www.arxiv.org/abs/2509.24081) 
      - **[Arxiv, 2025.07]** Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective [Paper](https://arxiv.org/pdf/2507.08801) [Code](https://github.com/alibaba-damo-academy/Lumos)
      - **[Arxiv, 2025.05]** Generative Pre-trained Autoregressive Diffusion Transformer [Paper](https://arxiv.org/pdf/2505.07344) 
