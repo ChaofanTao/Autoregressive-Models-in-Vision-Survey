@@ -96,7 +96,8 @@ We will actively maintain this repository by incorporating new research as it em
     - [Motion Generation](#motion-generation)
     - [Point Cloud Generation](#point-cloud-generation)
     - [3D Medical Generation](#3d-medical-generation)
-  - [Multimodal Generation](#multimodal-generation)
+  - [Multimodal Understanding and Generation](#multimodal-understanding-and-generation)
+    - [Multimodal Understanding and Visual Encoder Pre-training](#multimodal-understanding-and-visual-encoder-pre-training)
     - [Unified Understanding and Generation Multi-Modal LLMs](#unified-understanding-and-generation-multi-modal-llms)
   - [Other Generation](#other-generation)
   - [Benchmark / Analysis](#benchmark--analysis)
@@ -411,7 +412,10 @@ We will actively maintain this repository by incorporating new research as it em
   - **[ICCV, 2023]** Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Corona-Figueroa_Unaligned_2D_to_3D_Translation_with_Conditional_Vector-Quantized_Code_Diffusion_ICCV_2023_paper.pdf) [Code](https://github.com/samb-t/x2ct-vqvae)
   - **[MICCAI, 2022]** Morphology-preserving Autoregressive 3D Generative Modelling of the Brain [Paper](https://arxiv.org/pdf/2209.03177) [Code](https://github.com/AmigoLab/SynthAnatomy)
 
-### Multimodal Generation
+### Multimodal Understanding and Generation
+#### Multimodal Understanding and Visual Encoder Pre-training
+* [**arXiv 2026**] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding. [Paper](https://arxiv.org/abs/2607.14935) [Code](https://github.com/MCG-NJU/VideoChat3). Stage-0 learns image/video encoder representations with text next-token prediction through a temporary language decoder.
+
 #### Unified Understanding and Generation Multi-Modal LLMs
   - **[NeurIPS, 2025]** JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation [Paper](https://openreview.net/pdf?id=MZoOpD9NHV) 
   - **[Arxiv, 2025.10]** Wave-Particle (Continuous-Discrete) Dualistic Visual Tokenization for Unified Understanding and Generation [Paper](https://arxiv.org/abs/2511.01593) [Code](https://github.com/CHEN-YIZHU/WPIT)
